@@ -1,0 +1,3321 @@
+,constituency,pid,mp,votes,vote_share,vote_share_change
+0,Aberavon,LAB,Stephen Kinnock,"17,008",53.8,-14.3
+1,Aberavon,CON,Charlotte Lang,"6,518",20.6,+2.9
+2,Aberavon,BRX,Glenda Davies,"3,108",9.8,+9.8
+3,Aberavon,PC,Nigel Hunt,"2,711",8.6,+0.3
+4,Aberavon,LD,Sheila Kingston-Jones,"1,072",3.4,+1.6
+5,Aberavon,IND,Captain Beany,731,2.3,+2.3
+6,Aberavon,GRN,Giorgia Finney,450,1.4,+1.4
+7,Aberconwy,CON,Robin Millar,"14,687",46.1,+1.5
+8,Aberconwy,LAB,Emily Owen,"12,653",39.7,-2.9
+9,Aberconwy,PC,Lisa Goodier,"2,704",8.5,-1.4
+10,Aberconwy,LD,Jason Edwards,"1,821",5.7,+2.8
+11,Aberdeen North,SNP,Kirsty Blackman,"20,205",54.0,+12.7
+12,Aberdeen North,CON,Ryan Houghton,"7,535",20.1,-2.6
+13,Aberdeen North,LAB,Nurul Ali,"4,939",13.2,-16.8
+14,Aberdeen North,LD,Isobel Davidson,"2,846",7.6,+3.0
+15,Aberdeen North,BRX,Seb Leslie,"1,008",2.7,+2.7
+16,Aberdeen North,GRN,Guy Ingerson,880,2.4,+2.4
+17,Aberdeen South,SNP,Stephen Flynn,"20,388",44.7,+13.2
+18,Aberdeen South,CON,Douglas Lumsden,"16,398",35.9,-6.2
+19,Aberdeen South,LD,Ian Yuill,"5,018",11.0,+5.1
+20,Aberdeen South,LAB,Shona Simpson,"3,834",8.4,-12.1
+21,Aberdeenshire West & Kincardine,CON,Andrew Bowie,"22,752",42.7,-5.2
+22,Aberdeenshire West & Kincardine,SNP,Fergus Mutch,"21,909",41.1,+8.6
+23,Aberdeenshire West & Kincardine,LD,John Waddell,"6,253",11.7,+3.1
+24,Aberdeenshire West & Kincardine,LAB,Paddy Coffield,"2,431",4.6,-6.5
+25,Airdrie & Shotts,SNP,Neil Gray,"17,929",45.1,+7.5
+26,Airdrie & Shotts,LAB,Helen McFarlane,"12,728",32.0,-5.1
+27,Airdrie & Shotts,CON,Lorraine Nolan,"7,011",17.6,-5.6
+28,Airdrie & Shotts,LD,William Crossman,"1,419",3.6,+1.5
+29,Airdrie & Shotts,GRN,Rosemary McGowan,685,1.7,+1.7
+30,Aldershot,CON,Leo Docherty,"27,980",58.4,+3.3
+31,Aldershot,LAB,Howard Kaye,"11,282",23.5,-8.1
+32,Aldershot,LD,Alan Hilliar,"6,920",14.4,+7.0
+33,Aldershot,GRN,Donna Wallace,"1,750",3.7,+1.4
+34,Aldridge-Brownhills,CON,Wendy Morton,"27,850",70.8,+5.4
+35,Aldridge-Brownhills,LAB,David Morgan,"8,014",20.4,-9.5
+36,Aldridge-Brownhills,LD,Ian Garrett,"2,371",6.0,+2.7
+37,Aldridge-Brownhills,GRN,Bill McComish,771,2.0,+2.0
+38,Aldridge-Brownhills,MRLP,Mark Beech,336,0.9,-0.6
+39,Altrincham & Sale West,CON,Graham Brady,"26,311",48.0,-3.0
+40,Altrincham & Sale West,LAB,Andrew Western,"20,172",36.8,-2.0
+41,Altrincham & Sale West,LD,Angela Smith,"6,036",11.0,+3.3
+42,Altrincham & Sale West,GRN,Geraldine Coggins,"1,566",2.9,+1.0
+43,Altrincham & Sale West,LIB,Neil Taylor,454,0.8,+0.3
+44,Altrincham & Sale West,IND,Iram Kiani,224,0.4,+0.4
+45,Alyn & Deeside,LAB,Mark Tami,"18,271",42.5,-9.6
+46,Alyn & Deeside,CON,Sanjoy Sen,"18,058",42.0,+1.6
+47,Alyn & Deeside,BRX,Simon Wall,"2,678",6.2,+6.2
+48,Alyn & Deeside,LD,Donna Lalek,"2,548",5.9,+3.5
+49,Alyn & Deeside,PC,Susan Hills,"1,453",3.4,+0.8
+50,Amber Valley,CON,Nigel Mills,"29,096",63.9,+7.3
+51,Amber Valley,LAB,Adam Thompson,"12,210",26.8,-11.6
+52,Amber Valley,LD,Kate Smith,"2,873",6.3,+3.9
+53,Amber Valley,GRN,Lian Pizzey,"1,388",3.0,+1.6
+54,Angus,SNP,Dave Doogan,"21,216",49.1,+10.6
+55,Angus,CON,Kirstene Hair,"17,421",40.4,-4.8
+56,Angus,LD,Ben Lawrie,"2,482",5.7,+2.5
+57,Angus,LAB,Monique Miller,"2,051",4.8,-8.3
+58,Arfon,PC,Hywel Williams,"13,134",45.2,+4.3
+59,Arfon,LAB,Steffie Williams Roberts,"10,353",35.6,-4.9
+60,Arfon,CON,Gonul Daniels,"4,428",15.2,-1.1
+61,Arfon,BRX,Gary Gribben,"1,159",4.0,+4.0
+62,Argyll & Bute,SNP,Brendan O'Hara,"21,040",43.8,+7.8
+63,Argyll & Bute,CON,Gary Mulvaney,"16,930",35.2,+2.0
+64,Argyll & Bute,LD,Alan Reid,"6,832",14.2,-4.0
+65,Argyll & Bute,LAB,Rhea Barnes,"3,248",6.8,-5.8
+66,Arundel & South Downs,CON,Andrew Griffith,"35,566",57.9,-4.4
+67,Arundel & South Downs,LD,Alison Bennett,"13,045",21.2,+13.3
+68,Arundel & South Downs,LAB,Bella Sankey,"9,722",15.8,-6.9
+69,Arundel & South Downs,GRN,Isabel Thurston,"2,519",4.1,-0.1
+70,Arundel & South Downs,IND,Robert Wheal,556,0.9,+0.9
+71,Ashfield,CON,Lee Anderson,"19,231",39.3,-2.4
+72,Ashfield,ASH,Jason Zadrozny,"13,498",27.6,+27.6
+73,Ashfield,LAB,Natalie Fleet,"11,971",24.4,-18.1
+74,Ashfield,BRX,Martin Daubney,"2,501",5.1,+5.1
+75,Ashfield,LD,Rebecca Wain,"1,105",2.3,+0.3
+76,Ashfield,GRN,Rose Woods,674,1.4,+0.6
+77,Ashford,CON,Damian Green,"37,270",62.1,+3.1
+78,Ashford,LAB,Dara Farrell,"13,241",22.0,-7.7
+79,Ashford,LD,Adrian Gee-Turner,"6,048",10.1,+4.9
+80,Ashford,GRN,Mandy Rossi,"2,638",4.4,+2.1
+81,Ashford,IND,Susannah De Sanvil,862,1.4,+1.4
+82,Ashton-under-Lyne,LAB,Angela Rayner,"18,544",48.1,-12.3
+83,Ashton-under-Lyne,CON,Dan Costello,"14,281",37.0,+5.1
+84,Ashton-under-Lyne,BRX,Derek Brocklehurst,"3,151",8.2,+8.2
+85,Ashton-under-Lyne,LD,George Rice,"1,395",3.6,+2.0
+86,Ashton-under-Lyne,GRN,Lee Huntbach,"1,208",3.1,+1.8
+87,Aylesbury,CON,Rob Butler,"32,737",54.0,-0.9
+88,Aylesbury,LAB,Liz Hind,"15,364",25.4,-4.7
+89,Aylesbury,LD,Steven Lambert,"10,081",16.6,+7.0
+90,Aylesbury,GRN,Coral Simpson,"2,394",4.0,+1.8
+91,"Ayr, Carrick & Cumnock",SNP,Allan Dorans,"20,272",43.5,+9.4
+92,"Ayr, Carrick & Cumnock",CON,Martin Dowey,"17,943",38.5,-1.6
+93,"Ayr, Carrick & Cumnock",LAB,Duncan Townson,"6,219",13.3,-10.5
+94,"Ayr, Carrick & Cumnock",LD,Helena Bongard,"2,158",4.6,+2.7
+95,Ayrshire Central,SNP,Philippa Whitford,"21,486",46.2,+9.0
+96,Ayrshire Central,CON,Derek Stillie,"16,182",34.8,+0.4
+97,Ayrshire Central,LAB,Louise McPhater,"6,583",14.1,-11.9
+98,Ayrshire Central,LD,Emma Farthing,"2,283",4.9,+2.6
+99,Ayrshire North & Arran,SNP,Patricia Gibson,"23,376",48.5,+9.6
+100,Ayrshire North & Arran,CON,David Rocks,"14,855",30.8,-0.4
+101,Ayrshire North & Arran,LAB,Cameron Gilmore,"6,702",13.9,-13.6
+102,Ayrshire North & Arran,LD,Louise Young,"2,107",4.4,+2.0
+103,Ayrshire North & Arran,GRN,David Nairn,"1,114",2.3,+2.3
+104,Banbury,CON,Victoria Prentis,"34,148",54.3,0.0
+105,Banbury,LAB,Suzette Watson,"17,335",27.6,-6.5
+106,Banbury,LD,Tim Bearder,"8,831",14.0,+8.4
+107,Banbury,GRN,Ian Middleton,"2,607",4.1,+2.2
+108,Banff & Buchan,CON,David Duguid,"21,182",50.1,+2.2
+109,Banff & Buchan,SNP,Paul Robertson,"17,064",40.4,+1.3
+110,Banff & Buchan,LD,Alison Smith,"2,280",5.4,+1.9
+111,Banff & Buchan,LAB,Brian Balcombe,"1,734",4.1,-5.3
+112,Barking,LAB,Margaret Hodge,"27,219",61.2,-6.6
+113,Barking,CON,Tamkeen Shaikh,"11,792",26.5,+4.0
+114,Barking,BRX,Karen Batley,"3,186",7.2,+7.2
+115,Barking,LD,Ann Haigh,"1,482",3.3,+2.1
+116,Barking,GRN,Shannon Butterfield,820,1.8,+0.3
+117,Barnsley Central,LAB,Dan Jarvis,"14,804",40.1,-23.8
+118,Barnsley Central,BRX,Victoria Felton,"11,233",30.4,+30.4
+119,Barnsley Central,CON,Iftikhar Ahmed,"7,892",21.4,-2.8
+120,Barnsley Central,LD,Will Sapwell,"1,176",3.2,+1.8
+121,Barnsley Central,GRN,Tom Heyes,900,2.4,+1.0
+122,Barnsley Central,YRKS,Ryan Williams,710,1.9,+1.9
+123,Barnsley Central,IND,Donald Wood,188,0.5,+0.5
+124,Barnsley East,LAB,Stephanie Peacock,"14,329",37.6,-21.9
+125,Barnsley East,BRX,Jim Ferguson,"11,112",29.2,+29.2
+126,Barnsley East,CON,Adam Gregg,"10,377",27.3,+0.3
+127,Barnsley East,LD,Sophie Thornton,"1,330",3.5,+1.7
+128,Barnsley East,GRN,Richard Trotman,922,2.4,+2.4
+129,Barrow & Furness,CON,Simon Fell,"23,876",51.9,+4.8
+130,Barrow & Furness,LAB,Chris Altree,"18,087",39.3,-8.2
+131,Barrow & Furness,LD,Loraine Birchall,"2,025",4.4,+1.7
+132,Barrow & Furness,BRX,Ged McGrath,"1,355",2.9,+2.9
+133,Barrow & Furness,GRN,Chris Loynes,703,1.5,+0.7
+134,Basildon & Billericay,CON,John Baron,"29,590",67.1,+6.1
+135,Basildon & Billericay,LAB,Andrew Gordon,"9,178",20.8,-10.3
+136,Basildon & Billericay,LD,Edward Sainsbury,"3,741",8.5,+5.0
+137,Basildon & Billericay,GRN,Stewart Goshawk,"1,395",3.2,+3.2
+138,Basildon & Billericay,SDP,Simon Breedon,224,0.5,+0.5
+139,Basildon South & Thurrock East,CON,Stephen Metcalfe,"29,973",66.2,+9.3
+140,Basildon South & Thurrock East,LAB,Jack Ferguson,"10,051",22.2,-10.3
+141,Basildon South & Thurrock East,IND,Kerry Smith,"3,316",7.3,+7.3
+142,Basildon South & Thurrock East,LD,Michael Bukola,"1,957",4.3,+2.8
+143,Basingstoke,CON,Maria Miller,"29,593",54.1,+1.4
+144,Basingstoke,LAB,Kerena Marchant,"15,395",28.1,-7.7
+145,Basingstoke,LD,Sashi Mylvaganam,"6,841",12.5,+6.4
+146,Basingstoke,GRN,Jonathan Jenkin,"2,138",3.9,+1.9
+147,Basingstoke,IND,Alan Stone,746,1.4,+1.4
+148,Bassetlaw,CON,Brendan Clarke-Smith,"28,078",55.2,+11.9
+149,Bassetlaw,LAB,Keir Morrison,"14,065",27.7,-24.9
+150,Bassetlaw,BRX,Debbie Soloman,"5,366",10.6,+10.6
+151,Bassetlaw,LD,Helen Tamblyn-Saville,"3,332",6.6,+4.3
+152,Bath,LD,Wera Hobhouse,"28,419",54.5,+7.2
+153,Bath,CON,Annabel Tall,"16,097",30.9,-4.9
+154,Bath,LAB,Mike Davies,"6,639",12.7,-1.9
+155,Bath,BRX,Jimi Ogunnusi,642,1.2,+1.2
+156,Bath,IND,Bill Blockhead,341,0.7,+0.7
+157,Batley & Spen,LAB,Tracy Brabin,"22,594",42.7,-12.8
+158,Batley & Spen,CON,Mark Brooks,"19,069",36.0,-2.8
+159,Batley & Spen,HWDI,Paul Halloran,"6,432",12.2,+12.2
+160,Batley & Spen,LD,John Lawson,"2,462",4.7,+2.4
+161,Batley & Spen,BRX,Clive Minihan,"1,678",3.2,+3.2
+162,Batley & Spen,GRN,Ty Akram,692,1.3,0.0
+163,Battersea,LAB,Marsha De Cordova,"27,290",45.5,-0.4
+164,Battersea,CON,Kim Caddy,"21,622",36.1,-5.5
+165,Battersea,LD,Mark Gitsham,"9,150",15.3,+7.3
+166,Battersea,GRN,Lois Davis,"1,529",2.5,+1.0
+167,Battersea,BRX,Jake Thomas,386,0.6,+0.6
+168,Beaconsfield,CON,Joy Morrissey,"32,477",56.1,-9.1
+169,Beaconsfield,IND,Dominic Grieve,"16,765",29.0,+29.0
+170,Beaconsfield,LAB,Alexa Collins,"5,756",9.9,-11.5
+171,Beaconsfield,GRN,Zoe Hatch,"2,033",3.5,+1.0
+172,Beaconsfield,IND,Adam Cleary,837,1.4,+1.4
+173,Beckenham,CON,Bob Stewart,"27,282",54.0,-5.4
+174,Beckenham,LAB,Marina Ahmad,"13,024",25.8,-4.3
+175,Beckenham,LD,Chloe-Jane Ross,"8,194",16.2,+8.3
+176,Beckenham,GRN,Ruth Fabricant,"2,055",4.1,+1.4
+177,Bedford,LAB,Mohammad Yasin,"20,491",43.3,-3.5
+178,Bedford,CON,Ryan Henson,"20,346",43.0,-2.2
+179,Bedford,LD,Henry Vann,"4,608",9.7,+3.9
+180,Bedford,GRN,Adrian Spurrell,960,2.0,0.0
+181,Bedford,BRX,Charles Bunker,896,1.9,+1.9
+182,Bedfordshire Mid,CON,Nadine Dorries,"38,692",59.8,-1.9
+183,Bedfordshire Mid,LAB,Rhiannon Meades,"14,028",21.7,-6.8
+184,Bedfordshire Mid,LD,Rachel McGann,"8,171",12.6,+6.6
+185,Bedfordshire Mid,GRN,Gareth Ellis,"2,478",3.8,+1.0
+186,Bedfordshire Mid,IND,Alan Victor,812,1.3,+1.3
+187,Bedfordshire Mid,MRLP,Ann Kelly,536,0.8,-0.2
+188,Bedfordshire North East,CON,Richard Fuller,"38,443",59.1,-1.8
+189,Bedfordshire North East,LAB,Julian Vaughan,"14,160",21.8,-6.7
+190,Bedfordshire North East,LD,Daniel Norton,"7,999",12.3,+6.6
+191,Bedfordshire North East,IND,Adam Zerny,"2,525",3.9,+3.9
+192,Bedfordshire North East,GRN,Philippa Fleming,"1,891",2.9,+1.0
+193,Bedfordshire South West,CON,Andrew Selous,"32,212",60.4,+1.2
+194,Bedfordshire South West,LAB,Callum Anderson,"13,629",25.6,-8.2
+195,Bedfordshire South West,LD,Emma Matanle,"5,435",10.2,+5.5
+196,Bedfordshire South West,GRN,Andrew Waters,"2,031",3.8,+2.1
+197,Belfast East,DUP,Gavin Robinson,"20,874",49.2,-6.6
+198,Belfast East,APNI,Naomi Long,"19,055",44.9,+8.9
+199,Belfast East,UUP,Carl McClean,"2,516",5.9,+2.6
+200,Belfast North,SF,John Finucane,"23,078",47.1,+5.4
+201,Belfast North,DUP,Nigel Dodds,"21,135",43.1,-3.1
+202,Belfast North,APNI,Nuala McAllister,"4,824",9.8,+4.4
+203,Belfast South,SDLP,Claire Hanna,"27,079",57.2,+31.3
+204,Belfast South,DUP,Emma Little Pengelly,"11,678",24.7,-5.8
+205,Belfast South,APNI,Paula Bradshaw,"6,786",14.3,-3.9
+206,Belfast South,UUP,Michael Henderson,"1,259",2.7,-0.8
+207,Belfast South,AONT,Chris McHugh,550,1.2,+1.2
+208,Belfast West,SF,Paul Maskey,"20,866",53.8,-12.9
+209,Belfast West,PBP,Gerry Carroll,"6,194",16.0,+5.8
+210,Belfast West,DUP,Frank McCoubrey,"5,220",13.5,0.0
+211,Belfast West,SDLP,Paul Doherty,"2,985",7.7,+0.7
+212,Belfast West,APNI,Donnamarie Higgins,"1,882",4.9,+3.1
+213,Belfast West,AONT,Monica Digney,"1,635",4.2,+4.2
+214,Bermondsey & Old Southwark,LAB,Neil Coyle,"31,723",54.1,+0.9
+215,Bermondsey & Old Southwark,LD,Humaira Ali,"15,597",26.6,-4.5
+216,Bermondsey & Old Southwark,CON,Andrew Baker,"9,678",16.5,+3.6
+217,Bermondsey & Old Southwark,BRX,Alex Matthews,"1,617",2.8,+2.8
+218,Berwick-upon-Tweed,CON,Anne-Marie Trevelyan,"23,947",56.9,+4.4
+219,Berwick-upon-Tweed,LAB,Trish Williams,"9,112",21.6,-2.9
+220,Berwick-upon-Tweed,LD,Tom Hancock,"7,656",18.2,-2.9
+221,Berwick-upon-Tweed,GRN,Thomas Stewart,"1,394",3.3,+1.4
+222,"Berwickshire, Roxburgh & Selkirk",CON,John Lamont,"25,747",48.4,-5.4
+223,"Berwickshire, Roxburgh & Selkirk",SNP,Calum Kerr,"20,599",38.8,+6.0
+224,"Berwickshire, Roxburgh & Selkirk",LD,Jenny Marr,"4,287",8.1,+3.3
+225,"Berwickshire, Roxburgh & Selkirk",LAB,Ian Davidson,"2,513",4.7,-3.9
+226,Bethnal Green & Bow,LAB,Rushanara Ali,"44,052",72.7,+0.9
+227,Bethnal Green & Bow,CON,Nicholas Stovold,"6,528",10.8,-1.9
+228,Bethnal Green & Bow,LD,Josh Babarinde,"5,892",9.7,+4.7
+229,Bethnal Green & Bow,GRN,Shahrar Ali,"2,570",4.2,+1.7
+230,Bethnal Green & Bow,BRX,David Axe,"1,081",1.8,+1.8
+231,Bethnal Green & Bow,ANWP,Vanessa Hudson,439,0.7,+0.7
+232,Beverley & Holderness,CON,Graham Stuart,"33,250",62.1,+3.7
+233,Beverley & Holderness,LAB,Chloe Hopkins,"12,802",23.9,-9.3
+234,Beverley & Holderness,LD,Denis Healy,"4,671",8.7,+3.7
+235,Beverley & Holderness,YRKS,Andy Shead,"1,441",2.7,+0.6
+236,Beverley & Holderness,GRN,Isabel Pires,"1,378",2.6,+1.3
+237,Bexhill & Battle,CON,Huw Merriman,"37,590",63.6,+1.6
+238,Bexhill & Battle,LAB,Christine Bayliss,"11,531",19.5,-5.2
+239,Bexhill & Battle,LD,Martin Saunders,"7,280",12.3,+4.8
+240,Bexhill & Battle,GRN,Jonathan Kent,"2,692",4.6,+2.1
+241,Bexleyheath & Crayford,CON,David Evennett,"25,856",59.8,+4.2
+242,Bexleyheath & Crayford,LAB,Anna Day,"12,753",29.5,-6.0
+243,Bexleyheath & Crayford,LD,David McBride,"2,819",6.5,+3.9
+244,Bexleyheath & Crayford,GRN,Tony Ball,"1,298",3.0,+1.7
+245,Bexleyheath & Crayford,ED,Graham Moore,520,1.2,+1.2
+246,Birkenhead,LAB,Mick Whitley,"24,990",59.0,-17.8
+247,Birkenhead,BSJP,Frank Field,"7,285",17.2,+17.2
+248,Birkenhead,CON,Claire Rowles,"5,540",13.1,-5.3
+249,Birkenhead,LD,Stuart Kelly,"1,620",3.8,+1.3
+250,Birkenhead,BRX,Darren Lythgoe,"1,489",3.5,+3.5
+251,Birkenhead,GRN,Pat Cleary,"1,405",3.3,+1.2
+252,Birmingham Edgbaston,LAB,Preet Gill,"21,217",50.1,-5.2
+253,Birmingham Edgbaston,CON,Alex Yip,"15,603",36.9,-2.6
+254,Birmingham Edgbaston,LD,Colin Green,"3,349",7.9,+4.3
+255,Birmingham Edgbaston,GRN,Phil Simpson,"1,112",2.6,+1.3
+256,Birmingham Edgbaston,BRX,David Wilks,"1,047",2.5,+2.5
+257,Birmingham Erdington,LAB,Jack Dromey,"17,720",50.3,-7.7
+258,Birmingham Erdington,CON,Robert Alden,"14,119",40.1,+1.7
+259,Birmingham Erdington,BRX,Wendy Garcarz,"1,441",4.1,+4.1
+260,Birmingham Erdington,LD,Ann Holtom,"1,301",3.7,+1.7
+261,Birmingham Erdington,GRN,Rob Grant,648,1.8,+0.2
+262,Birmingham Hall Green,LAB,Tahir Ali,"35,889",67.8,-9.8
+263,Birmingham Hall Green,CON,Penny-Anne O'Donnell,"7,381",13.9,-1.1
+264,Birmingham Hall Green,IND,Roger Godsiff,"4,273",8.1,+8.1
+265,Birmingham Hall Green,LD,Izzy Knowles,"3,673",6.9,+1.2
+266,Birmingham Hall Green,BRX,Rosie Cuckston,877,1.7,+1.7
+267,Birmingham Hall Green,GRN,Patrick Cox,818,1.5,0.0
+268,Birmingham Hodge Hill,LAB,Liam Byrne,"35,397",78.7,-2.4
+269,Birmingham Hodge Hill,CON,Akaal Sidhu,"6,742",15.0,+0.8
+270,Birmingham Hodge Hill,BRX,Jill Dagnan,"1,519",3.4,+3.4
+271,Birmingham Hodge Hill,LD,Waheed Rafiq,760,1.7,0.0
+272,Birmingham Hodge Hill,GRN,Jane McKears,328,0.7,-0.1
+273,Birmingham Hodge Hill,CPA,Hilda Johani,257,0.6,+0.6
+274,Birmingham Ladywood,LAB,Shabana Mahmood,"33,355",79.2,-3.5
+275,Birmingham Ladywood,CON,Mary Noone,"4,773",11.3,-1.9
+276,Birmingham Ladywood,LD,Lee Dargue,"2,228",5.3,+2.5
+277,Birmingham Ladywood,GRN,Alex Nettle,931,2.2,+0.9
+278,Birmingham Ladywood,BRX,Andrew Garcarz,831,2.0,+2.0
+279,Birmingham Northfield,CON,Gary Sambrook,"19,957",46.3,+3.6
+280,Birmingham Northfield,LAB,Richard Burden,"18,317",42.5,-10.7
+281,Birmingham Northfield,LD,Jamie Scott,"1,961",4.6,+2.4
+282,Birmingham Northfield,BRX,Keith Rowe,"1,655",3.8,+3.8
+283,Birmingham Northfield,GRN,Eleanor Masters,954,2.2,+0.3
+284,Birmingham Northfield,UKIP,Kenneth Lowry,254,0.6,+0.6
+285,Birmingham Perry Barr,LAB,Khalid Mahmood,"26,594",63.1,-5.0
+286,Birmingham Perry Barr,CON,Raaj Shamji,"11,277",26.8,+0.2
+287,Birmingham Perry Barr,LD,Gerry Jerome,"1,901",4.5,+2.1
+288,Birmingham Perry Barr,BRX,Annette Willcox,"1,382",3.3,+3.3
+289,Birmingham Perry Barr,GRN,Kefentse Dennis,845,2.0,+0.7
+290,Birmingham Perry Barr,YESH,Thomas Braich,148,0.4,+0.4
+291,Birmingham Selly Oak,LAB,Steve McCabe,"27,714",56.0,-6.9
+292,Birmingham Selly Oak,CON,Hannah Campbell,"15,300",30.9,-1.0
+293,Birmingham Selly Oak,LD,Dave Radcliffe,"3,169",6.4,+3.1
+294,Birmingham Selly Oak,GRN,Joe Peacock,"1,848",3.7,+1.9
+295,Birmingham Selly Oak,BRX,Joseph Tawonezvi,"1,436",2.9,+2.9
+296,Birmingham Yardley,LAB,Jess Phillips,"23,379",54.8,-2.3
+297,Birmingham Yardley,CON,Vincent Garrington,"12,720",29.8,+10.0
+298,Birmingham Yardley,LD,Roger Harmer,"3,754",8.8,-9.1
+299,Birmingham Yardley,BRX,Mary McKenna,"2,246",5.3,+5.3
+300,Birmingham Yardley,GRN,Christopher Garghan,579,1.4,+0.7
+301,Bishop Auckland,CON,Dehenna Davison,"24,067",53.7,+6.8
+302,Bishop Auckland,LAB,Helen Goodman,"16,105",35.9,-12.1
+303,Bishop Auckland,BRX,Nicholas Brown,"2,500",5.6,+5.6
+304,Bishop Auckland,LD,Ray Georgeson,"2,133",4.8,+2.0
+305,Blackburn,LAB,Kate Hollern,"29,040",64.9,-4.8
+306,Blackburn,CON,Claire Gill,"10,736",24.0,-2.9
+307,Blackburn,BRX,Rick Moore,"2,770",6.2,+6.2
+308,Blackburn,LD,Beth Waller-Slack,"1,130",2.5,+1.0
+309,Blackburn,GRN,Reza Hossain,741,1.7,+1.7
+310,Blackburn,IND,Rizwan Shah,319,0.7,+0.7
+311,Blackley & Broughton,LAB,Graham Stringer,"23,887",61.9,-8.6
+312,Blackley & Broughton,CON,Alexander Elias,"9,485",24.6,+3.0
+313,Blackley & Broughton,BRX,James Buckley,"2,736",7.1,+7.1
+314,Blackley & Broughton,LD,Iain Donaldson,"1,590",4.1,+2.3
+315,Blackley & Broughton,GRN,David Jones,920,2.4,+1.2
+316,Blackpool North & Cleveleys,CON,Paul Maynard,"22,364",57.6,+8.2
+317,Blackpool North & Cleveleys,LAB,Chris Webb,"13,768",35.5,-9.0
+318,Blackpool North & Cleveleys,LD,Sue Close,"1,494",3.9,+2.0
+319,Blackpool North & Cleveleys,GRN,Duncan Royle,735,1.9,+1.0
+320,Blackpool North & Cleveleys,IND,Neil Holden,443,1.1,+1.1
+321,Blackpool South,CON,Scott Benton,"16,247",49.6,+6.5
+322,Blackpool South,LAB,Gordon Marsden,"12,557",38.3,-12.0
+323,Blackpool South,BRX,David Brown,"2,009",6.1,+6.1
+324,Blackpool South,LD,Bill Greene,"1,008",3.1,+1.3
+325,Blackpool South,GRN,Becky Daniels,563,1.7,+0.7
+326,Blackpool South,IND,Gary Coleman,368,1.1,+1.1
+327,Blaenau Gwent,LAB,Nick Smith,"14,862",49.2,-8.8
+328,Blaenau Gwent,BRX,Richard Taylor,"6,215",20.6,+20.6
+329,Blaenau Gwent,CON,Laura Jones,"5,749",19.0,+4.3
+330,Blaenau Gwent,PC,Peredur Owen Griffiths,"1,722",5.7,-15.5
+331,Blaenau Gwent,LD,Chelsea-Marie Annett,"1,285",4.3,+3.3
+332,Blaenau Gwent,GRN,Stephen Priestnall,386,1.3,+1.3
+333,Blaydon,LAB,Liz Twist,"19,794",43.3,-12.8
+334,Blaydon,CON,Adrian Pepper,"14,263",31.2,+3.1
+335,Blaydon,BRX,Michael Robinson,"5,833",12.8,+12.8
+336,Blaydon,LD,Vicky Anderson,"3,703",8.1,-1.0
+337,Blaydon,GRN,Diane Cadman,"1,279",2.8,+1.6
+338,Blaydon,LIB,Kathy King,615,1.3,+1.3
+339,Blaydon,SNAV,Lisabela Marschild,118,0.3,+0.1
+340,Blaydon,IND,Lee Garrett,76,0.2,+0.2
+341,Blyth Valley,CON,Ian Levy,"17,440",42.7,+5.4
+342,Blyth Valley,LAB,Susan Dungworth,"16,728",40.9,-15.0
+343,Blyth Valley,BRX,Mark Peart,"3,394",8.3,+8.3
+344,Blyth Valley,LD,Thom Chapman,"2,151",5.3,+0.7
+345,Blyth Valley,GRN,Dawn Furness,"1,146",2.8,+0.6
+346,Bognor Regis & Littlehampton,CON,Nick Gibb,"32,521",63.5,+4.5
+347,Bognor Regis & Littlehampton,LAB,Alan Butcher,"10,018",19.6,-5.3
+348,Bognor Regis & Littlehampton,LD,Francis Oppler,"5,645",11.0,+4.5
+349,Bognor Regis & Littlehampton,GRN,Carol Birch,"1,826",3.6,+1.6
+350,Bognor Regis & Littlehampton,UKIP,David Kurten,846,1.7,-2.0
+351,Bognor Regis & Littlehampton,IND,Andrew Elston,367,0.7,+0.7
+352,Bolsover,CON,Mark Fletcher,"21,791",47.4,+6.9
+353,Bolsover,LAB,Dennis Skinner,"16,492",35.9,-16.0
+354,Bolsover,BRX,Kevin Harper,"4,151",9.0,+9.0
+355,Bolsover,LD,David Hancock,"1,759",3.8,+0.9
+356,Bolsover,GRN,David Kesteven,758,1.7,+1.7
+357,Bolsover,IND,Ross Walker,517,1.1,+1.1
+358,Bolsover,IND,Natalie Hoy,470,1.0,+1.0
+359,Bolton North East,CON,Mark Logan,"19,759",45.4,+3.2
+360,Bolton North East,LAB,David Crausby,"19,381",44.5,-6.1
+361,Bolton North East,BRX,Trevor Jones,"1,880",4.3,+4.3
+362,Bolton North East,LD,Warren Fox,"1,847",4.2,+1.3
+363,Bolton North East,GRN,Liz Spencer,689,1.6,+0.8
+364,Bolton South East,LAB,Yasmin Qureshi,"21,516",53.0,-7.7
+365,Bolton South East,CON,Johno Lee,"13,918",34.3,+4.6
+366,Bolton South East,BRX,Mark Cunningham,"2,968",7.3,+7.3
+367,Bolton South East,LD,Kev Walsh,"1,411",3.5,+1.6
+368,Bolton South East,GRN,David Figgins,791,1.9,+0.7
+369,Bolton West,CON,Chris Green,"27,255",55.3,+7.4
+370,Bolton West,LAB,Julie Hilling,"18,400",37.3,-8.8
+371,Bolton West,LD,Rebecca Forrest,"2,704",5.5,+2.6
+372,Bolton West,GRN,Paris Hayes,939,1.9,+1.9
+373,Bootle,LAB,Peter Dowd,"39,066",79.4,-4.6
+374,Bootle,CON,Tarsilo Onuluk,"4,510",9.2,-2.9
+375,Bootle,BRX,Kim Knight,"2,610",5.3,+5.3
+376,Bootle,LD,Rebecca Hanson,"1,822",3.7,+2.0
+377,Bootle,GRN,Mike Carter,"1,166",2.4,+1.0
+378,Boston & Skegness,CON,Matt Warman,"31,963",76.7,+13.1
+379,Boston & Skegness,LAB,Ben Cook,"6,342",15.2,-9.7
+380,Boston & Skegness,LD,Hilary Jones,"1,963",4.7,+2.9
+381,Boston & Skegness,IND,Peter Watson,"1,428",3.4,+3.4
+382,Bosworth,CON,Luke Evans,"36,056",63.9,+7.2
+383,Bosworth,LAB,Rick Middleton,"9,778",17.3,-6.7
+384,Bosworth,LD,Michael Mullaney,"9,096",16.1,-1.2
+385,Bosworth,GRN,Mick Gregg,"1,502",2.7,+0.8
+386,Bournemouth East,CON,Tobias Ellwood,"24,926",50.6,-1.3
+387,Bournemouth East,LAB,Corrie Drew,"16,120",32.7,-2.8
+388,Bournemouth East,LD,Philip Dunn,"5,418",11.0,+4.5
+389,Bournemouth East,GRN,Alasdair Keddie,"2,049",4.2,+1.6
+390,Bournemouth East,IND,Ben Aston,447,0.9,+0.9
+391,Bournemouth East,IND,Emma Johnson,314,0.6,+0.6
+392,Bournemouth West,CON,Conor Burns,"24,550",53.4,-0.1
+393,Bournemouth West,LAB,David Stokes,"14,400",31.3,-4.9
+394,Bournemouth West,LD,Jon Nicholas,"4,931",10.7,+4.1
+395,Bournemouth West,GRN,Simon Bull,"2,096",4.6,+1.8
+396,Bracknell,CON,James Sunderland,"31,894",58.7,-0.1
+397,Bracknell,LAB,Paul Bidwell,"12,065",22.2,-8.0
+398,Bracknell,LD,Kaweh Beheshtizadeh,"7,749",14.3,+6.8
+399,Bracknell,GRN,Derek Florey,"2,089",3.8,+3.8
+400,Bracknell,IND,Olivio Barreto,553,1.0,+0.2
+401,Bradford East,LAB,Imran Hussain,"27,825",63.0,-2.4
+402,Bradford East,CON,Linden Kemkaran,"9,681",21.9,+1.5
+403,Bradford East,LD,Jeanette Sunderland,"3,316",7.5,+5.7
+404,Bradford East,BRX,Jonathan Barras,"2,700",6.1,+6.1
+405,Bradford East,GRN,Andy Stanford,662,1.5,+0.9
+406,Bradford South,LAB,Judith Cummins,"18,390",46.3,-8.2
+407,Bradford South,CON,Narinder Sekhon,"16,044",40.4,+2.2
+408,Bradford South,BRX,Kulvinder Manik,"2,819",7.1,+7.1
+409,Bradford South,LD,Alun Griffiths,"1,505",3.8,+2.5
+410,Bradford South,GRN,Matthew Edwards,983,2.5,+1.6
+411,Bradford West,LAB,Naz Shah,"33,736",76.2,+11.5
+412,Bradford West,CON,Mohammed Afzal,"6,717",15.2,-1.4
+413,Bradford West,BRX,Derrick Hodgson,"1,556",3.5,+3.5
+414,Bradford West,LD,Mark Christie,"1,349",3.0,+1.5
+415,Bradford West,GRN,Darren Parkinson,813,1.8,+0.8
+416,Bradford West,IND,Azfar Bukhari,90,0.2,+0.2
+417,Braintree,CON,James Cleverly,"34,112",67.5,+4.7
+418,Braintree,LAB,Joshua Garfield,"9,439",18.7,-8.9
+419,Braintree,LD,Dominic Graham,"4,779",9.5,+5.2
+420,Braintree,IND,Jo Beavis,"1,488",2.9,+2.9
+421,Braintree,IND,David Mansell,420,0.8,+0.8
+422,Braintree,IND,Alan Dorkins,261,0.5,+0.5
+423,Brecon & Radnorshire,CON,Fay Jones,"21,958",53.1,+4.6
+424,Brecon & Radnorshire,LD,Jane Dodds,"14,827",35.9,+6.7
+425,Brecon & Radnorshire,LAB,Tomos Davies,"3,944",9.5,-8.2
+426,Brecon & Radnorshire,MRLP,Lady Lily The Pink,345,0.8,+0.8
+427,Brecon & Radnorshire,CHP,Jeff Green,245,0.6,+0.6
+428,Brent Central,LAB,Dawn Butler,"31,779",64.7,-8.4
+429,Brent Central,CON,David Brescia,"10,909",22.2,+2.7
+430,Brent Central,LD,Deborah Unger,"4,844",9.9,+5.0
+431,Brent Central,GRN,William Relton,"1,600",3.3,+1.7
+432,Brent North,LAB,Barry Gardiner,"26,911",51.9,-11.0
+433,Brent North,CON,Anjana Patel,"18,832",36.3,+3.6
+434,Brent North,LD,Paul Lorber,"4,065",7.8,+5.0
+435,Brent North,BRX,Suzie O'Brien,951,1.8,+1.8
+436,Brent North,GRN,Simon Rebbitt,850,1.6,+0.5
+437,Brent North,IND,Noel Coonan,169,0.3,+0.3
+438,Brent North,IND,Elcena Jeffers,101,0.2,+0.2
+439,Brentford & Isleworth,LAB,Ruth Cadbury,"29,266",50.2,-7.2
+440,Brentford & Isleworth,CON,Seena Shah,"18,752",32.2,-5.5
+441,Brentford & Isleworth,LD,Helen Cross,"7,314",12.5,+7.5
+442,Brentford & Isleworth,GRN,Daniel Goldsmith,"1,829",3.1,+3.1
+443,Brentford & Isleworth,BRX,Lucy O'Sullivan,"1,165",2.0,+2.0
+444,Brentwood & Ongar,CON,Alex Burghart,"36,308",68.6,+2.8
+445,Brentwood & Ongar,LAB,Oliver Durose,"7,243",13.7,-6.7
+446,Brentwood & Ongar,LD,David Kendall,"7,187",13.6,+5.2
+447,Brentwood & Ongar,GRN,Paul Jeater,"1,671",3.2,+1.4
+448,Brentwood & Ongar,ED,Robin Tilbrook,532,1.0,+1.0
+449,Bridgend,CON,Jamie Wallis,"18,193",43.1,+3.3
+450,Bridgend,LAB,Madeleine Moon,"17,036",40.3,-10.3
+451,Bridgend,LD,Jonathan Pratt,"2,368",5.6,+3.5
+452,Bridgend,PC,Leanne Lewis,"2,013",4.8,+0.6
+453,Bridgend,BRX,Robert Morgan,"1,811",4.3,+4.3
+454,Bridgend,GRN,Alex Harris,815,1.9,+1.9
+455,Bridgwater & Somerset West,CON,Ian Liddell-Grainger,"35,827",62.1,+7.0
+456,Bridgwater & Somerset West,LAB,Oliver Thornton,"11,388",19.8,-8.8
+457,Bridgwater & Somerset West,LD,Bill Revans,"7,805",13.5,+2.7
+458,Bridgwater & Somerset West,GRN,Mickie Ritchie,"1,877",3.3,+1.4
+459,Bridgwater & Somerset West,LIB,Farès Moussa,755,1.3,+1.3
+460,Brigg & Goole,CON,Andrew Percy,"30,941",71.3,+10.9
+461,Brigg & Goole,LAB,Majid Khan,"9,000",20.7,-12.2
+462,Brigg & Goole,LD,David Dobbie,"2,180",5.0,+3.2
+463,Brigg & Goole,GRN,Jo Baker,"1,281",3.0,+1.7
+464,Brighton Kemptown,LAB,Lloyd Russell-Moyle,"25,033",51.6,-6.8
+465,Brighton Kemptown,CON,Joe Miller,"16,972",35.0,-3.3
+466,Brighton Kemptown,LD,Ben Thomas,"2,964",6.1,+3.1
+467,Brighton Kemptown,GRN,Alexandra Phillips,"2,237",4.6,+4.6
+468,Brighton Kemptown,BRX,Graham Cushway,"1,327",2.7,+2.7
+469,Brighton Pavilion,GRN,Caroline Lucas,"33,151",57.2,+4.9
+470,Brighton Pavilion,LAB,Adam Imanpour,"13,211",22.8,-4.0
+471,Brighton Pavilion,CON,Emma Hogan,"10,176",17.5,-1.7
+472,Brighton Pavilion,BRX,Richard Milton,770,1.3,+1.3
+473,Brighton Pavilion,MRLP,Citizen Skwith,301,0.5,+0.5
+474,Brighton Pavilion,IND,Bob Dobbs,212,0.4,+0.4
+475,Brighton Pavilion,UKIP,Nigel Furness,177,0.3,-0.8
+476,Bristol East,LAB,Kerry McCarthy,"27,717",53.1,-7.6
+477,Bristol East,CON,Sarah Codling,"16,923",32.4,-1.9
+478,Bristol East,LD,Nicholas Coombes,"3,527",6.8,+4.0
+479,Bristol East,GRN,Conan Connolly,"2,106",4.0,+1.9
+480,Bristol East,BRX,Tim Page,"1,881",3.6,+3.6
+481,Bristol North West,LAB,Darren Jones,"27,330",48.9,-1.7
+482,Bristol North West,CON,Mark Weston,"21,638",38.7,-3.1
+483,Bristol North West,LD,Chris Coleman,"4,940",8.8,+3.6
+484,Bristol North West,GRN,Heather Mack,"1,977",3.5,+1.2
+485,Bristol South,LAB,Karin Smyth,"27,895",50.5,-9.5
+486,Bristol South,CON,Richard Morgan,"18,036",32.7,+2.0
+487,Bristol South,LD,Andrew Brown,"4,227",7.7,+4.3
+488,Bristol South,GRN,Tony Dyer,"2,713",4.9,+2.3
+489,Bristol South,BRX,Robert de Vito Boutin,"2,325",4.2,+4.2
+490,Bristol West,LAB,Thangam Debbonaire,"47,028",62.3,-3.7
+491,Bristol West,GRN,Carla Denyer,"18,809",24.9,+12.0
+492,Bristol West,CON,Suria Aujla,"8,822",11.7,-2.1
+493,Bristol West,BRX,Neil Hipkiss,869,1.2,+1.2
+494,Broadland,CON,Jerome Mayhew,"33,934",59.6,+1.7
+495,Broadland,LAB,Jess Barnard,"12,073",21.2,-8.5
+496,Broadland,LD,Ben Goodwin,"9,195",16.1,+8.2
+497,Broadland,GRN,Andrew Boswell,"1,412",2.5,+0.8
+498,Broadland,UGP,Simon Rous,363,0.6,+0.6
+499,Bromley & Chislehurst,CON,Bob Neill,"23,958",52.6,-1.4
+500,Bromley & Chislehurst,LAB,Angela Wilkins,"13,067",28.7,-4.7
+501,Bromley & Chislehurst,LD,Julie Ireland,"6,621",14.5,+7.3
+502,Bromley & Chislehurst,GRN,Mary Ion,"1,546",3.4,+0.9
+503,Bromley & Chislehurst,CPA,Zion Amodu,255,0.6,+0.6
+504,Bromley & Chislehurst,REN,Jyoti Dialani,119,0.3,+0.3
+505,Bromsgrove,CON,Sajid Javid,"34,408",63.4,+1.4
+506,Bromsgrove,LAB,Rory Shannon,"11,302",20.8,-10.5
+507,Bromsgrove,LD,David Nicholl,"6,779",12.5,+7.9
+508,Bromsgrove,GRN,Kevin White,"1,783",3.3,+1.2
+509,Broxbourne,CON,Charles Walker,"30,631",65.6,+3.4
+510,Broxbourne,LAB,Sean Waters,"10,824",23.2,-5.7
+511,Broxbourne,LD,Julia Bird,"3,970",8.5,+5.4
+512,Broxbourne,GRN,Nicholas Cox,"1,281",2.7,+1.0
+513,Broxtowe,CON,Darren Henry,"26,602",48.1,+1.3
+514,Broxtowe,LAB,Greg Marshall,"21,271",38.5,-6.8
+515,Broxtowe,TIG,Anna Soubry,"4,668",8.4,+8.4
+516,Broxtowe,GRN,Kat Boettge,"1,806",3.3,+2.0
+517,Broxtowe,ED,Amy Dalla Mura,432,0.8,+0.8
+518,Broxtowe,IND,Teck Khong,321,0.6,+0.6
+519,Broxtowe,CMEP,David Bishop,172,0.3,+0.3
+520,Buckingham,CON,Greg Smith,"37,035",58.4,-6.7
+521,Buckingham,LD,Stephen Dorrell,"16,624",26.2,+26.2
+522,Buckingham,LAB,David Morgan,"7,638",12.0,+12.0
+523,Buckingham,BRX,Andrew Bell,"1,286",2.0,+2.0
+524,Buckingham,IND,Ned Thompson,681,1.1,+1.1
+525,Buckingham,ED,Antonio Vitiello,194,0.3,+0.3
+526,Burnley,CON,Antony Higginbotham,"15,720",40.3,+9.4
+527,Burnley,LAB,Julie Cooper,"14,368",36.9,-9.9
+528,Burnley,LD,Gordon Birtwistle,"3,501",9.0,-6.0
+529,Burnley,BRX,Stewart Scott,"3,362",8.6,+8.6
+530,Burnley,BPI,Charlie Briggs,"1,162",3.0,+3.0
+531,Burnley,GRN,Laura Fisk,739,1.9,+0.8
+532,Burnley,IND,Karen Helsby Entwistle,132,0.3,+0.3
+533,Burton,CON,Kate Griffiths,"29,560",60.7,+2.7
+534,Burton,LAB,Louise Walker,"15,064",30.9,-6.9
+535,Burton,LD,Adam Wain,"2,681",5.5,+3.0
+536,Burton,GRN,Kate Copeland,"1,433",2.9,+1.3
+537,Bury North,CON,James Daly,"21,660",46.2,+1.8
+538,Bury North,LAB,James Frith,"21,555",46.0,-7.6
+539,Bury North,LD,Gareth Lloyd-Johnson,"1,584",3.4,+1.5
+540,Bury North,BRX,Alan McCarthy,"1,240",2.6,+2.6
+541,Bury North,GRN,Charlie Allen,802,1.7,+1.7
+542,Bury South,CON,Christian Wakeford,"22,034",43.8,+2.3
+543,Bury South,LAB,Lucy Burke,"21,632",43.0,-10.2
+544,Bury South,LD,Richard Kilpatrick,"2,315",4.6,+2.5
+545,Bury South,BRX,Andrea Livesey,"1,672",3.3,+3.3
+546,Bury South,IND,Ivan Lewis,"1,366",2.7,+2.7
+547,Bury South,GRN,Glyn Heath,848,1.7,+1.7
+548,Bury South,IND,Michael Boyle,277,0.6,+0.6
+549,Bury South,WEP,Gemma Evans,130,0.3,+0.3
+550,Bury St Edmunds,CON,Jo Churchill,"37,770",61.0,+1.8
+551,Bury St Edmunds,LAB,Cliff Waterman,"12,782",20.6,-8.9
+552,Bury St Edmunds,GRN,Helen Geake,"9,711",15.7,+11.5
+553,Bury St Edmunds,IND,Paul Hopfensperger,"1,694",2.7,+2.7
+554,Caerphilly,LAB,Wayne David,"18,018",44.9,-9.5
+555,Caerphilly,CON,Jane Pratt,"11,185",27.9,+2.7
+556,Caerphilly,PC,Lindsay Whittle,"6,424",16.0,+1.6
+557,Caerphilly,BRX,Nathan Gill,"4,490",11.2,+11.2
+558,"Caithness, Sutherland & Easter Ross",LD,Jamie Stone,"11,705",37.2,+1.4
+559,"Caithness, Sutherland & Easter Ross",SNP,Karl Rosie,"11,501",36.6,+7.4
+560,"Caithness, Sutherland & Easter Ross",CON,Andrew Sinclair,"5,176",16.5,-6.2
+561,"Caithness, Sutherland & Easter Ross",LAB,Cheryl McDonald,"1,936",6.2,-6.2
+562,"Caithness, Sutherland & Easter Ross",BRX,Sandra Skinner,"1,139",3.6,+3.6
+563,Calder Valley,CON,Craig Whittaker,"29,981",51.9,+5.7
+564,Calder Valley,LAB,Josh Fenton-Glynn,"24,207",41.9,-3.2
+565,Calder Valley,LD,Javed Bashir,"2,884",5.0,+1.6
+566,Calder Valley,LIB,Richard Phillips,721,1.2,+1.2
+567,Camberwell & Peckham,LAB,Harriet Harman,"40,258",71.3,-6.5
+568,Camberwell & Peckham,CON,Peter Quentin,"6,478",11.5,-1.3
+569,Camberwell & Peckham,LD,Julia Ogiehor,"5,087",9.0,+3.1
+570,Camberwell & Peckham,GRN,Claire Sheppard,"3,501",6.2,+3.4
+571,Camberwell & Peckham,BRX,Cass Cass-Horne,"1,041",1.8,+1.8
+572,Camberwell & Peckham,WRP,Joshua Ogunleye,127,0.2,0.0
+573,Camborne & Redruth,CON,George Eustice,"26,764",53.1,+5.7
+574,Camborne & Redruth,LAB,Paul Farmer,"18,064",35.9,-8.3
+575,Camborne & Redruth,LD,Florence MacDonald,"3,504",7.0,+0.8
+576,Camborne & Redruth,GRN,Karen La Borde,"1,359",2.7,+0.5
+577,Camborne & Redruth,LIB,Paul Holmes,676,1.3,+1.3
+578,Cambridge,LAB,Daniel Zeichner,"25,776",48.0,-3.9
+579,Cambridge,LD,Rod Cantrill,"16,137",30.0,+0.8
+580,Cambridge,CON,Russell Perrin,"8,342",15.5,-0.8
+581,Cambridge,GRN,Jeremy Caddick,"2,164",4.0,+1.8
+582,Cambridge,BRX,Peter Dawe,"1,041",1.9,+1.9
+583,Cambridge,IND,Miles Hurley,111,0.2,+0.2
+584,Cambridge,SDP,Jane Robins,91,0.2,+0.2
+585,Cambridge,RBD,Keith Garrett,67,0.1,-0.1
+586,Cambridgeshire North East,CON,Steve Barclay,"38,423",72.5,+8.1
+587,Cambridgeshire North East,LAB,Diane Boyd,"8,430",15.9,-8.6
+588,Cambridgeshire North East,LD,Rupert Moss-Eccardt,"4,298",8.1,+3.6
+589,Cambridgeshire North East,GRN,Ruth Johnson,"1,813",3.4,+1.5
+590,Cambridgeshire North West,CON,Shailesh Vara,"40,307",62.5,+3.8
+591,Cambridgeshire North West,LAB,Cathy Cordiner-Achenbach,"14,324",22.2,-8.3
+592,Cambridgeshire North West,LD,Bridget Smith,"6,881",10.7,+5.7
+593,Cambridgeshire North West,GRN,Nicola Day,"3,021",4.7,+2.7
+594,Cambridgeshire South,CON,Anthony Browne,"31,015",46.3,-5.5
+595,Cambridgeshire South,LD,Ian Sollom,"28,111",42.0,+23.4
+596,Cambridgeshire South,LAB,Dan Greef,"7,803",11.7,-15.6
+597,Cambridgeshire South East,CON,Lucy Frazer,"32,187",50.0,-3.3
+598,Cambridgeshire South East,LD,Pippa Heylings,"20,697",32.1,+13.2
+599,Cambridgeshire South East,LAB,James Bull,"10,492",16.3,-11.4
+600,Cambridgeshire South East,IND,Edmund Fordham,"1,009",1.6,+1.6
+601,Cannock Chase,CON,Amanda Milling,"31,636",68.3,+13.3
+602,Cannock Chase,LAB,Anne Hobbs,"11,757",25.4,-12.1
+603,Cannock Chase,GRN,Paul Woodhead,"2,920",6.3,+4.6
+604,Canterbury,LAB,Rosie Duffield,"29,018",48.3,+3.3
+605,Canterbury,CON,Anna Firth,"27,182",45.2,+0.5
+606,Canterbury,LD,Claire Malcomson,"3,408",5.7,-2.4
+607,Canterbury,IND,Michael Gould,505,0.8,+0.8
+608,Cardiff Central,LAB,Jo Stevens,"25,605",61.2,-1.2
+609,Cardiff Central,CON,Meirion Jenkins,"8,426",20.1,+0.3
+610,Cardiff Central,LD,Bablin Molik,"6,298",15.1,+1.6
+611,Cardiff Central,BRX,Gareth Pearce,"1,006",2.4,+2.4
+612,Cardiff Central,GWLD,Sian Caiach,280,0.7,+0.7
+613,Cardiff Central,IND,Akil Kata,119,0.3,+0.3
+614,Cardiff Central,SPGB,Brian Johnson,88,0.2,+0.2
+615,Cardiff North,LAB,Anna McMorrin,"26,064",49.5,-0.6
+616,Cardiff North,CON,Mo Ali,"19,082",36.2,-5.9
+617,Cardiff North,LD,Rhys Taylor,"3,580",6.8,+3.5
+618,Cardiff North,PC,Steffan Webb,"1,606",3.0,-0.3
+619,Cardiff North,BRX,Chris Butler,"1,311",2.5,+2.5
+620,Cardiff North,GRN,Michael Cope,820,1.6,+1.6
+621,Cardiff North,IND,Richard Jones,203,0.4,+0.4
+622,Cardiff South & Penarth,LAB,Stephen Doughty,"27,382",54.1,-5.4
+623,Cardiff South & Penarth,CON,Philippa Broom,"14,645",29.0,-1.2
+624,Cardiff South & Penarth,LD,Dan Schmeising,"2,985",5.9,+3.1
+625,Cardiff South & Penarth,PC,Nasir Adam,"2,386",4.7,+0.5
+626,Cardiff South & Penarth,BRX,Tim Price,"1,999",4.0,+4.0
+627,Cardiff South & Penarth,GRN,Ken Barker,"1,182",2.3,+1.3
+628,Cardiff West,LAB,Kevin Brennan,"23,908",51.8,-4.9
+629,Cardiff West,CON,Carolyn Webster,"12,922",28.0,-1.8
+630,Cardiff West,PC,Boyd Clack,"3,864",8.4,-1.1
+631,Cardiff West,LD,Callum Littlemore,"2,731",5.9,+3.3
+632,Cardiff West,BRX,Nick Mullins,"1,619",3.5,+3.5
+633,Cardiff West,GRN,David Griffin,"1,133",2.5,+2.5
+634,Carlisle,CON,John Stevenson,"23,659",55.2,+5.3
+635,Carlisle,LAB,Ruth Alcroft,"15,340",35.8,-8.1
+636,Carlisle,LD,Julia Aglionby,"2,829",6.6,+3.7
+637,Carlisle,UKIP,Fiona Mills,"1,045",2.4,-0.9
+638,Carmarthen East & Dinefwr,PC,Jonathan Edwards,"15,939",38.9,-0.4
+639,Carmarthen East & Dinefwr,CON,Havard Hughes,"14,130",34.5,+8.2
+640,Carmarthen East & Dinefwr,LAB,Maria Carroll,"8,622",21.0,-8.8
+641,Carmarthen East & Dinefwr,BRX,Peter Prosser,"2,311",5.6,+5.6
+642,Carmarthen West & Pembrokeshire South,CON,Simon Hart,"22,183",52.7,+5.9
+643,Carmarthen West & Pembrokeshire South,LAB,Marc Tierney,"14,438",34.3,-5.2
+644,Carmarthen West & Pembrokeshire South,PC,Rhys Thomas,"3,633",8.6,-0.7
+645,Carmarthen West & Pembrokeshire South,LD,Alistair Cameron,"1,860",4.4,+2.2
+646,Carshalton & Wallington,CON,Elliot Colburn,"20,822",42.4,+4.1
+647,Carshalton & Wallington,LD,Tom Brake,"20,193",41.1,+0.1
+648,Carshalton & Wallington,LAB,Ahmad Wattoo,"6,081",12.4,-6.1
+649,Carshalton & Wallington,BRX,James Woudhuysen,"1,043",2.1,+2.1
+650,Carshalton & Wallington,GRN,Tracey Hague,759,1.5,+0.6
+651,Carshalton & Wallington,CPA,Ashley Dickenson,200,0.4,0.0
+652,Castle Point,CON,Rebecca Harris,"33,971",76.7,+9.5
+653,Castle Point,LAB,Katie Curtis,"7,337",16.6,-8.5
+654,Castle Point,LD,John Howson,"2,969",6.7,+4.4
+655,Ceredigion,PC,Ben Lake,"15,208",37.9,+8.7
+656,Ceredigion,CON,Amanda Jenner,"8,879",22.1,+3.8
+657,Ceredigion,LD,Mark Williams,"6,975",17.4,-11.6
+658,Ceredigion,LAB,Dinah Mulholland,"6,317",15.8,-4.4
+659,Ceredigion,BRX,Gethin James,"2,063",5.1,+5.1
+660,Ceredigion,GRN,Chris Simpson,663,1.7,+0.3
+661,Charnwood,CON,Edward Argar,"35,121",63.4,+3.1
+662,Charnwood,LAB,Gary Godden,"12,724",23.0,-7.8
+663,Charnwood,LD,Kate Tipton,"4,856",8.8,+5.1
+664,Charnwood,GRN,Laurie Needham,"2,664",4.8,+2.9
+665,Chatham & Aylesford,CON,Tracey Crouch,"28,856",66.6,+9.6
+666,Chatham & Aylesford,LAB,Vince Maple,"10,316",23.8,-9.9
+667,Chatham & Aylesford,LD,David Naghi,"2,866",6.6,+4.1
+668,Chatham & Aylesford,GRN,Geoff Wilkinson,"1,090",2.5,+1.2
+669,Chatham & Aylesford,CPA,John Gibson,212,0.5,-0.1
+670,Cheadle,CON,Mary Robinson,"25,694",46.0,+1.4
+671,Cheadle,LD,Tom Morrison,"23,358",41.8,+5.5
+672,Cheadle,LAB,Zahid Chauhan,"6,851",12.3,-6.8
+673,Chelmsford,CON,Vicky Ford,"31,934",55.9,+2.2
+674,Chelmsford,LD,Marie Goldman,"14,313",25.1,+12.9
+675,Chelmsford,LAB,Penny Richards,"10,295",18.0,-11.8
+676,Chelmsford,MRLP,Mark Lawrence,580,1.0,+1.0
+677,Chelsea & Fulham,CON,Greg Hands,"23,345",49.9,-2.8
+678,Chelsea & Fulham,LD,Nicola Horlick,"12,104",25.9,+14.9
+679,Chelsea & Fulham,LAB,Matt Uberoi,"10,872",23.2,-10.0
+680,Chelsea & Fulham,ANWP,Samuel Morland,500,1.1,+1.1
+681,Cheltenham,CON,Alex Chalk,"28,486",48.0,+1.3
+682,Cheltenham,LD,Max Wilkinson,"27,505",46.3,+4.2
+683,Cheltenham,LAB,George Penny,"2,921",4.9,-4.6
+684,Cheltenham,MRLP,George Ridgeon,445,0.7,+0.7
+685,Chesham & Amersham,CON,Cheryl Gillan,"30,850",55.4,-5.3
+686,Chesham & Amersham,LD,Dan Gallagher,"14,627",26.3,+13.3
+687,Chesham & Amersham,LAB,Matt Turmaine,"7,166",12.9,-7.7
+688,Chesham & Amersham,GRN,Alan Booth,"3,042",5.5,+2.5
+689,"Chester, City of",LAB,Chris Matheson,"27,082",49.6,-7.1
+690,"Chester, City of",CON,Samantha George,"20,918",38.3,-2.2
+691,"Chester, City of",LD,Bob Thompson,"3,734",6.8,+4.1
+692,"Chester, City of",GRN,Nicholas Brown,"1,438",2.6,+2.6
+693,"Chester, City of",BRX,Andy Argyle,"1,388",2.5,+2.5
+694,Chesterfield,LAB,Toby Perkins,"18,171",40.2,-14.6
+695,Chesterfield,CON,Leigh Higgins,"16,720",37.0,+2.2
+696,Chesterfield,BRX,John Scotting,"4,771",10.6,+10.6
+697,Chesterfield,LD,Emily Coy,"3,985",8.8,+3.4
+698,Chesterfield,GRN,Neil Jackson,"1,148",2.5,+0.9
+699,Chesterfield,IND,John Daramy,391,0.9,+0.9
+700,Chichester,CON,Gillian Keegan,"35,402",57.8,-2.3
+701,Chichester,LD,Kate O'Kelly,"13,912",22.7,+11.5
+702,Chichester,LAB,Jay Morton,"9,069",14.8,-7.6
+703,Chichester,GRN,Heather Barrie,"2,527",4.1,+0.8
+704,Chichester,LBT,Adam Brown,224,0.4,+0.4
+705,Chichester,PATR,Andrew Emerson,109,0.2,0.0
+706,Chingford & Woodford Green,CON,Iain Duncan Smith,"23,481",48.5,-0.7
+707,Chingford & Woodford Green,LAB,Faiza Shaheen,"22,219",45.9,+1.9
+708,Chingford & Woodford Green,LD,Geoff Seeff,"2,744",5.7,+1.3
+709,Chippenham,CON,Michelle Donelan,"30,994",54.3,-0.4
+710,Chippenham,LD,Helen Belcher,"19,706",34.5,+8.9
+711,Chippenham,LAB,Martha Anachury,"6,399",11.2,-8.5
+712,Chipping Barnet,CON,Theresa Villiers,"25,745",44.7,-1.6
+713,Chipping Barnet,LAB,Emma Whysall,"24,533",42.6,-3.1
+714,Chipping Barnet,LD,Isabelle Parasram,"5,932",10.3,+4.9
+715,Chipping Barnet,GRN,Gabrielle Bailey,"1,288",2.2,-0.3
+716,Chipping Barnet,ADV,John Sheffield,71,0.1,+0.1
+717,Chorley,SPE,Lindsay Hoyle,"26,831",67.3,+12.0
+718,Chorley,IND,Mark Brexit-Smith,"9,439",23.7,+23.7
+719,Chorley,GRN,James Melling,"3,600",9.0,+8.1
+720,Christchurch,CON,Christopher Chope,"33,894",65.2,-4.3
+721,Christchurch,LD,Mike Cox,"9,277",17.9,+9.9
+722,Christchurch,LAB,Andrew Dunne,"6,568",12.6,-7.2
+723,Christchurch,GRN,Chris Rigby,"2,212",4.3,+1.6
+724,Cities of London & Westminster,CON,Nickie Aiken,"17,049",39.9,-6.7
+725,Cities of London & Westminster,LD,Chuka Umunna,"13,096",30.7,+19.6
+726,Cities of London & Westminster,LAB,Gordon Nardell,"11,624",27.2,-11.2
+727,Cities of London & Westminster,GRN,Zack Polanski,728,1.7,-0.4
+728,Cities of London & Westminster,CPA,Jill McLachlan,125,0.3,+0.3
+729,Cities of London & Westminster,LIB,Dirk van Heck,101,0.2,+0.2
+730,Clacton,CON,Giles Watling,"31,438",72.3,+11.0
+731,Clacton,LAB,Kevin Bonavia,"6,736",15.5,-9.9
+732,Clacton,LD,Callum Robertson,"2,541",5.8,+3.8
+733,Clacton,GRN,Chris Southall,"1,225",2.8,+1.2
+734,Clacton,IND,Andy Morgan,"1,099",2.5,+2.5
+735,Clacton,IND,Colin Bennett,243,0.6,+0.6
+736,Clacton,MRLP,Just-John Sexton,224,0.5,+0.5
+737,Cleethorpes,CON,Martin Vickers,"31,969",69.0,+11.9
+738,Cleethorpes,LAB,Ros James,"10,551",22.8,-12.6
+739,Cleethorpes,LD,Roy Horobin,"2,535",5.5,+3.2
+740,Cleethorpes,GRN,Jodi Shanahan,"1,284",2.8,+1.8
+741,Clwyd South,CON,Simon Baynes,"16,222",44.7,+5.6
+742,Clwyd South,LAB,Susan Elan Jones,"14,983",41.3,-9.4
+743,Clwyd South,PC,Chris Allen,"2,137",5.9,-0.2
+744,Clwyd South,LD,Calum Davies,"1,496",4.1,+2.2
+745,Clwyd South,BRX,Jamie Adams,"1,468",4.0,+4.0
+746,Clwyd West,CON,David Jones,"20,403",50.7,+2.7
+747,Clwyd West,LAB,Jo Thomas,"13,656",34.0,-5.6
+748,Clwyd West,PC,Elfed Williams,"3,907",9.7,+0.1
+749,Clwyd West,LD,David Wilkins,"2,237",5.6,+2.9
+750,"Coatbridge, Chryston & Bellshill",SNP,Steven Bonnar,"22,680",47.0,+7.9
+751,"Coatbridge, Chryston & Bellshill",LAB,Hugh Gaffney,"17,056",35.4,-7.2
+752,"Coatbridge, Chryston & Bellshill",CON,Nathan Wilson,"6,113",12.7,-3.6
+753,"Coatbridge, Chryston & Bellshill",LD,David Stevens,"1,564",3.2,+1.2
+754,"Coatbridge, Chryston & Bellshill",GRN,Patrick McAleer,808,1.7,+1.7
+755,Colchester,CON,Will Quince,"26,917",50.4,+4.6
+756,Colchester,LAB,Tina McKay,"17,494",32.8,-2.5
+757,Colchester,LD,Martin Goss,"7,432",13.9,-3.0
+758,Colchester,GRN,Mark Goacher,"1,530",2.9,+1.3
+759,Colne Valley,CON,Jason McCartney,"29,482",48.4,+2.2
+760,Colne Valley,LAB,Thelma Walker,"24,379",40.0,-7.7
+761,Colne Valley,LD,Cahal Burke,"3,815",6.3,+2.1
+762,Colne Valley,BRX,Sue Harrison,"1,286",2.1,+2.1
+763,Colne Valley,GRN,Darryl Gould,"1,068",1.8,+0.3
+764,Colne Valley,YRKS,Owen Aspinall,548,0.9,+0.9
+765,Colne Valley,UKIP,Melanie Roberts,230,0.4,+0.4
+766,Colne Valley,IND,Colin Peel,102,0.2,+0.2
+767,Congleton,CON,Fiona Bruce,"33,747",59.0,+2.4
+768,Congleton,LAB,Jo Dale,"15,186",26.5,-7.6
+769,Congleton,LD,Paul Duffy,"6,026",10.5,+5.4
+770,Congleton,GRN,Richard McCarthy,"1,616",2.8,+1.0
+771,Congleton,ANWP,Jane Smith,658,1.1,+1.1
+772,Copeland,CON,Trudy Harrison,"22,856",53.7,+4.7
+773,Copeland,LAB,Tony Lywood,"17,014",40.0,-5.1
+774,Copeland,LD,John Studholme,"1,888",4.4,+1.2
+775,Copeland,GRN,Jack Lenox,765,1.8,+1.8
+776,Corby,CON,Tom Pursglove,"33,410",55.2,+6.0
+777,Corby,LAB,Beth Miller,"23,142",38.3,-6.5
+778,Corby,LD,Chris Stanbra,"3,932",6.5,+3.9
+779,Cornwall North,CON,Scott Mann,"30,671",59.4,+8.6
+780,Cornwall North,LD,Danny Chambers,"15,919",30.8,-5.8
+781,Cornwall North,LAB,Joy Bassett,"4,516",8.7,-3.3
+782,Cornwall North,LIB,Elmars Liepins,572,1.1,+1.1
+783,Cornwall South East,CON,Sheryll Murray,"31,807",59.3,+3.9
+784,Cornwall South East,LAB,Gareth Derrick,"10,836",20.2,-2.4
+785,Cornwall South East,LD,Colin Martin,"8,650",16.1,-3.3
+786,Cornwall South East,GRN,Martha Green,"1,493",2.8,+0.3
+787,Cornwall South East,LIB,Jay Latham,869,1.6,+1.6
+788,"Cotswolds, The",CON,Geoffrey Clifton-Brown,"35,484",58.0,-2.6
+789,"Cotswolds, The",LD,Liz Webster,"15,270",25.0,+8.6
+790,"Cotswolds, The",LAB,Alan MacKenzie,"7,110",11.6,-6.3
+791,"Cotswolds, The",GRN,Sabrina Poole,"3,312",5.4,+2.5
+792,Coventry North East,LAB,Colleen Fletcher,"23,412",52.7,-10.8
+793,Coventry North East,CON,Sophie Richards,"15,720",35.4,+5.4
+794,Coventry North East,BRX,Iddrisu Sufyan,"2,110",4.7,+4.7
+795,Coventry North East,LD,Nukey Proctor,"2,061",4.6,+2.1
+796,Coventry North East,GRN,Matthew Handley,"1,141",2.6,+1.5
+797,Coventry North West,LAB,Taiwo Owatemi,"20,918",43.8,-10.1
+798,Coventry North West,CON,Clare Golby,"20,710",43.4,+6.6
+799,Coventry North West,LD,Greg Judge,"2,717",5.7,+3.1
+800,Coventry North West,BRX,Joshua Richardson,"1,956",4.1,+4.1
+801,Coventry North West,GRN,Stephen Gray,"1,443",3.0,+1.7
+802,Coventry South,LAB,Zarah Sultana,"19,544",43.4,-11.7
+803,Coventry South,CON,Mattie Heaven,"19,143",42.5,+4.4
+804,Coventry South,LD,Stephen Richmond,"3,398",7.5,+4.7
+805,Coventry South,BRX,James Crocker,"1,432",3.2,+3.2
+806,Coventry South,GRN,Becky Finlayson,"1,092",2.4,+1.1
+807,Coventry South,IND,Ed Manning,435,1.0,+1.0
+808,Crawley,CON,Henry Smith,"27,040",54.2,+3.6
+809,Crawley,LAB,Peter Lamb,"18,680",37.4,-8.3
+810,Crawley,LD,Khalil Yousuf,"2,728",5.5,+1.7
+811,Crawley,GRN,Iain Dickson,"1,451",2.9,+2.9
+812,Crewe & Nantwich,CON,Kieran Mullan,"28,704",53.1,+6.1
+813,Crewe & Nantwich,LAB,Laura Smith,"20,196",37.4,-9.7
+814,Crewe & Nantwich,LD,Matthew Theobald,"2,618",4.8,+2.4
+815,Crewe & Nantwich,BRX,Matt Wood,"1,390",2.6,+2.6
+816,Crewe & Nantwich,GRN,Te Ata Browne,975,1.8,+1.8
+817,Crewe & Nantwich,LBT,Andrew Kinsman,149,0.3,+0.3
+818,Croydon Central,LAB,Sarah Jones,"27,124",50.2,-2.1
+819,Croydon Central,CON,Mario Creatura,"21,175",39.2,-3.2
+820,Croydon Central,LD,Simon Sprague,"3,532",6.5,+4.6
+821,Croydon Central,GRN,Esther Sutton,"1,215",2.2,+1.2
+822,Croydon Central,BRX,Peter Sonnex,999,1.8,+1.8
+823,Croydon North,LAB,Steve Reed,"36,495",65.6,-8.5
+824,Croydon North,CON,Donald Ekekhomen,"11,822",21.3,+1.4
+825,Croydon North,LD,Claire Bonham,"4,476",8.0,+5.3
+826,Croydon North,GRN,Rachel Chance,"1,629",2.9,+1.3
+827,Croydon North,BRX,Chidi Ngwaba,839,1.5,+1.5
+828,Croydon North,CPA,Candace Mitchell,348,0.6,+0.6
+829,Croydon South,CON,Chris Philp,"30,985",52.2,-2.2
+830,Croydon South,LAB,Olga Fitzroy,"18,646",31.4,-4.4
+831,Croydon South,LD,Anna Jones,"7,503",12.6,+6.9
+832,Croydon South,GRN,Peter Underwood,"1,782",3.0,+1.2
+833,Croydon South,UKIP,Kathleen Garner,442,0.7,-1.1
+834,"Cumbernauld, Kilsyth & Kirkintilloch East",SNP,Stuart McDonald,"24,158",52.9,+9.3
+835,"Cumbernauld, Kilsyth & Kirkintilloch East",LAB,James McPhilemy,"11,182",24.5,-9.4
+836,"Cumbernauld, Kilsyth & Kirkintilloch East",CON,Roz McCall,"7,380",16.2,-2.1
+837,"Cumbernauld, Kilsyth & Kirkintilloch East",LD,Susan Murray,"2,966",6.5,+3.7
+838,Cynon Valley,LAB,Beth Winter,"15,533",51.4,-9.6
+839,Cynon Valley,CON,Pauline Church,"6,711",22.2,+2.8
+840,Cynon Valley,BRX,Rebecca Rees-Evans,"3,045",10.1,+10.1
+841,Cynon Valley,PC,Geraint Benney,"2,562",8.5,-5.3
+842,Cynon Valley,CVP,Andrew Chainey,"1,322",4.4,+4.4
+843,Cynon Valley,LD,Steve Bray,949,3.1,+1.3
+844,Cynon Valley,SDP,Ian Mclean,114,0.4,+0.4
+845,Dagenham & Rainham,LAB,Jon Cruddas,"19,468",44.5,-5.6
+846,Dagenham & Rainham,CON,Damian White,"19,175",43.8,+3.9
+847,Dagenham & Rainham,BRX,Tom Bewick,"2,887",6.6,+6.6
+848,Dagenham & Rainham,LD,Sam Fisk,"1,182",2.7,+1.7
+849,Dagenham & Rainham,GRN,Azzees Minott,602,1.4,+0.2
+850,Dagenham & Rainham,IND,Ron Emin,212,0.5,+0.5
+851,Dagenham & Rainham,IND,Terry London,209,0.5,+0.5
+852,Darlington,CON,Peter Gibson,"20,901",48.1,+4.8
+853,Darlington,LAB,Jenny Chapman,"17,607",40.5,-10.1
+854,Darlington,LD,Anne-Marie Curry,"2,097",4.8,+2.5
+855,Darlington,BRX,Dave Mawson,"1,544",3.5,+3.5
+856,Darlington,GRN,Matthew Snedker,"1,057",2.4,+1.3
+857,Darlington,IND,Monty Brack,292,0.7,+0.7
+858,Dartford,CON,Gareth Johnson,"34,006",62.9,+5.4
+859,Dartford,LAB,Sacha Gosine,"14,846",27.5,-5.8
+860,Dartford,LD,Kyle Marsh,"3,735",6.9,+4.3
+861,Dartford,GRN,Mark Lindop,"1,435",2.7,+1.2
+862,Daventry,CON,Chris Heaton-Harris,"37,055",64.6,+0.8
+863,Daventry,LAB,Paul Joyce,"10,975",19.1,-5.5
+864,Daventry,LD,Andrew Simpson,"7,032",12.3,+5.0
+865,Daventry,GRN,Clare Slater,"2,341",4.1,+2.4
+866,Delyn,CON,Rob Roberts,"16,756",43.7,+2.2
+867,Delyn,LAB,David Hanson,"15,891",41.4,-10.8
+868,Delyn,LD,Andrew Parkhurst,"2,346",6.1,+3.5
+869,Delyn,BRX,Nigel Williams,"1,971",5.1,+5.1
+870,Delyn,PC,Paul Rowlinson,"1,406",3.7,-0.1
+871,Denton & Reddish,LAB,Andrew Gwynne,"19,317",50.1,-13.5
+872,Denton & Reddish,CON,Iain Bott,"13,142",34.1,+6.1
+873,Denton & Reddish,BRX,Martin Power,"3,039",7.9,+7.9
+874,Denton & Reddish,LD,Dominic Hardwick,"1,642",4.3,+2.1
+875,Denton & Reddish,GRN,Gary Lawson,"1,124",2.9,+1.7
+876,Denton & Reddish,MRLP,Farmin Dave,324,0.8,+0.3
+877,Derby North,CON,Amanda Solloway,"21,259",45.2,+0.8
+878,Derby North,LAB,Tony Tinley,"18,719",39.8,-8.7
+879,Derby North,LD,Gregory Webb,"3,450",7.3,+2.7
+880,Derby North,BRX,Alan Graves,"1,908",4.1,+4.1
+881,Derby North,GRN,Helen Hitchcock,"1,046",2.2,+2.2
+882,Derby North,IND,Chris Williamson,635,1.4,+1.4
+883,Derby South,LAB,Margaret Beckett,"21,690",51.1,-7.3
+884,Derby South,CON,Ed Barker,"15,671",36.9,+3.4
+885,Derby South,LD,Joe Naitta,"2,621",6.2,+3.5
+886,Derby South,BRX,Timothy Prosser,"2,480",5.8,+5.8
+887,Derbyshire Dales,CON,Sarah Dines,"29,356",58.7,-1.3
+888,Derbyshire Dales,LAB,Claire Raw,"11,975",23.9,-7.2
+889,Derbyshire Dales,LD,Robert Court,"6,627",13.2,+6.9
+890,Derbyshire Dales,GRN,Matt Buckler,"2,058",4.1,+2.1
+891,Derbyshire Mid,CON,Pauline Latham,"29,027",58.8,+0.2
+892,Derbyshire Mid,LAB,Emma Monkman,"13,642",27.6,-7.9
+893,Derbyshire Mid,LD,Felix Dodds,"4,756",9.6,+6.1
+894,Derbyshire Mid,GRN,Sue MacFarlane,"1,931",3.9,+1.6
+895,Derbyshire North East,CON,Lee Rowley,"28,897",58.7,+9.5
+896,Derbyshire North East,LAB,Chris Peace,"16,021",32.6,-11.0
+897,Derbyshire North East,LD,Ross Shipman,"3,021",6.1,+3.4
+898,Derbyshire North East,GRN,Frank Adlington-Stringer,"1,278",2.6,+1.2
+899,Derbyshire South,CON,Heather Wheeler,"33,502",62.8,+4.0
+900,Derbyshire South,LAB,Robert Pearson,"14,167",26.5,-9.4
+901,Derbyshire South,LD,Lorraine Johnson,"3,924",7.4,+3.8
+902,Derbyshire South,GRN,Amanda Baker,"1,788",3.3,+1.6
+903,Devizes,CON,Danny Kruger,"32,150",63.1,+0.4
+904,Devizes,LD,Jo Waltham,"8,157",16.0,+6.7
+905,Devizes,LAB,Rachael Schneider,"7,838",15.4,-5.6
+906,Devizes,GRN,Emma Dawnay,"2,809",5.5,+2.3
+907,Devon Central,CON,Mel Stride,"32,095",55.3,+1.2
+908,Devon Central,LAB,Lisa Robillard Webb,"14,374",24.8,-2.2
+909,Devon Central,LD,Alison Eden,"8,770",15.1,+3.4
+910,Devon Central,GRN,Andy Williamson,"2,833",4.9,+2.2
+911,Devon East,CON,Simon Jupp,"32,577",50.8,+2.3
+912,Devon East,IND,Claire Wright,"25,869",40.4,+5.1
+913,Devon East,LAB,Dan Wilson,"2,870",4.5,-6.9
+914,Devon East,LD,Eleanor Rylance,"1,771",2.8,+0.3
+915,Devon East,GRN,Henry Gent,711,1.1,+1.1
+916,Devon East,IND,Peter Faithfull,275,0.4,+0.2
+917,Devon North,CON,Selaine Saxby,"31,479",56.6,+10.8
+918,Devon North,LD,Alex White,"16,666",30.0,-8.0
+919,Devon North,LAB,Finola ONeill,"5,097",9.2,-3.5
+920,Devon North,GRN,Robbie Mack,"1,759",3.2,+1.8
+921,Devon North,IND,Steve Cotten,580,1.0,+1.0
+922,Devon South West,CON,Gary Streeter,"33,286",62.4,+2.5
+923,Devon South West,LAB,Alex Beverley,"11,856",22.2,-7.7
+924,Devon South West,LD,Sima Davarian,"6,207",11.6,+6.5
+925,Devon South West,GRN,Ian Poyser,"2,018",3.8,+1.6
+926,Devon West & Torridge,CON,Geoffrey Cox,"35,904",60.1,+3.6
+927,Devon West & Torridge,LD,David Chalmers,"10,912",18.3,+0.6
+928,Devon West & Torridge,LAB,Siobhan Strode,"10,290",17.2,-4.5
+929,Devon West & Torridge,GRN,Chris Jordan,"2,077",3.5,+0.8
+930,Devon West & Torridge,IND,Bob Wootton,547,0.9,+0.9
+931,Dewsbury,CON,Mark Eastwood,"26,179",46.4,+1.3
+932,Dewsbury,LAB,Paula Sherriff,"24,618",43.7,-7.3
+933,Dewsbury,LD,John Rossington,"2,406",4.3,+2.1
+934,Dewsbury,BRX,Philip James,"1,874",3.3,+3.3
+935,Dewsbury,GRN,Simon Cope,"1,060",1.9,+0.1
+936,Dewsbury,MRLP,Sir Archibald Stanton,252,0.4,+0.4
+937,Don Valley,CON,Nick Fletcher,"19,609",43.2,+1.4
+938,Don Valley,LAB,Caroline Flint,"15,979",35.2,-17.8
+939,Don Valley,BRX,Paul Whitehurst,"6,247",13.7,+13.7
+940,Don Valley,LD,Mark Alcock,"1,907",4.2,+2.3
+941,Don Valley,GRN,Kate Needham,872,1.9,+1.9
+942,Don Valley,YRKS,Chris Holmes,823,1.8,-1.7
+943,Doncaster Central,LAB,Rosie Winterton,"16,638",40.0,-17.9
+944,Doncaster Central,CON,Roberto Weeden-Sanz,"14,360",34.5,+0.2
+945,Doncaster Central,BRX,Surjit Duhre,"6,842",16.5,+16.5
+946,Doncaster Central,LD,Paul Horton,"1,748",4.2,+1.9
+947,Doncaster Central,YRKS,Leon French,"1,012",2.4,-0.7
+948,Doncaster Central,GRN,Frank Sheridan,981,2.4,+2.4
+949,Doncaster North,LAB,Ed Miliband,"15,740",38.7,-22.1
+950,Doncaster North,CON,Katrina Sale,"13,370",32.9,+5.2
+951,Doncaster North,BRX,Andy Stewart,"8,294",20.4,+20.4
+952,Doncaster North,LD,Joe Otten,"1,476",3.6,+2.0
+953,Doncaster North,YRKS,Stevie Manion,959,2.4,+0.6
+954,Doncaster North,ED,Frank Calladine,309,0.8,-0.1
+955,Doncaster North,IND,Eddie Todd,220,0.5,+0.5
+956,Doncaster North,IND,Wendy Bailey,188,0.5,+0.5
+957,Doncaster North,IND,Neil Wood,142,0.3,+0.3
+958,Dorset Mid & Poole North,CON,Michael Tomlinson,"29,548",60.4,+1.1
+959,Dorset Mid & Poole North,LD,Vikki Slade,"14,650",29.9,+2.5
+960,Dorset Mid & Poole North,LAB,Joanne Oldale,"3,402",7.0,-6.4
+961,Dorset Mid & Poole North,GRN,Natalie Carswell,"1,330",2.7,+2.7
+962,Dorset North,CON,Simon Hoare,"35,705",63.6,-1.3
+963,Dorset North,LD,David Chadwick,"11,404",20.3,+6.8
+964,Dorset North,LAB,Pat Osborne,"6,737",12.0,-6.6
+965,Dorset North,GRN,Ken Huggins,"2,261",4.0,+1.1
+966,Dorset South,CON,Richard Drax,"30,024",58.8,+2.7
+967,Dorset South,LAB,Carralyn Parkes,"12,871",25.2,-8.4
+968,Dorset South,LD,Nick Ireland,"5,432",10.6,+4.8
+969,Dorset South,GRN,Jon Orrell,"2,246",4.4,0.0
+970,Dorset South,IND,Joseph Green,485,0.9,+0.9
+971,Dorset West,CON,Chris Loder,"33,589",55.1,-0.4
+972,Dorset West,LD,Edward Morello,"19,483",32.0,+8.5
+973,Dorset West,LAB,Claudia Sorin,"5,729",9.4,-8.9
+974,Dorset West,GRN,Kelvin Clayton,"2,124",3.5,+0.7
+975,Dover,CON,Natalie Elphicke,"28,830",56.9,+4.5
+976,Dover,LAB,Charlotte Cornell,"16,552",32.6,-7.3
+977,Dover,LD,Simon Dodd,"2,895",5.7,+3.1
+978,Dover,GRN,Beccy Sawbridge,"1,371",2.7,+0.9
+979,Dover,IND,Nathan Sutton,916,1.8,+1.8
+980,Dover,WEP,Eljai Morais,137,0.3,+0.3
+981,Dudley North,CON,Marco Longhi,"23,134",63.1,+16.6
+982,Dudley North,LAB,Melanie Dudley,"11,601",31.6,-14.9
+983,Dudley North,LD,Ian Flynn,"1,210",3.3,+2.4
+984,Dudley North,GRN,Mike Harrison,739,2.0,+1.4
+985,Dudley South,CON,Mike Wood,"24,835",67.9,+11.5
+986,Dudley South,LAB,Lucy Caldicott,"9,270",25.3,-10.9
+987,Dudley South,LD,Jonathan Bramall,"1,608",4.4,+2.8
+988,Dudley South,GRN,Cate Mohr,863,2.4,+1.4
+989,Dulwich & West Norwood,LAB,Helen Hayes,"36,521",65.5,-4.2
+990,Dulwich & West Norwood,GRN,Jonathan Bartley,"9,211",16.5,+14.0
+991,Dulwich & West Norwood,CON,Jane Lyons,"9,160",16.4,-3.1
+992,Dulwich & West Norwood,BRX,Julia Stephenson,571,1.0,+1.0
+993,Dulwich & West Norwood,CPA,Anthony Hodgson,242,0.4,+0.4
+994,Dulwich & West Norwood,UKIP,John Plume,73,0.1,+0.1
+995,Dumfries & Galloway,CON,Alister Jack,"22,678",44.1,+0.8
+996,Dumfries & Galloway,SNP,Richard Arkless,"20,873",40.6,+8.2
+997,Dumfries & Galloway,LAB,Ted Thompson,"4,745",9.2,-11.7
+998,Dumfries & Galloway,LD,McNabb Laurie,"3,133",6.1,+3.7
+999,"Dumfriesshire, Clydesdale & Tweeddale",CON,David Mundell,"22,611",46.0,-3.4
+1000,"Dumfriesshire, Clydesdale & Tweeddale",SNP,Amanda Burgauer,"18,830",38.3,+8.2
+1001,"Dumfriesshire, Clydesdale & Tweeddale",LAB,Nick Chisholm,"4,172",8.5,-8.1
+1002,"Dumfriesshire, Clydesdale & Tweeddale",LD,John Ferry,"3,540",7.2,+3.2
+1003,Dunbartonshire East,SNP,Amy Callaghan,"19,672",37.1,+6.8
+1004,Dunbartonshire East,LD,Jo Swinson,"19,523",36.8,-3.8
+1005,Dunbartonshire East,CON,Pam Gosal,"7,455",14.1,-0.5
+1006,Dunbartonshire East,LAB,Callum McNally,"4,839",9.1,-5.4
+1007,Dunbartonshire East,GRN,Carolynn Scrimgeour,916,1.7,+1.7
+1008,Dunbartonshire East,IND,Rosie Dickson,221,0.4,+0.4
+1009,Dunbartonshire East,UKIP,Donald MacKay,208,0.4,+0.4
+1010,Dunbartonshire East,SFP,Liam McKechnie,197,0.4,+0.4
+1011,Dunbartonshire West,SNP,Martin Docherty,"22,396",49.6,+6.8
+1012,Dunbartonshire West,LAB,Jean Anne Mitchell,"12,843",28.5,-9.2
+1013,Dunbartonshire West,CON,Alix Mathieson,"6,436",14.3,-2.9
+1014,Dunbartonshire West,LD,Jennifer Lang,"1,890",4.2,+1.9
+1015,Dunbartonshire West,GRN,Peter Connolly,867,1.9,+1.9
+1016,Dunbartonshire West,IND,Andrew Muir,708,1.6,+1.6
+1017,Dundee East,SNP,Stewart Hosie,"24,361",53.8,+11.0
+1018,Dundee East,CON,Philip Scott,"10,986",24.3,-3.1
+1019,Dundee East,LAB,Rosalind Garton,"6,045",13.4,-12.7
+1020,Dundee East,LD,Michael Crichton,"3,573",7.9,+4.1
+1021,Dundee East,IND,George Morton,312,0.7,+0.7
+1022,Dundee West,SNP,Chris Law,"22,355",53.8,+7.1
+1023,Dundee West,LAB,Jim Malone,"10,096",24.3,-8.8
+1024,Dundee West,CON,Tess White,"5,149",12.4,-3.8
+1025,Dundee West,LD,Daniel Coleman,"2,468",5.9,+2.9
+1026,Dundee West,BRX,Stuart Waiton,"1,271",3.1,+3.1
+1027,Dundee West,CPA,Quinta Arrey,240,0.6,+0.6
+1028,Dunfermline & West Fife,SNP,Douglas Chapman,"23,727",44.4,+8.8
+1029,Dunfermline & West Fife,LAB,Cara Hilton,"13,028",24.4,-9.5
+1030,Dunfermline & West Fife,CON,Moira Benny,"11,207",21.0,-3.7
+1031,Dunfermline & West Fife,LD,Rebecca Bell,"4,262",8.0,+2.1
+1032,Dunfermline & West Fife,GRN,Mags Hall,"1,258",2.4,+2.4
+1033,Durham North,LAB,Kevan Jones,"18,639",44.2,-15.7
+1034,Durham North,CON,Ed Parson,"13,897",32.9,+3.0
+1035,Durham North,BRX,Peter Telford,"4,693",11.1,+11.1
+1036,Durham North,LD,Craig Martin,"2,879",6.8,+2.2
+1037,Durham North,GRN,Derek Morse,"1,126",2.7,+2.7
+1038,Durham North,IND,Ken Rollings,961,2.3,+2.3
+1039,Durham North West,CON,Richard Holden,"19,990",41.9,+7.5
+1040,Durham North West,LAB,Laura Pidcock,"18,846",39.5,-13.3
+1041,Durham North West,BRX,John Wolstenholme,"3,193",6.7,+6.7
+1042,Durham North West,LD,Michael Peacock,"2,831",5.9,-1.2
+1043,Durham North West,IND,Watts Stelling,"1,216",2.6,+2.6
+1044,Durham North West,GRN,David Sewell,"1,173",2.5,+1.4
+1045,Durham North West,IND,David Lindsay,414,0.9,+0.9
+1046,"Durham, City of",LAB,Mary Foy,"20,531",42.0,-13.4
+1047,"Durham, City of",CON,William Morgan,"15,506",31.7,+1.9
+1048,"Durham, City of",LD,Amanda Hopgood,"7,935",16.2,+6.3
+1049,"Durham, City of",BRX,Lesley Wright,"3,252",6.7,+6.7
+1050,"Durham, City of",GRN,Jonathan Elmer,"1,635",3.3,+1.7
+1051,Dwyfor Meirionnydd,PC,Liz Saville Roberts,"14,447",48.3,+3.2
+1052,Dwyfor Meirionnydd,CON,Tomos Davies,"9,707",32.4,+3.3
+1053,Dwyfor Meirionnydd,LAB,Graham Hogg,"3,998",13.4,-7.3
+1054,Dwyfor Meirionnydd,BRX,Louise Hughes,"1,776",5.9,+5.9
+1055,Ealing Central & Acton,LAB,Rupa Huq,"28,132",51.3,-8.4
+1056,Ealing Central & Acton,CON,Julian Gallant,"14,832",27.1,-7.7
+1057,Ealing Central & Acton,LD,Sonul Badiani,"9,444",17.2,+11.7
+1058,Ealing Central & Acton,GRN,Kate Crossland,"1,735",3.2,+3.2
+1059,Ealing Central & Acton,BRX,Samir Alsoodani,664,1.2,+1.2
+1060,Ealing North,LAB,James Murray,"28,036",56.5,-9.5
+1061,Ealing North,CON,Anthony Pickles,"15,767",31.8,+3.3
+1062,Ealing North,LD,Henrietta Bewley,"4,370",8.8,+6.4
+1063,Ealing North,GRN,Jeremy Parker,"1,458",2.9,+1.5
+1064,Ealing Southall,LAB,Virendra Sharma,"25,678",60.8,-9.4
+1065,Ealing Southall,CON,Tom Bennett,"9,594",22.7,+1.4
+1066,Ealing Southall,LD,Tariq Mahmood,"3,933",9.3,+5.1
+1067,Ealing Southall,GRN,Darren Moore,"1,688",4.0,+1.7
+1068,Ealing Southall,BRX,Rosamund Beattie,867,2.1,+2.1
+1069,Ealing Southall,CPA,Suzanne Fernandes,287,0.7,+0.7
+1070,Ealing Southall,WRP,Hassan Zulkifal,170,0.4,-0.4
+1071,Easington,LAB,Grahame Morris,"15,723",45.5,-18.2
+1072,Easington,CON,Clare Ambrosino,"9,142",26.4,+3.7
+1073,Easington,BRX,Julie Maughan,"6,744",19.5,+19.5
+1074,Easington,LD,Dominic Haney,"1,526",4.4,+3.1
+1075,Easington,NE,Susan McDonnell,"1,448",4.2,-2.3
+1076,East Antrim,DUP,Sammy Wilson,"16,871",45.3,-12.1
+1077,East Antrim,APNI,Danny Donnelly,"10,165",27.3,+11.7
+1078,East Antrim,UUP,Steve Aiken,"5,475",14.7,+2.8
+1079,East Antrim,SF,Oliver McMullan,"2,120",5.7,-3.6
+1080,East Antrim,CON,Aaron Rankin,"1,043",2.8,+0.3
+1081,East Antrim,SDLP,Angela Mulholland,902,2.4,-0.9
+1082,East Antrim,GRN,Philip Randle,685,1.8,+1.8
+1083,East Ham,LAB,Stephen Timms,"41,703",76.3,-6.9
+1084,East Ham,CON,Scott Pattenden,"8,527",15.6,+2.8
+1085,East Ham,LD,Michael Fox,"2,158",4.0,+2.8
+1086,East Ham,BRX,Alka Sehgal Cuthbert,"1,107",2.0,+2.0
+1087,East Ham,GRN,Mike Spracklin,883,1.6,+0.8
+1088,East Ham,CMU,Kamran Malik,250,0.5,+0.5
+1089,"East Kilbride, Strathaven & Lesmahagow",SNP,Lisa Cameron,"26,113",46.4,+7.5
+1090,"East Kilbride, Strathaven & Lesmahagow",LAB,Monique McAdams,"12,791",22.7,-9.0
+1091,"East Kilbride, Strathaven & Lesmahagow",CON,Gail MacGregor,"11,961",21.2,-4.1
+1092,"East Kilbride, Strathaven & Lesmahagow",LD,Ewan McRobert,"3,760",6.7,+3.7
+1093,"East Kilbride, Strathaven & Lesmahagow",GRN,Erica Bradley-Young,"1,153",2.0,+2.0
+1094,"East Kilbride, Strathaven & Lesmahagow",UKIP,David Mackay,559,1.0,-0.2
+1095,East Londonderry,DUP,Gregory Campbell,"15,765",40.1,-8.0
+1096,East Londonderry,SDLP,Cara Hunter,"6,158",15.7,+4.9
+1097,East Londonderry,SF,Dermot Nicholl,"6,128",15.6,-10.9
+1098,East Londonderry,APNI,Chris McCaw,"5,921",15.1,+8.9
+1099,East Londonderry,UUP,Richard Holmes,"3,599",9.2,+1.5
+1100,East Londonderry,AONT,Seán McNicholl,"1,731",4.4,+4.4
+1101,East Lothian,SNP,Kenny MacAskill,"21,156",36.2,+5.6
+1102,East Lothian,LAB,Martin Whitfield,"17,270",29.5,-6.6
+1103,East Lothian,CON,Craig Hoy,"15,523",26.5,-3.1
+1104,East Lothian,LD,Robert O'Riordan,"4,071",7.0,+3.8
+1105,East Lothian,UKIP,David Sisson,493,0.8,+0.8
+1106,Eastbourne,CON,Caroline Ansell,"26,951",48.9,+4.8
+1107,Eastbourne,LD,Stephen Lloyd,"22,620",41.0,-5.9
+1108,Eastbourne,LAB,Jake Lambert,"3,848",7.0,-1.2
+1109,Eastbourne,BRX,Stephen Gander,"1,530",2.8,+2.8
+1110,Eastbourne,IND,Ken Pollock,185,0.3,+0.3
+1111,Eastleigh,CON,Paul Holmes,"32,690",55.4,+5.0
+1112,Eastleigh,LD,Lynda Murphy,"17,083",29.0,+3.3
+1113,Eastleigh,LAB,Sam Jordan,"7,559",12.8,-7.2
+1114,Eastleigh,GRN,Ron Meldrum,"1,639",2.8,+1.5
+1115,Eddisbury,CON,Edward Timpson,"30,095",56.8,-0.1
+1116,Eddisbury,LAB,Terry Savage,"11,652",22.0,-11.6
+1117,Eddisbury,LD,Antoinette Sandbach,"9,582",18.1,+12.6
+1118,Eddisbury,GRN,Louise Jewkes,"1,191",2.2,+0.7
+1119,Eddisbury,UKIP,Andrea Allen,451,0.9,-1.3
+1120,Edinburgh East,SNP,Tommy Sheppard,"23,165",48.4,+5.9
+1121,Edinburgh East,LAB,Sheila Gilmore,"12,748",26.7,-8.0
+1122,Edinburgh East,CON,Eleanor Price,"6,549",13.7,-4.9
+1123,Edinburgh East,LD,Jill Reilly,"3,289",6.9,+2.6
+1124,Edinburgh East,GRN,Claire Miller,"2,064",4.3,+4.3
+1125,Edinburgh North & Leith,SNP,Deidre Brock,"25,925",43.7,+9.7
+1126,Edinburgh North & Leith,LAB,Gordon Munro,"13,117",22.1,-9.1
+1127,Edinburgh North & Leith,CON,Iain McGill,"11,000",18.5,-8.7
+1128,Edinburgh North & Leith,LD,Bruce Wilson,"6,635",11.2,+6.6
+1129,Edinburgh North & Leith,GRN,Steve Burgess,"1,971",3.3,+0.3
+1130,Edinburgh North & Leith,BRX,Robert Speirs,558,0.9,+0.9
+1131,Edinburgh North & Leith,REN,Heather Astbury,138,0.2,+0.2
+1132,Edinburgh South,LAB,Ian Murray,"23,745",47.7,-7.2
+1133,Edinburgh South,SNP,Catriona Macdonald,"12,650",25.4,+3.0
+1134,Edinburgh South,CON,Nick Cook,"8,161",16.4,-3.3
+1135,Edinburgh South,LD,Alan Beal,"3,819",7.7,+4.8
+1136,Edinburgh South,GRN,Kate Nevens,"1,357",2.7,+2.7
+1137,Edinburgh South West,SNP,Joanna Cherry,"24,830",47.6,+12.0
+1138,Edinburgh South West,CON,Callum Laidlaw,"12,848",24.6,-8.7
+1139,Edinburgh South West,LAB,Sophie Cooke,"7,478",14.3,-12.4
+1140,Edinburgh South West,LD,Tom Inglis,"4,971",9.5,+5.2
+1141,Edinburgh South West,GRN,Ben Parker,"1,265",2.4,+2.4
+1142,Edinburgh South West,BRX,David Ballantine,625,1.2,+1.2
+1143,Edinburgh South West,SDP,Mev Brown,114,0.2,+0.2
+1144,Edinburgh West,LD,Christine Jardine,"21,766",39.9,+5.6
+1145,Edinburgh West,SNP,Sarah Masson,"17,997",33.0,+4.4
+1146,Edinburgh West,CON,Graham Hutchison,"9,283",17.0,-4.9
+1147,Edinburgh West,LAB,Craig Bolton,"4,460",8.2,-6.7
+1148,Edinburgh West,GRN,Elaine Gunn,"1,027",1.9,+1.9
+1149,Edmonton,LAB,Kate Osamor,"26,217",65.0,-6.5
+1150,Edmonton,CON,James Hockney,"10,202",25.3,+2.2
+1151,Edmonton,LD,David Schmitz,"2,145",5.3,+3.4
+1152,Edmonton,GRN,Benjamin Maydon,862,2.1,+0.7
+1153,Edmonton,BRX,Sachin Sehgal,840,2.1,+2.1
+1154,Edmonton,IND,Sabriye Warsame,75,0.2,+0.2
+1155,Ellesmere Port & Neston,LAB,Justin Madders,"26,001",53.3,-5.8
+1156,Ellesmere Port & Neston,CON,Alison Rodwell,"17,237",35.4,-1.4
+1157,Ellesmere Port & Neston,LD,Ed Gough,"2,406",4.9,+3.2
+1158,Ellesmere Port & Neston,BRX,Christopher Stevens,"2,138",4.4,+4.4
+1159,Ellesmere Port & Neston,GRN,Chris Copeman,964,2.0,+1.3
+1160,Elmet & Rothwell,CON,Alec Shelbrooke,"33,726",57.9,+3.6
+1161,Elmet & Rothwell,LAB,David Nagle,"16,373",28.1,-9.7
+1162,Elmet & Rothwell,LD,Stewart Golton,"5,155",8.9,+4.5
+1163,Elmet & Rothwell,GRN,Penny Stables,"1,775",3.0,+1.4
+1164,Elmet & Rothwell,YRKS,Matthew Clover,"1,196",2.1,+0.3
+1165,Eltham,LAB,Clive Efford,"20,550",47.0,-7.4
+1166,Eltham,CON,Louie French,"17,353",39.7,-1.1
+1167,Eltham,LD,Charley Hasted,"2,941",6.7,+3.6
+1168,Eltham,BRX,Steve Kelleher,"1,523",3.5,+3.5
+1169,Eltham,GRN,Matt Stratford,"1,322",3.0,+3.0
+1170,Enfield North,LAB,Feryal Clark,"23,340",51.8,-6.2
+1171,Enfield North,CON,Joanne Laban,"16,848",37.4,+0.5
+1172,Enfield North,LD,Guy Russo,"2,950",6.5,+4.4
+1173,Enfield North,GRN,Isobel Whittaker,"1,115",2.5,+1.3
+1174,Enfield North,BRX,Ike Ijeh,797,1.8,+1.8
+1175,Enfield Southgate,LAB,Bambos Charalambous,"22,923",48.5,-3.2
+1176,Enfield Southgate,CON,David Burrowes,"18,473",39.1,-3.6
+1177,Enfield Southgate,LD,Rob Wilson,"4,344",9.2,+5.2
+1178,Enfield Southgate,GRN,Luke Balnave,"1,042",2.2,+0.6
+1179,Enfield Southgate,BRX,Parag Shah,494,1.0,+1.0
+1180,Epping Forest,CON,Eleanor Laing,"32,364",64.4,+2.4
+1181,Epping Forest,LAB,Vicky Ashworth Te Velde,"10,191",20.3,-5.8
+1182,Epping Forest,LD,Jon Whitehouse,"5,387",10.7,+5.0
+1183,Epping Forest,GRN,Steven Neville,"1,975",3.9,+1.5
+1184,Epping Forest,YPP,Thomas Hall,181,0.4,+0.1
+1185,Epping Forest,SDP,Jon Newham,170,0.3,+0.3
+1186,Epsom & Ewell,CON,Chris Grayling,"31,819",53.5,-6.1
+1187,Epsom & Ewell,LD,Steve Gee,"13,946",23.5,+11.0
+1188,Epsom & Ewell,LAB,Ed Mayne,"10,226",17.2,-7.8
+1189,Epsom & Ewell,GRN,Janice Baker,"2,047",3.4,+0.6
+1190,Epsom & Ewell,IND,Clive Woodbridge,"1,413",2.4,+2.4
+1191,Erewash,CON,Maggie Throup,"27,560",56.5,+4.4
+1192,Erewash,LAB,Catherine Atkinson,"16,954",34.7,-8.3
+1193,Erewash,LD,James Archer,"2,487",5.1,+2.6
+1194,Erewash,GRN,Brent Poland,"1,115",2.3,+0.9
+1195,Erewash,IND,Des Ball,388,0.8,+0.8
+1196,Erewash,IND,Richard Shaw,188,0.4,+0.4
+1197,Erewash,IND,Roy Dunn,122,0.2,-0.8
+1198,Erith & Thamesmead,LAB,Abena Oppong-Asare,"19,882",48.0,-9.5
+1199,Erith & Thamesmead,CON,Joe Robertson,"16,124",39.0,+3.9
+1200,Erith & Thamesmead,BRX,Tom Bright,"2,246",5.4,+5.4
+1201,Erith & Thamesmead,LD,Sam Webber,"1,984",4.8,+3.1
+1202,Erith & Thamesmead,GRN,Claudine Letsae,876,2.1,+1.0
+1203,Erith & Thamesmead,CPA,Richard Mitchell,272,0.7,+0.1
+1204,Esher & Walton,CON,Dominic Raab,"31,132",49.4,-9.3
+1205,Esher & Walton,LD,Monica Harding,"28,389",45.0,+27.7
+1206,Esher & Walton,LAB,Peter Ashurst,"2,838",4.5,-15.2
+1207,Esher & Walton,IND,Kylie Keens,347,0.6,+0.6
+1208,Esher & Walton,MRLP,Baron Badger,326,0.5,0.0
+1209,Esher & Walton,ADV,Kyle Taylor,52,0.1,+0.1
+1210,Exeter,LAB,Ben Bradshaw,"29,882",53.2,-8.8
+1211,Exeter,CON,John Gray,"19,479",34.7,+1.8
+1212,Exeter,GRN,Joe Levy,"4,838",8.6,+6.8
+1213,Exeter,BRX,Leslie Willis,"1,428",2.5,+2.5
+1214,Exeter,IND,Daniel Page,306,0.5,+0.5
+1215,Exeter,UKIP,Duncan Odgers,259,0.5,+0.5
+1216,Falkirk,SNP,Johnny McNally,"29,351",52.5,+13.6
+1217,Falkirk,CON,Lynn Munro,"14,403",25.8,-0.4
+1218,Falkirk,LAB,Safia Ali,"6,243",11.2,-18.6
+1219,Falkirk,LD,Austin Reid,"3,990",7.1,+5.1
+1220,Falkirk,GRN,Tom McLaughlin,"1,885",3.4,+1.7
+1221,Fareham,CON,Suella Braverman,"36,459",63.7,+0.7
+1222,Fareham,LAB,Matthew Randall,"10,373",18.1,-7.1
+1223,Fareham,LD,Matthew Winnington,"8,006",14.0,+7.2
+1224,Fareham,GRN,Nick Lyle,"2,412",4.2,+1.9
+1225,Faversham & Mid Kent,CON,Helen Whately,"31,864",63.2,+2.1
+1226,Faversham & Mid Kent,LAB,Jenny Reeves,"9,888",19.6,-6.5
+1227,Faversham & Mid Kent,LD,Hannah Perkin,"6,170",12.2,+5.7
+1228,Faversham & Mid Kent,GRN,Hannah Temple,"2,103",4.2,+1.3
+1229,Faversham & Mid Kent,IND,Gary Butler,369,0.7,+0.7
+1230,Feltham & Heston,LAB,Seema Malhotra,"24,876",52.0,-9.2
+1231,Feltham & Heston,CON,Jane Keep,"17,017",35.6,+3.8
+1232,Feltham & Heston,LD,Hina Malik,"3,127",6.5,+3.9
+1233,Feltham & Heston,BRX,Martyn Nelson,"1,658",3.5,+3.5
+1234,Feltham & Heston,GRN,Tony Firkins,"1,133",2.4,+0.8
+1235,Fermanagh & South Tyrone,SF,Michelle Gildernew,"21,986",43.3,-3.9
+1236,Fermanagh & South Tyrone,UUP,Tom Elliott,"21,929",43.2,-2.3
+1237,Fermanagh & South Tyrone,SDLP,Adam Gannon,"3,446",6.8,+2.0
+1238,Fermanagh & South Tyrone,APNI,Matthew Beaumont,"2,650",5.2,+3.6
+1239,Fermanagh & South Tyrone,IND,Caroline Wheeler,751,1.5,+1.5
+1240,Fife North East,LD,Wendy Chamberlain,"19,763",43.1,+10.2
+1241,Fife North East,SNP,Stephen Gethins,"18,447",40.2,+7.3
+1242,Fife North East,CON,Tony Miklinski,"5,961",13.0,-11.1
+1243,Fife North East,LAB,Wendy Haynes,"1,707",3.7,-5.9
+1244,Filton & Bradley Stoke,CON,Jack Lopresti,"26,293",48.9,-1.1
+1245,Filton & Bradley Stoke,LAB,Mhairi Threlfall,"20,647",38.4,-3.3
+1246,Filton & Bradley Stoke,LD,Louise Harris,"4,992",9.3,+3.3
+1247,Filton & Bradley Stoke,GRN,Jenny Vernon,"1,563",2.9,+0.6
+1248,Filton & Bradley Stoke,CMUK,Elaine Hardwick,257,0.5,+0.5
+1249,Finchley & Golders Green,CON,Mike Freer,"24,162",43.8,-3.1
+1250,Finchley & Golders Green,LD,Luciana Berger,"17,600",31.9,+25.3
+1251,Finchley & Golders Green,LAB,Ross Houston,"13,347",24.2,-19.6
+1252,Folkestone & Hythe,CON,Damian Collins,"35,483",60.1,+5.4
+1253,Folkestone & Hythe,LAB,Laura Davison,"14,146",24.0,-4.5
+1254,Folkestone & Hythe,LD,Simon Bishop,"5,755",9.8,+2.6
+1255,Folkestone & Hythe,GRN,Georgina Treloar,"2,706",4.6,+0.3
+1256,Folkestone & Hythe,IND,Henry Bolton,576,1.0,+1.0
+1257,Folkestone & Hythe,SDP,Colin Menniss,190,0.3,+0.3
+1258,Folkestone & Hythe,YPP,Rohen Kapur,80,0.1,+0.1
+1259,Folkestone & Hythe,SPGB,Andy Thomas,69,0.1,+0.1
+1260,Forest of Dean,CON,Mark Harper,"30,680",59.6,+5.3
+1261,Forest of Dean,LAB,Di Martin,"14,811",28.8,-7.1
+1262,Forest of Dean,GRN,Chris McFarling,"4,681",9.1,+6.7
+1263,Forest of Dean,IND,Julian Burrett,"1,303",2.5,+1.4
+1264,Foyle,SDLP,Colum Eastwood,"26,881",57.0,+17.7
+1265,Foyle,SF,Elisha McCallion,"9,771",20.7,-19.0
+1266,Foyle,DUP,Gary Middleton,"4,772",10.1,-6.0
+1267,Foyle,AONT,Anne McCloskey,"2,032",4.3,+4.3
+1268,Foyle,PBP,Shaun Harkin,"1,332",2.8,-0.2
+1269,Foyle,APNI,Rachael Ferguson,"1,267",2.7,+0.8
+1270,Foyle,UUP,Darren Guy,"1,088",2.3,+2.3
+1271,Fylde,CON,Mark Menzies,"28,432",60.9,+2.1
+1272,Fylde,LAB,Martin Mitchell,"11,821",25.3,-8.1
+1273,Fylde,LD,Mark Jewell,"3,748",8.0,+3.0
+1274,Fylde,GRN,Gina Dowding,"1,731",3.7,+1.0
+1275,Fylde,IND,Andy Higgins,927,2.0,+2.0
+1276,Gainsborough,CON,Edward Leigh,"33,893",66.4,+4.6
+1277,Gainsborough,LAB,Perry Smith,"10,926",21.4,-7.3
+1278,Gainsborough,LD,Lesley Rollings,"5,157",10.1,+3.0
+1279,Gainsborough,IND,Mary Cavill,"1,070",2.1,+2.1
+1280,Garston & Halewood,LAB,Maria Eagle,"38,578",72.3,-5.4
+1281,Garston & Halewood,CON,Neva Novaky,"6,954",13.0,-4.6
+1282,Garston & Halewood,LD,Kris Brown,"3,324",6.2,+3.0
+1283,Garston & Halewood,BRX,Jake Fraser,"2,943",5.5,+5.5
+1284,Garston & Halewood,GRN,Jean-Paul Roberts,"1,183",2.2,+0.8
+1285,Garston & Halewood,LIB,Hazel Williams,344,0.6,+0.6
+1286,Gateshead,LAB,Ian Mearns,"20,450",53.6,-11.5
+1287,Gateshead,CON,Jane MacBean,"13,250",34.7,+10.8
+1288,Gateshead,LD,Peter Maughan,"2,792",7.3,+3.3
+1289,Gateshead,GRN,Rachel Cabral,"1,653",4.3,+2.9
+1290,Gedling,CON,Tom Randall,"22,718",45.5,+2.6
+1291,Gedling,LAB,Vernon Coaker,"22,039",44.1,-7.8
+1292,Gedling,LD,Anita Prabhakar,"2,279",4.6,+2.5
+1293,Gedling,BRX,Graham Hunt,"1,820",3.6,+3.6
+1294,Gedling,GRN,Jim Norris,"1,097",2.2,+1.2
+1295,Gillingham & Rainham,CON,Rehman Chishti,"28,173",61.3,+5.9
+1296,Gillingham & Rainham,LAB,Andy Stamp,"13,054",28.4,-7.7
+1297,Gillingham & Rainham,LD,Alan Bullion,"2,503",5.4,+2.6
+1298,Gillingham & Rainham,GRN,George Salomon,"1,043",2.3,+1.2
+1299,Gillingham & Rainham,UKIP,Rob McCulloch Martin,837,1.8,-2.5
+1300,Gillingham & Rainham,IND,Peter Cook,229,0.5,+0.5
+1301,Gillingham & Rainham,CPA,Roger Peacock,119,0.3,0.0
+1302,Glasgow Central,SNP,Alison Thewliss,"19,750",49.2,+4.5
+1303,Glasgow Central,LAB,Faten Hameed,"13,276",33.1,-5.3
+1304,Glasgow Central,CON,Flora Scarabello,"3,698",9.2,-4.7
+1305,Glasgow Central,LD,Ewan Hoyle,"1,952",4.9,+2.0
+1306,Glasgow Central,GRN,Elaine Gallagher,"1,429",3.6,+3.6
+1307,Glasgow East,SNP,David Linden,"18,357",47.7,+8.9
+1308,Glasgow East,LAB,Kate Watson,"12,791",33.2,-5.3
+1309,Glasgow East,CON,Thomas Kerr,"5,709",14.8,-4.0
+1310,Glasgow East,LD,James Harrison,"1,626",4.2,+2.7
+1311,Glasgow North,SNP,Patrick Grady,"16,982",46.9,+9.3
+1312,Glasgow North,LAB,Pam Duncan-Glancy,"11,381",31.4,-3.0
+1313,Glasgow North,CON,Tony Curtis,"3,806",10.5,-4.2
+1314,Glasgow North,LD,Andrew Chamberlain,"2,394",6.6,+3.2
+1315,Glasgow North,GRN,Cass Macgregor,"1,308",3.6,-6.1
+1316,Glasgow North,BRX,Dionne Cocozza,320,0.9,+0.9
+1317,Glasgow North East,SNP,Anne McLaughlin,"15,911",46.9,+4.7
+1318,Glasgow North East,LAB,Paul Sweeney,"13,363",39.4,-3.5
+1319,Glasgow North East,CON,Lauren Bennie,"3,558",10.5,-2.4
+1320,Glasgow North East,LD,Nicholas Moohan,"1,093",3.2,+1.2
+1321,Glasgow North West,SNP,Carol Monaghan,"19,678",49.5,+7.0
+1322,Glasgow North West,LAB,Patricia Ferguson,"11,319",28.5,-7.4
+1323,Glasgow North West,CON,Ade Aibinu,"6,022",15.2,-2.9
+1324,Glasgow North West,LD,James Speirs,"2,716",6.8,+3.3
+1325,Glasgow South,SNP,Stewart McDonald,"22,829",48.1,+7.0
+1326,Glasgow South,LAB,Johann Lamont,"13,824",29.1,-7.4
+1327,Glasgow South,CON,Kyle Thornton,"6,237",13.1,-5.9
+1328,Glasgow South,LD,Carole Ford,"2,786",5.9,+2.6
+1329,Glasgow South,GRN,Dan Hutchison,"1,251",2.6,+2.6
+1330,Glasgow South,BRX,Danyaal Raja,516,1.1,+1.1
+1331,Glasgow South West,SNP,Chris Stephens,"17,643",47.9,+7.2
+1332,Glasgow South West,LAB,Matt Kerr,"12,743",34.6,-5.9
+1333,Glasgow South West,CON,Thomas Haddow,"4,224",11.5,-4.2
+1334,Glasgow South West,LD,Ben Denton-Cardew,"1,435",3.9,+2.0
+1335,Glasgow South West,BRX,Peter Brown,802,2.2,+2.2
+1336,Glenrothes,SNP,Peter Grant,"21,234",51.1,+8.3
+1337,Glenrothes,LAB,Pat Egan,"9,477",22.8,-11.9
+1338,Glenrothes,CON,Amy Thomson,"6,920",16.7,-2.8
+1339,Glenrothes,LD,Jane Ann Liston,"2,639",6.4,+3.4
+1340,Glenrothes,BRX,Victor Farrell,"1,276",3.1,+3.1
+1341,Gloucester,CON,Richard Graham,"29,159",54.2,+3.9
+1342,Gloucester,LAB,Fran Boait,"18,882",35.1,-5.0
+1343,Gloucester,LD,Rebecca Trimnell,"4,338",8.1,+3.0
+1344,Gloucester,GRN,Michael Byfield,"1,385",2.6,+1.2
+1345,Gordon,SNP,Richard Thomson,"23,885",42.7,+6.9
+1346,Gordon,CON,Colin Clark,"23,066",41.3,+0.5
+1347,Gordon,LD,James Oates,"5,913",10.6,-1.0
+1348,Gordon,LAB,Heather Herbert,"3,052",5.5,-6.4
+1349,Gosport,CON,Caroline Dinenage,"32,226",66.5,+4.6
+1350,Gosport,LAB,Tom Chatwin,"8,948",18.5,-8.7
+1351,Gosport,LD,Martin Pepper,"5,473",11.3,+6.6
+1352,Gosport,GRN,Zoe Aspinall,"1,806",3.7,+1.7
+1353,Gower,LAB,Tonia Antoniazzi,"20,208",45.4,-4.4
+1354,Gower,CON,Francesca O'Brien,"18,371",41.3,-1.4
+1355,Gower,PC,John Davies,"2,288",5.1,+1.5
+1356,Gower,LD,Sam Bennett,"2,236",5.0,+3.0
+1357,Gower,BRX,Rob Ross,"1,379",3.1,+3.1
+1358,Grantham & Stamford,CON,Gareth Davies,"36,794",65.7,+3.7
+1359,Grantham & Stamford,LAB,Kathryn Salt,"10,791",19.3,-7.2
+1360,Grantham & Stamford,LD,Harrish Bisnauthsing,"6,153",11.0,+5.5
+1361,Grantham & Stamford,GRN,Anne Gayfer,"2,265",4.0,+2.7
+1362,Gravesham,CON,Adam Holloway,"29,580",62.2,+6.6
+1363,Gravesham,LAB,Lauren Sullivan,"13,999",29.4,-7.1
+1364,Gravesham,LD,Ukonu Obasi,"2,584",5.4,+3.0
+1365,Gravesham,GRN,Marna Gilligan,"1,397",2.9,+1.5
+1366,Great Grimsby,CON,Lia Nici,"18,150",54.9,+12.7
+1367,Great Grimsby,LAB,Melanie Onn,"10,819",32.7,-16.7
+1368,Great Grimsby,BRX,Christopher Barker,"2,378",7.2,+7.2
+1369,Great Grimsby,LD,Ian Barfield,"1,070",3.2,+0.5
+1370,Great Grimsby,GRN,Loyd Emmerson,514,1.6,+1.6
+1371,Great Grimsby,IND,Nigel Winn,156,0.5,+0.5
+1372,Great Yarmouth,CON,Brandon Lewis,"28,593",65.8,+11.6
+1373,Great Yarmouth,LAB,Mike Smith-Clare,"10,930",25.1,-10.9
+1374,Great Yarmouth,LD,James Joyce,"1,661",3.8,+1.6
+1375,Great Yarmouth,GRN,Anne Killett,"1,064",2.4,+1.2
+1376,Great Yarmouth,VPP,Dave Harding,631,1.5,+1.5
+1377,Great Yarmouth,IND,Adrian Myers,429,1.0,+1.0
+1378,Great Yarmouth,IND,Margaret McMahon-Morris,154,0.4,+0.4
+1379,Greenwich & Woolwich,LAB,Matthew Pennycook,"30,185",56.8,-7.6
+1380,Greenwich & Woolwich,CON,Thomas Turrell,"11,721",22.1,-3.4
+1381,Greenwich & Woolwich,LD,Rhian O'Connor,"7,253",13.7,+6.5
+1382,Greenwich & Woolwich,GRN,Victoria Rance,"2,363",4.4,+1.4
+1383,Greenwich & Woolwich,BRX,Kailash Trivedi,"1,228",2.3,+2.3
+1384,Greenwich & Woolwich,CPA,Eunice Odesanmi,245,0.5,+0.5
+1385,Greenwich & Woolwich,IND,Sushil Gaikwad,125,0.2,+0.2
+1386,Guildford,CON,Angela Richardson,"26,317",44.9,-9.7
+1387,Guildford,LD,Zoe Franklin,"22,980",39.2,+15.3
+1388,Guildford,LAB,Anne Rouse,"4,515",7.7,-11.3
+1389,Guildford,IND,Anne Milton,"4,356",7.4,+7.4
+1390,Guildford,PP,John Morris,483,0.8,+0.5
+1391,Hackney North & Stoke Newington,LAB,Diane Abbott,"39,972",70.3,-4.8
+1392,Hackney North & Stoke Newington,CON,Benjamin Obese-Jecty,"6,784",11.9,-0.7
+1393,Hackney North & Stoke Newington,GRN,Alex Armitage,"4,989",8.8,+4.1
+1394,Hackney North & Stoke Newington,LD,Ben Mathis,"4,283",7.5,+0.8
+1395,Hackney North & Stoke Newington,BRX,Richard Ings,609,1.1,+1.1
+1396,Hackney North & Stoke Newington,REN,Haseeb Ur-Rehman,151,0.3,+0.3
+1397,Hackney North & Stoke Newington,IND,Lore Lixenberg,76,0.1,+0.1
+1398,Hackney South & Shoreditch,LAB,Meg Hillier,"39,884",73.3,-6.2
+1399,Hackney South & Shoreditch,CON,Mark Beckett,"5,899",10.8,-0.1
+1400,Hackney South & Shoreditch,LD,Dave Raval,"4,853",8.9,+3.2
+1401,Hackney South & Shoreditch,GRN,Tyrone Scott,"2,948",5.4,+2.7
+1402,Hackney South & Shoreditch,BRX,Robert Lloyd,744,1.4,+1.4
+1403,Hackney South & Shoreditch,WRP,Jonty Leff,111,0.2,0.0
+1404,Halesowen & Rowley Regis,CON,James Morris,"25,607",60.5,+8.6
+1405,Halesowen & Rowley Regis,LAB,Ian Cooper,"13,533",32.0,-8.1
+1406,Halesowen & Rowley Regis,LD,Ryan Priest,"1,738",4.1,+2.2
+1407,Halesowen & Rowley Regis,GRN,James Windridge,934,2.2,+1.2
+1408,Halesowen & Rowley Regis,IND,Jon Cross,232,0.5,+0.5
+1409,Halesowen & Rowley Regis,IND,Ian Fleming,190,0.4,+0.4
+1410,Halesowen & Rowley Regis,IND,Tim Weller,111,0.3,-0.2
+1411,Halifax,LAB,Holly Lynch,"21,496",46.3,-6.6
+1412,Halifax,CON,Kashif Ali,"18,927",40.7,-1.0
+1413,Halifax,BRX,Sarah Wood,"2,813",6.1,+6.1
+1414,Halifax,LD,James Baker,"2,276",4.9,+2.7
+1415,Halifax,GRN,Bella Jessop,946,2.0,+2.0
+1416,Haltemprice & Howden,CON,David Davis,"31,045",62.4,+1.4
+1417,Haltemprice & Howden,LAB,George Ayre,"10,716",21.5,-9.5
+1418,Haltemprice & Howden,LD,Linda Johnson,"5,215",10.5,+5.7
+1419,Haltemprice & Howden,GRN,Angela Stone,"1,764",3.5,+2.2
+1420,Haltemprice & Howden,YRKS,Richard Honnoraty,"1,039",2.1,+0.3
+1421,Halton,LAB,Derek Twigg,"29,333",63.5,-9.4
+1422,Halton,CON,Charles Rowley,"10,358",22.4,+0.8
+1423,Halton,BRX,Janet Balfe,"3,730",8.1,+8.1
+1424,Halton,LD,Stephen Gribbon,"1,800",3.9,+2.1
+1425,Halton,GRN,David O'Keefe,982,2.1,+2.1
+1426,Hammersmith,LAB,Andy Slaughter,"30,074",57.9,-6.0
+1427,Hammersmith,CON,Xingang Wang,"12,227",23.5,-4.6
+1428,Hammersmith,LD,Jessie Venegas,"6,947",13.4,+8.0
+1429,Hammersmith,GRN,Alex Horn,"1,744",3.4,+1.8
+1430,Hammersmith,BRX,James Keyse,974,1.9,+1.9
+1431,Hampshire East,CON,Damian Hinds,"33,446",58.8,-4.9
+1432,Hampshire East,LD,David Buxton,"13,750",24.2,+9.0
+1433,Hampshire East,LAB,Gaynor Austin,"6,287",11.1,-5.9
+1434,Hampshire East,GRN,Zoe Parker,"2,600",4.6,+1.4
+1435,Hampshire East,UKIP,Jim Makin,616,1.1,+1.1
+1436,Hampshire East,JACP,Eddie Trotter,196,0.3,-0.7
+1437,Hampshire North East,CON,Ranil Jayawardena,"35,280",59.5,-6.0
+1438,Hampshire North East,LD,Graham Cockarill,"15,069",25.4,+13.3
+1439,Hampshire North East,LAB,Barry Jones,"5,760",9.7,-7.6
+1440,Hampshire North East,GRN,Culann Walsh,"1,754",3.0,+0.4
+1441,Hampshire North East,IND,Tony Durrant,831,1.4,+1.4
+1442,Hampshire North East,MRLP,Howling Laud Hope,576,1.0,+1.0
+1443,Hampshire North West,CON,Kit Malthouse,"36,591",62.1,0.0
+1444,Hampshire North West,LD,Luigi Gregori,"10,283",17.5,+7.7
+1445,Hampshire North West,LAB,Liz Bell,"9,327",15.8,-7.6
+1446,Hampshire North West,GRN,Lance Mitchell,"2,717",4.6,+2.3
+1447,Hampstead & Kilburn,LAB,Tulip Siddiq,"28,080",48.9,-10.1
+1448,Hampstead & Kilburn,CON,Johnny Luk,"13,892",24.2,-8.2
+1449,Hampstead & Kilburn,LD,Matt Sanders,"13,121",22.9,+15.8
+1450,Hampstead & Kilburn,GRN,David Stansell,"1,608",2.8,+1.5
+1451,Hampstead & Kilburn,BRX,James Pointon,684,1.2,+1.2
+1452,Harborough,CON,Neil O'Brien,"31,698",55.3,+3.0
+1453,Harborough,LAB,Celia Hibbert,"14,420",25.2,-5.6
+1454,Harborough,LD,Zuffar Haq,"9,103",15.9,+3.2
+1455,Harborough,GRN,Darren Woodiwiss,"1,709",3.0,+1.1
+1456,Harborough,IND,Robin Lambert,389,0.7,+0.7
+1457,Harlow,CON,Robert Halfon,"27,510",63.5,+9.4
+1458,Harlow,LAB,Laura McAlpine,"13,447",31.0,-7.3
+1459,Harlow,LD,Charlotte Cane,"2,397",5.5,+3.4
+1460,Harrogate & Knaresborough,CON,Andrew Jones,"29,962",52.6,-2.9
+1461,Harrogate & Knaresborough,LD,Judith Rogerson,"20,287",35.6,+12.2
+1462,Harrogate & Knaresborough,LAB,Mark Sewards,"5,480",9.6,-10.5
+1463,Harrogate & Knaresborough,YRKS,Kieron George,"1,208",2.1,+2.1
+1464,Harrow East,CON,Bob Blackman,"26,935",54.4,+5.0
+1465,Harrow East,LAB,Pamela Fitzpatrick,"18,765",37.9,-8.1
+1466,Harrow East,LD,Adam Bernard,"3,791",7.7,+4.6
+1467,Harrow West,LAB,Gareth Thomas,"25,132",52.4,-8.4
+1468,Harrow West,CON,Anwara Ali,"16,440",34.3,-0.1
+1469,Harrow West,LD,Lisa-Maria Bornemann,"4,310",9.0,+6.5
+1470,Harrow West,GRN,Rowan Langley,"1,109",2.3,+1.0
+1471,Harrow West,BRX,Richard Jones,931,1.9,+1.9
+1472,Hartlepool,LAB,Mike Hill,"15,464",37.7,-14.8
+1473,Hartlepool,CON,Stefan Houghton,"11,869",28.9,-5.3
+1474,Hartlepool,BRX,Richard Tice,"10,603",25.8,+25.8
+1475,Hartlepool,LD,Andy Hagon,"1,696",4.1,+2.3
+1476,Hartlepool,IND,Joe Bousfield,911,2.2,+2.2
+1477,Hartlepool,SLP,Kevin Cranney,494,1.2,+1.2
+1478,Harwich & Essex North,CON,Bernard Jenkin,"31,830",61.3,+2.7
+1479,Harwich & Essex North,LAB,Stephen Rice,"11,648",22.4,-8.0
+1480,Harwich & Essex North,LD,Mike Beckett,"5,866",11.3,+5.8
+1481,Harwich & Essex North,GRN,Peter Banks,"1,945",3.7,+1.7
+1482,Harwich & Essex North,IND,Richard Browning-Smith,411,0.8,+0.8
+1483,Harwich & Essex North,IND,Tony Francis,263,0.5,+0.5
+1484,Hastings & Rye,CON,Sally-Ann Hart,"26,896",49.6,+2.7
+1485,Hastings & Rye,LAB,Peter Chowney,"22,853",42.1,-4.1
+1486,Hastings & Rye,LD,Nick Perry,"3,960",7.3,+3.9
+1487,Hastings & Rye,IND,Paul Crosland,565,1.0,+1.0
+1488,Havant,CON,Alan Mak,"30,051",65.4,+5.6
+1489,Havant,LAB,Rosamund Knight,"8,259",18.0,-7.3
+1490,Havant,LD,Paul Gray,"5,708",12.4,+6.4
+1491,Havant,GRN,John Colman,"1,597",3.5,+1.1
+1492,Havant,SDP,Alan Black,344,0.7,+0.7
+1493,Hayes & Harlington,LAB,John McDonnell,"24,545",55.8,-10.7
+1494,Hayes & Harlington,CON,Wayne Bridges,"15,284",34.7,+6.1
+1495,Hayes & Harlington,LD,Alexander Cunliffe,"1,947",4.4,+3.2
+1496,Hayes & Harlington,BRX,Harry Boparai,"1,292",2.9,+2.9
+1497,Hayes & Harlington,GRN,Christine West,739,1.7,+0.5
+1498,Hayes & Harlington,CPA,Chika Amadi,187,0.4,+0.4
+1499,Hazel Grove,CON,William Wragg,"21,592",48.8,+3.3
+1500,Hazel Grove,LD,Lisa Smart,"17,169",38.8,+5.9
+1501,Hazel Grove,LAB,Tony Wilson,"5,508",12.4,-8.0
+1502,Hemel Hempstead,CON,Mike Penning,"28,968",56.5,+1.5
+1503,Hemel Hempstead,LAB,Nabila Ahmed,"14,405",28.1,-8.8
+1504,Hemel Hempstead,LD,Sammy Barry,"6,317",12.3,+6.1
+1505,Hemel Hempstead,GRN,Sherief Hassan,"1,581",3.1,+1.1
+1506,Hemsworth,LAB,Jon Trickett,"16,460",37.5,-18.5
+1507,Hemsworth,CON,Louise Calland,"15,280",34.8,+0.9
+1508,Hemsworth,BRX,Waj Ali,"5,930",13.5,+13.5
+1509,Hemsworth,IND,Ian Womersley,"2,458",5.6,+5.6
+1510,Hemsworth,LD,James Monaghan,"1,734",3.9,+2.0
+1511,Hemsworth,YRKS,Martin Roberts,964,2.2,-0.3
+1512,Hemsworth,GRN,Lyn Morton,916,2.1,+2.1
+1513,Hemsworth,IND,Pete Wilks,165,0.4,+0.4
+1514,Hendon,CON,Matthew Offord,"26,878",48.8,+0.8
+1515,Hendon,LAB,David Pinto-Duschinsky,"22,648",41.1,-4.9
+1516,Hendon,LD,Clareine Enderby,"4,628",8.4,+4.6
+1517,Hendon,GRN,Portia Vincent-Kirby,921,1.7,+0.6
+1518,Henley,CON,John Howell,"32,189",54.8,-4.3
+1519,Henley,LD,Laura Coyle,"18,136",30.9,+16.0
+1520,Henley,LAB,Zaid Marham,"5,698",9.7,-10.4
+1521,Henley,GRN,Jo Robb,"2,736",4.7,+1.4
+1522,Hereford & Herefordshire South,CON,Jesse Norman,"30,390",61.2,+7.7
+1523,Hereford & Herefordshire South,LAB,Anna-Maria Coda,"10,704",21.6,-2.2
+1524,Hereford & Herefordshire South,LD,Lucy Hurds,"6,181",12.5,+5.4
+1525,Hereford & Herefordshire South,GRN,Diana Toynbee,"2,371",4.8,+2.4
+1526,Herefordshire North,CON,Bill Wiggin,"32,158",63.0,+1.0
+1527,Herefordshire North,LD,Phillip Howells,"7,302",14.3,+2.6
+1528,Herefordshire North,LAB,Joe Wood,"6,804",13.3,-5.6
+1529,Herefordshire North,GRN,Ellie Chowns,"4,769",9.3,+3.8
+1530,Hertford & Stortford,CON,Julie Marson,"33,712",56.1,-4.2
+1531,Hertford & Stortford,LAB,Chris Vince,"14,092",23.4,-5.1
+1532,Hertford & Stortford,LD,Chris Lucas,"8,596",14.3,+6.2
+1533,Hertford & Stortford,GRN,Lucy Downes,"2,705",4.5,+1.5
+1534,Hertford & Stortford,UKIP,Alistair Lindsay,681,1.1,+1.1
+1535,Hertford & Stortford,IND,Brian Percival,308,0.5,+0.5
+1536,Hertfordshire North East,CON,Oliver Heald,"31,293",56.6,-2.1
+1537,Hertfordshire North East,LAB,Kelley Green,"13,104",23.7,-4.7
+1538,Hertfordshire North East,LD,Amy Finch,"8,563",15.5,+7.8
+1539,Hertfordshire North East,GRN,Tim Lee,"2,367",4.3,-1.1
+1540,Hertfordshire South West,CON,Gagan Mohindra,"30,327",49.6,-8.4
+1541,Hertfordshire South West,IND,David Gauke,"15,919",26.0,+26.0
+1542,Hertfordshire South West,LAB,Ali Aklakul,"7,228",11.8,-13.9
+1543,Hertfordshire South West,LD,Sally Symington,"6,251",10.2,-1.5
+1544,Hertfordshire South West,GRN,Tom Pashby,"1,466",2.4,-0.2
+1545,Hertsmere,CON,Oliver Dowden,"32,651",62.5,+1.4
+1546,Hertsmere,LAB,Holly Kal-Weiss,"11,338",21.7,-6.9
+1547,Hertsmere,LD,Stephen Barrett,"6,561",12.6,+7.2
+1548,Hertsmere,GRN,John Humphries,"1,653",3.2,+1.3
+1549,Hexham,CON,Guy Opperman,"25,152",54.5,+0.4
+1550,Hexham,LAB,Penny Grennan,"14,603",31.6,-2.5
+1551,Hexham,LD,Stephen Howse,"4,672",10.1,+3.0
+1552,Hexham,GRN,Nick Morphet,"1,723",3.7,+1.0
+1553,Heywood & Middleton,CON,Chris Clarkson,"20,453",43.1,+5.0
+1554,Heywood & Middleton,LAB,Liz McInnes,"19,790",41.7,-11.6
+1555,Heywood & Middleton,BRX,Colin Lambert,"3,952",8.3,+8.3
+1556,Heywood & Middleton,LD,Anthony Smith,"2,073",4.4,+2.2
+1557,Heywood & Middleton,GRN,Nigel Ainsworth-Barnes,"1,220",2.6,+2.6
+1558,High Peak,CON,Robert Largan,"24,844",45.9,+0.5
+1559,High Peak,LAB,Ruth George,"24,254",44.8,-4.9
+1560,High Peak,LD,David Lomax,"2,750",5.1,+0.1
+1561,High Peak,BRX,Alan Graves,"1,177",2.2,+2.2
+1562,High Peak,GRN,Robert Hodgetts-Haley,"1,148",2.1,+2.1
+1563,Hitchin & Harpenden,CON,Bim Afolami,"27,719",47.1,-6.0
+1564,Hitchin & Harpenden,LD,Sam Collins,"20,824",35.4,+24.8
+1565,Hitchin & Harpenden,LAB,Kay Tart,"9,959",16.9,-15.7
+1566,Hitchin & Harpenden,CPA,Sid Cordle,268,0.5,0.0
+1567,Hitchin & Harpenden,ADV,Peter Marshall,101,0.2,+0.2
+1568,Holborn & St Pancras,LAB,Keir Starmer,"36,641",64.5,-5.6
+1569,Holborn & St Pancras,CON,Alexandra Hayward,"8,878",15.6,-2.7
+1570,Holborn & St Pancras,LD,Matthew Kirk,"7,314",12.9,+6.1
+1571,Holborn & St Pancras,GRN,Kirsten De Keyser,"2,746",4.8,+1.5
+1572,Holborn & St Pancras,BRX,Hector Birchwood,"1,032",1.8,+1.8
+1573,Holborn & St Pancras,UKIP,Mohammad Bhatti,138,0.2,-1.0
+1574,Holborn & St Pancras,SEQ,Thomas Scripps,37,0.1,+0.1
+1575,Hornchurch & Upminster,CON,Julia Lopez,"35,495",65.8,+5.5
+1576,Hornchurch & Upminster,LAB,Tele Lawal,"12,187",22.6,-6.0
+1577,Hornchurch & Upminster,LD,Thomas Clarke,"3,862",7.2,+4.7
+1578,Hornchurch & Upminster,GRN,Peter Caton,"1,920",3.6,+1.6
+1579,Hornchurch & Upminster,BNP,David Furness,510,0.9,+0.4
+1580,Hornsey & Wood Green,LAB,Catherine West,"35,126",57.5,-7.9
+1581,Hornsey & Wood Green,LD,Dawn Barnes,"15,884",26.0,+9.9
+1582,Hornsey & Wood Green,CON,Ed McGuinness,"6,829",11.2,-3.7
+1583,Hornsey & Wood Green,GRN,Jarelle Francis,"2,192",3.6,+1.7
+1584,Hornsey & Wood Green,BRX,Daniel Corrigan,763,1.2,+1.2
+1585,Hornsey & Wood Green,CPA,Helen Spiby-Vann,211,0.3,+0.2
+1586,Hornsey & Wood Green,IND,Salah Wakie,100,0.2,+0.2
+1587,Horsham,CON,Jeremy Quin,"35,900",56.8,-2.8
+1588,Horsham,LD,Louise Potter,"14,773",23.4,+11.0
+1589,Horsham,LAB,Michael Jones,"9,424",14.9,-6.8
+1590,Horsham,GRN,Catherine Ross,"2,668",4.2,+1.2
+1591,Horsham,PP,Jim Duggan,477,0.8,+0.3
+1592,Houghton & Sunderland South,LAB,Bridget Phillipson,"16,210",40.7,-18.7
+1593,Houghton & Sunderland South,CON,Christopher Howarth,"13,095",32.9,+3.2
+1594,Houghton & Sunderland South,BRX,Kevin Yuill,"6,165",15.5,+15.5
+1595,Houghton & Sunderland South,LD,Paul Edgeworth,"2,319",5.8,+3.6
+1596,Houghton & Sunderland South,GRN,Richard Bradley,"1,125",2.8,+1.1
+1597,Houghton & Sunderland South,UKIP,Richard Elvin,897,2.3,-3.5
+1598,Hove,LAB,Peter Kyle,"32,876",58.3,-5.8
+1599,Hove,CON,Robert Nemeth,"15,832",28.1,-3.5
+1600,Hove,LD,Beatrice Bass,"3,731",6.6,+4.3
+1601,Hove,GRN,Ollie Sykes,"2,496",4.4,+2.7
+1602,Hove,BRX,Angela Hancock,"1,111",2.0,+2.0
+1603,Hove,MRLP,Dame Dixon,195,0.3,+0.3
+1604,Hove,IND,Charlotte Sabel,150,0.3,+0.3
+1605,Huddersfield,LAB,Barry Sheerman,"20,509",49.0,-11.4
+1606,Huddersfield,CON,Ken Davy,"15,572",37.2,+4.2
+1607,Huddersfield,LD,James Wilkinson,"2,367",5.7,+3.0
+1608,Huddersfield,GRN,Andrew Cooper,"1,768",4.2,+1.0
+1609,Huddersfield,BRX,Stuart Hale,"1,666",4.0,+4.0
+1610,Hull East,LAB,Karl Turner,"12,713",39.2,-19.1
+1611,Hull East,CON,Rachel Storer,"11,474",35.4,+5.5
+1612,Hull East,BRX,Marten Hall,"5,764",17.8,+17.8
+1613,Hull East,LD,Bob Morgan,"1,707",5.3,+1.8
+1614,Hull East,GRN,Julia Brown,784,2.4,+1.1
+1615,Hull North,LAB,Diana Johnson,"17,033",49.8,-14.0
+1616,Hull North,CON,Holly Whitbread,"9,440",27.6,+2.4
+1617,Hull North,BRX,Derek Abram,"4,771",13.9,+13.9
+1618,Hull North,LD,Mike Ross,"2,084",6.1,+1.1
+1619,Hull North,GRN,Richard Howarth,875,2.6,+0.9
+1620,Hull West & Hessle,LAB,Emma Hardy,"13,384",42.7,-10.4
+1621,Hull West & Hessle,CON,Scott Bell,"10,528",33.6,+3.7
+1622,Hull West & Hessle,BRX,Michelle Dewberry,"5,638",18.0,+18.0
+1623,Hull West & Hessle,LD,David Nolan,"1,756",5.6,-0.8
+1624,Hull West & Hessle,GRN,Mike Lammiman,50,0.2,-0.8
+1625,Huntingdon,CON,Jonathan Djanogly,"32,386",54.8,-0.4
+1626,Huntingdon,LAB,Samuel Sweek,"13,003",22.0,-8.9
+1627,Huntingdon,LD,Mark Argent,"9,432",15.9,+7.4
+1628,Huntingdon,GRN,Daniel Laycock,"2,233",3.8,+1.9
+1629,Huntingdon,IND,Paul Bullen,"1,789",3.0,+3.0
+1630,Huntingdon,IND,Tom Varghese,304,0.5,+0.5
+1631,Hyndburn,CON,Sara Britcliffe,"20,565",48.5,+8.0
+1632,Hyndburn,LAB,Graham Jones,"17,614",41.5,-11.8
+1633,Hyndburn,BRX,Gregory Butt,"2,156",5.1,+5.1
+1634,Hyndburn,LD,Adam Waller-Slack,"1,226",2.9,+1.1
+1635,Hyndburn,GRN,Katrina Brockbank,845,2.0,+2.0
+1636,Ilford North,LAB,Wes Streeting,"25,323",50.5,-7.2
+1637,Ilford North,CON,Howard Berlin,"20,105",40.1,+0.5
+1638,Ilford North,LD,Mark Johnson,"2,680",5.3,+3.4
+1639,Ilford North,BRX,Neil Anderson,960,1.9,+1.9
+1640,Ilford North,GRN,David Reynolds,845,1.7,+1.7
+1641,Ilford North,CPA,Donald Akhigbe,201,0.4,+0.4
+1642,Ilford South,LAB,Sam Tarry,"35,085",65.6,-10.2
+1643,Ilford South,CON,Ali Azeem,"10,984",20.5,-0.4
+1644,Ilford South,TIG,Mike Gapes,"3,891",7.3,+7.3
+1645,Ilford South,LD,Ashburn Holder,"1,795",3.4,+2.0
+1646,Ilford South,BRX,Munish Sharma,"1,008",1.9,+1.9
+1647,Ilford South,GRN,RoseMary Warrington,714,1.3,+0.4
+1648,Inverclyde,SNP,Ronnie Cowan,"19,295",48.4,+9.9
+1649,Inverclyde,LAB,Martin McCluskey,"11,783",29.5,-8.0
+1650,Inverclyde,CON,Haroun Malik,"6,265",15.7,-5.8
+1651,Inverclyde,LD,Jacci Stoyle,"2,560",6.4,+3.9
+1652,"Inverness, Nairn, Badenoch & Strathspey",SNP,Drew Hendry,"26,247",47.9,+8.0
+1653,"Inverness, Nairn, Badenoch & Strathspey",CON,Fiona Fawcett,"15,807",28.8,-1.7
+1654,"Inverness, Nairn, Badenoch & Strathspey",LD,Robert Rixson,"5,846",10.7,-1.6
+1655,"Inverness, Nairn, Badenoch & Strathspey",LAB,Lewis Whyte,"4,123",7.5,-8.7
+1656,"Inverness, Nairn, Badenoch & Strathspey",GRN,Ariane Burgess,"1,709",3.1,+3.1
+1657,"Inverness, Nairn, Badenoch & Strathspey",BRX,Les Durance,"1,078",2.0,+2.0
+1658,Ipswich,CON,Tom Hunt,"24,952",50.3,+4.6
+1659,Ipswich,LAB,Sandy Martin,"19,473",39.3,-8.1
+1660,Ipswich,LD,Adrian Hyyrylainen-Trett,"2,439",4.9,+2.6
+1661,Ipswich,BRX,Nicola Thomas,"1,432",2.9,+2.9
+1662,Ipswich,GRN,Barry Broom,"1,283",2.6,+0.9
+1663,Isle of Wight,CON,Bob Seely,"41,815",56.2,+4.9
+1664,Isle of Wight,LAB,Richard Quigley,"18,078",24.3,+1.3
+1665,Isle of Wight,GRN,Vix Lowthion,"11,338",15.2,-2.1
+1666,Isle of Wight,INET,Carl Feeney,"1,542",2.1,+2.1
+1667,Isle of Wight,IND,Karl Love,874,1.2,+1.2
+1668,Isle of Wight,IND,Daryll Pitcher,795,1.1,+1.1
+1669,Islington North,LAB,Jeremy Corbyn,"34,603",64.3,-8.7
+1670,Islington North,LD,Nick Wakeling,"8,415",15.6,+6.6
+1671,Islington North,CON,James Clark,"5,483",10.2,-2.3
+1672,Islington North,GRN,Caroline Russell,"4,326",8.0,+4.0
+1673,Islington North,BRX,Yosef David,742,1.4,+1.4
+1674,Islington North,MRLP,Nick The Brick,236,0.4,+0.2
+1675,Islington South & Finsbury,LAB,Emily Thornberry,"26,897",56.3,-6.6
+1676,Islington South & Finsbury,LD,Kate Pothalingam,"9,569",20.0,+7.9
+1677,Islington South & Finsbury,CON,Jason Charalambous,"8,045",16.8,-3.8
+1678,Islington South & Finsbury,GRN,Talia Hussain,"1,987",4.2,+1.7
+1679,Islington South & Finsbury,BRX,Paddy Hannam,"1,136",2.4,+2.4
+1680,Islington South & Finsbury,MRLP,Lord Sandys Of Bunhill,182,0.4,+0.4
+1681,Islwyn,LAB,Chris Evans,"15,356",44.7,-14.1
+1682,Islwyn,CON,Gavin Chambers,"9,892",28.8,+1.6
+1683,Islwyn,BRX,James Wells,"4,834",14.1,+14.1
+1684,Islwyn,PC,Zoe Hammond,"2,286",6.7,-0.9
+1685,Islwyn,LD,Jo Watkins,"1,313",3.8,+1.9
+1686,Islwyn,GRN,Catherine Linstrum,669,1.9,+1.9
+1687,Jarrow,LAB,Kate Osborne,"18,363",45.1,-20.0
+1688,Jarrow,CON,Nick Oliver,"11,243",27.6,+2.6
+1689,Jarrow,BRX,Richard Monaghan,"4,122",10.1,+10.1
+1690,Jarrow,IND,John Robertson,"2,991",7.3,+7.3
+1691,Jarrow,LD,David Wilkinson,"2,360",5.8,+3.1
+1692,Jarrow,GRN,James Milne,831,2.0,+0.3
+1693,Jarrow,IND,Shaun Sadler,614,1.5,+1.5
+1694,Jarrow,SDP,Mark Conway,212,0.5,+0.5
+1695,Keighley,CON,Robbie Moore,"25,298",48.1,+2.0
+1696,Keighley,LAB,John Grogan,"23,080",43.9,-2.6
+1697,Keighley,LD,Tom Franks,"2,573",4.9,+2.5
+1698,Keighley,BRX,Waqas Khan,850,1.6,+1.6
+1699,Keighley,YRKS,Mark Barton,667,1.3,+1.3
+1700,Keighley,SDP,Matthew Rose,132,0.3,+0.3
+1701,Kenilworth & Southam,CON,Jeremy Wright,"30,351",57.7,-3.1
+1702,Kenilworth & Southam,LD,Richard Dickson,"9,998",19.0,+9.4
+1703,Kenilworth & Southam,LAB,Antony Tucker,"9,440",17.9,-7.6
+1704,Kenilworth & Southam,GRN,Alison Firth,"2,351",4.5,+2.3
+1705,Kenilworth & Southam,MRLP,Nicholas Green,457,0.9,+0.9
+1706,Kensington,CON,Felicity Buchan,"16,768",38.3,-3.9
+1707,Kensington,LAB,Emma Dent Coad,"16,618",38.0,-4.3
+1708,Kensington,LD,Sam Gyimah,"9,312",21.3,+9.1
+1709,Kensington,GRN,Vivien Lichtenstein,535,1.2,-0.8
+1710,Kensington,BRX,Jay Aston Colquhoun,384,0.9,+0.9
+1711,Kensington,CPA,Roger Phillips,70,0.2,+0.2
+1712,Kensington,TLW,Harriet Gore,47,0.1,+0.1
+1713,Kensington,WRP,Scott Dore,28,0.1,+0.1
+1714,Kettering,CON,Philip Hollobone,"29,787",60.3,+2.4
+1715,Kettering,LAB,Clare Pavitt,"13,022",26.4,-10.2
+1716,Kettering,LD,Chris Nelson,"3,367",6.8,+3.5
+1717,Kettering,IND,Jim Hakewill,"1,642",3.3,+3.3
+1718,Kettering,GRN,Jamie Wildman,"1,543",3.1,+0.9
+1719,Kilmarnock & Loudoun,SNP,Alan Brown,"24,216",50.8,+8.5
+1720,Kilmarnock & Loudoun,CON,Caroline Hollins,"11,557",24.3,-2.4
+1721,Kilmarnock & Loudoun,LAB,Kevin McGregor,"9,009",18.9,-9.9
+1722,Kilmarnock & Loudoun,LD,Edward Thornley,"2,444",5.1,+3.0
+1723,Kilmarnock & Loudoun,LBT,Stef Johnstone,405,0.9,+0.9
+1724,Kingston & Surbiton,LD,Ed Davey,"31,103",51.1,+6.4
+1725,Kingston & Surbiton,CON,Aphra Brandreth,"20,614",33.9,-4.2
+1726,Kingston & Surbiton,LAB,Leanne Werner,"6,528",10.7,-4.1
+1727,Kingston & Surbiton,GRN,Sharron Sumner,"1,038",1.7,+0.8
+1728,Kingston & Surbiton,BRX,Scott Holman,788,1.3,+1.3
+1729,Kingston & Surbiton,IND,James Giles,458,0.8,+0.8
+1730,Kingston & Surbiton,MRLP,Chinners Chinnery,193,0.3,0.0
+1731,Kingston & Surbiton,UKIP,Roger Glencross,124,0.2,-0.9
+1732,Kingswood,CON,Chris Skidmore,"27,712",56.2,+1.3
+1733,Kingswood,LAB,Nicola Bowden-Jones,"16,492",33.4,-6.1
+1734,Kingswood,LD,Dine Romero,"3,421",6.9,+3.3
+1735,Kingswood,GRN,Joseph Evans,"1,200",2.4,+0.4
+1736,Kingswood,ANWP,Angelika Cowell,489,1.0,+1.0
+1737,Kirkcaldy & Cowdenbeath,SNP,Neale Hanvey,"16,568",35.2,-1.0
+1738,Kirkcaldy & Cowdenbeath,LAB,Lesley Laird,"15,325",32.6,-4.2
+1739,Kirkcaldy & Cowdenbeath,CON,Kathleen Leslie,"9,449",20.1,-3.2
+1740,Kirkcaldy & Cowdenbeath,LD,Gill Cole-Hamilton,"2,903",6.2,+3.8
+1741,Kirkcaldy & Cowdenbeath,GRN,Scott Rutherford,"1,628",3.5,+3.5
+1742,Kirkcaldy & Cowdenbeath,BRX,Mitch William,"1,132",2.4,+2.4
+1743,Knowsley,LAB,George Howarth,"44,374",80.8,-4.6
+1744,Knowsley,CON,Rushi Millns,"4,432",8.1,-1.2
+1745,Knowsley,BRX,Tim McCullough,"3,348",6.1,+6.1
+1746,Knowsley,GRN,Paul Woodruff,"1,262",2.3,+1.4
+1747,Knowsley,LD,Joe Slupsky,"1,117",2.0,-0.1
+1748,Knowsley,LIB,Ray Catesby,405,0.7,+0.7
+1749,Lagan Valley,DUP,Jeffrey Donaldson,"19,586",43.1,-16.4
+1750,Lagan Valley,APNI,Sorcha Eastwood,"13,087",28.8,+17.7
+1751,Lagan Valley,UUP,Robbie Butler,"8,606",19.0,+2.2
+1752,Lagan Valley,SDLP,Ally Haydock,"1,758",3.9,-3.7
+1753,Lagan Valley,SF,Gary McCleave,"1,098",2.4,-1.1
+1754,Lagan Valley,CON,Gary Hynds,955,2.1,+1.1
+1755,Lagan Valley,UKIP,Alan Love,315,0.7,+0.7
+1756,Lanark & Hamilton East,SNP,Angela Crawley,"22,243",41.9,+9.3
+1757,Lanark & Hamilton East,CON,Shona Haslam,"17,056",32.1,+0.1
+1758,Lanark & Hamilton East,LAB,Andrew Hilland,"10,736",20.2,-11.6
+1759,Lanark & Hamilton East,LD,Jane Pickard,"3,037",5.7,+3.3
+1760,Lancashire West,LAB,Rosie Cooper,"27,458",52.1,-6.8
+1761,Lancashire West,CON,Jack Gilmore,"19,122",36.3,-1.1
+1762,Lancashire West,LD,Simon Thomson,"2,560",4.9,+2.9
+1763,Lancashire West,BRX,Marc Stanton,"2,275",4.3,+4.3
+1764,Lancashire West,GRN,John Puddifer,"1,248",2.4,+1.1
+1765,Lancaster & Fleetwood,LAB,Cat Smith,"21,184",46.8,-8.3
+1766,Lancaster & Fleetwood,CON,Louise Thistlethwaite,"18,804",41.6,+1.0
+1767,Lancaster & Fleetwood,LD,Peter Jackson,"2,018",4.5,+1.9
+1768,Lancaster & Fleetwood,BRX,Leanne Murray,"1,817",4.0,+4.0
+1769,Lancaster & Fleetwood,GRN,Caroline Jackson,"1,396",3.1,+1.4
+1770,Leeds Central,LAB,Hilary Benn,"30,413",61.7,-8.5
+1771,Leeds Central,CON,Peter Fortune,"11,143",22.6,+2.1
+1772,Leeds Central,BRX,Paul Thomas,"2,999",6.1,+6.1
+1773,Leeds Central,LD,Jack Holland,"2,343",4.8,+2.5
+1774,Leeds Central,GRN,Ed Carlisle,"2,105",4.3,+1.8
+1775,Leeds Central,SDP,William Clouston,281,0.6,+0.6
+1776,Leeds East,LAB,Richard Burgon,"19,464",49.8,-11.5
+1777,Leeds East,CON,Jill Mortimer,"13,933",35.7,+5.1
+1778,Leeds East,BRX,Sarah Wass,"2,981",7.6,+7.6
+1779,Leeds East,LD,David Dresser,"1,796",4.6,+2.8
+1780,Leeds East,GRN,Shahab Adris,878,2.2,+1.2
+1781,Leeds North East,LAB,Fabian Hamilton,"29,024",57.5,-5.6
+1782,Leeds North East,CON,Amjad Bashir,"11,935",23.6,-7.4
+1783,Leeds North East,LD,Jon Hannah,"5,665",11.2,+7.5
+1784,Leeds North East,GRN,Rachel Hartshorne,"1,931",3.8,+2.5
+1785,Leeds North East,BRX,Inaya Iman,"1,769",3.5,+3.5
+1786,Leeds North East,AGS,Celia Foote,176,0.3,+0.1
+1787,Leeds North West,LAB,Alex Sobel,"23,971",48.6,+4.5
+1788,Leeds North West,CON,Stewart Harper,"13,222",26.8,+7.2
+1789,Leeds North West,LD,Kamran Hussain,"9,397",19.1,-15.9
+1790,Leeds North West,GRN,Martin Hemingway,"1,389",2.8,+1.6
+1791,Leeds North West,BRX,Graeme Webber,"1,304",2.6,+2.6
+1792,Leeds West,LAB,Rachel Reeves,"22,186",55.1,-8.9
+1793,Leeds West,CON,Mark Dormer,"11,622",28.9,+2.7
+1794,Leeds West,BRX,Phillip Mars,"2,685",6.7,+6.7
+1795,Leeds West,LD,Dan Walker,"1,787",4.4,+2.3
+1796,Leeds West,GRN,Victoria Smith,"1,274",3.2,+0.7
+1797,Leeds West,YRKS,Ian Cowling,650,1.6,+0.7
+1798,Leeds West,SDP,Daniel Whetstone,46,0.1,+0.1
+1799,Leeds West,AGS,Mike Davies,31,0.1,0.0
+1800,Leicester East,LAB,Claudia Webbe,"25,090",50.8,-16.2
+1801,Leicester East,CON,Bhupen Dave,"19,071",38.6,+14.4
+1802,Leicester East,LD,Nitesh Dave,"2,800",5.7,+3.1
+1803,Leicester East,BRX,Tara Baldwin,"1,243",2.5,+2.5
+1804,Leicester East,GRN,Melanie Wakley,888,1.8,-0.2
+1805,Leicester East,IND,Sanjay Gogia,329,0.7,+0.7
+1806,Leicester South,LAB,Jonathan Ashworth,"33,606",67.0,-6.5
+1807,Leicester South,CON,Natalie Neale,"10,931",21.8,+0.2
+1808,Leicester South,LD,Chris Coghlan,"2,754",5.5,+2.9
+1809,Leicester South,GRN,Mags Lewis,"1,669",3.3,+1.0
+1810,Leicester South,BRX,James Potter,"1,187",2.4,+2.4
+1811,Leicester West,LAB,Liz Kendall,"17,291",49.7,-11.1
+1812,Leicester West,CON,Amanda Wright,"13,079",37.6,+6.3
+1813,Leicester West,LD,Ian Bradwell,"1,808",5.2,+3.1
+1814,Leicester West,BRX,Jack Collier,"1,620",4.7,+4.7
+1815,Leicester West,GRN,Ani Goddard,977,2.8,+1.2
+1816,Leicestershire North West,CON,Andrew Bridgen,"33,811",62.8,+4.6
+1817,Leicestershire North West,LAB,Terri Eynon,"13,411",24.9,-8.5
+1818,Leicestershire North West,LD,Grahame Hudson,"3,614",6.7,+0.3
+1819,Leicestershire North West,GRN,Carl Benfield,"2,478",4.6,+2.5
+1820,Leicestershire North West,IND,Edward Nudd,367,0.7,+0.7
+1821,Leicestershire North West,LBT,Dan Liddicott,140,0.3,+0.3
+1822,Leicestershire South,CON,Alberto Costa,"36,791",64.0,+2.6
+1823,Leicestershire South,LAB,Tristan Koriya,"12,787",22.3,-6.3
+1824,Leicestershire South,LD,Phil Knowles,"5,452",9.5,+5.2
+1825,Leicestershire South,GRN,Nick Cox,"2,439",4.2,+2.3
+1826,Leigh,CON,James Grundy,"21,266",45.3,+9.4
+1827,Leigh,LAB,Joanne Platt,"19,301",41.1,-15.1
+1828,Leigh,BRX,James Melly,"3,161",6.7,+6.7
+1829,Leigh,LD,Mark Clayton,"2,252",4.8,+2.8
+1830,Leigh,IND,Ann O'Bern,551,1.2,+1.2
+1831,Leigh,UKIP,Leon Peters,448,1.0,-5.0
+1832,Lewes,CON,Maria Caulfield,"26,268",47.9,-1.6
+1833,Lewes,LD,Oli Henman,"23,811",43.4,+4.1
+1834,Lewes,LAB,Kate Chappell,"3,206",5.8,-5.3
+1835,Lewes,GRN,Johnny Denis,"1,453",2.6,+2.6
+1836,Lewes,IND,Paul Cragg,113,0.2,+0.2
+1837,Lewisham Deptford,LAB,Vicky Foxcroft,"39,216",70.8,-6.2
+1838,Lewisham Deptford,CON,Gavin Haran,"6,303",11.4,-2.3
+1839,Lewisham Deptford,LD,Bobby Dean,"5,774",10.4,+5.1
+1840,Lewisham Deptford,GRN,Andrea Carey Fuller,"3,085",5.6,+2.6
+1841,Lewisham Deptford,BRX,Moses Etienne,789,1.4,+1.4
+1842,Lewisham Deptford,IND,Tan Bui,130,0.2,+0.2
+1843,Lewisham Deptford,AGS,John Lloyd,71,0.1,+0.1
+1844,Lewisham East,LAB,Janet Daby,"26,661",59.5,-8.5
+1845,Lewisham East,CON,Sam Thurgood,"9,653",21.5,-1.5
+1846,Lewisham East,LD,Ade Fatukasi,"5,039",11.2,+6.8
+1847,Lewisham East,GRN,Rosamund Adoo-Kissi-Debrah,"1,706",3.8,+2.1
+1848,Lewisham East,BRX,Wesley Pollard,"1,234",2.8,+2.8
+1849,Lewisham East,CPA,Maureen Martin,277,0.6,+0.1
+1850,Lewisham East,IND,Mark Barber,152,0.3,+0.3
+1851,Lewisham East,YPP,Richard Galloway,50,0.1,+0.1
+1852,Lewisham East,IND,Elder Roger Mighton,43,0.1,+0.1
+1853,Lewisham West & Penge,LAB,Ellie Reeves,"31,860",61.2,-5.4
+1854,Lewisham West & Penge,CON,Aisha Cuthbert,"10,317",19.8,-3.2
+1855,Lewisham West & Penge,LD,Alex Feakes,"6,260",12.0,+5.8
+1856,Lewisham West & Penge,GRN,James Braun,"2,390",4.6,+2.4
+1857,Lewisham West & Penge,BRX,Teixeira Hambro,"1,060",2.0,+2.0
+1858,Lewisham West & Penge,CPA,Katherine Hortense,213,0.4,-0.2
+1859,Leyton & Wanstead,LAB,John Cryer,"28,836",64.7,-5.1
+1860,Leyton & Wanstead,CON,Noshaba Khiljee,"8,028",18.0,-2.8
+1861,Leyton & Wanstead,LD,Ben Sims,"4,666",10.5,+4.1
+1862,Leyton & Wanstead,GRN,Ashley Gunstock,"1,805",4.1,+1.1
+1863,Leyton & Wanstead,BRX,Zulf Jannaty,785,1.8,+1.8
+1864,Leyton & Wanstead,IND,Henry Scott,427,1.0,+1.0
+1865,Lichfield,CON,Michael Fabricant,"34,844",64.5,+1.0
+1866,Lichfield,LAB,Dave Robertson,"11,206",20.8,-8.1
+1867,Lichfield,LD,Paul Ray,"5,632",10.4,+5.5
+1868,Lichfield,GRN,Andrea Muckley,"1,743",3.2,+0.6
+1869,Lichfield,IND,John Madden,568,1.1,+1.1
+1870,Lincoln,CON,Karl McCartney,"24,267",47.9,+3.2
+1871,Lincoln,LAB,Karen Lee,"20,753",41.0,-6.9
+1872,Lincoln,LD,Caroline Kenyon,"2,422",4.8,+2.1
+1873,Lincoln,GRN,Sally Horscroft,"1,195",2.4,+1.2
+1874,Lincoln,BRX,Reece Wilkes,"1,079",2.1,+2.1
+1875,Lincoln,IND,Rob Bradley,609,1.2,+1.2
+1876,Lincoln,LIB,Charles Shaw,304,0.6,+0.6
+1877,Linlithgow & Falkirk East,SNP,Martyn Day,"25,551",44.2,+7.9
+1878,Linlithgow & Falkirk East,CON,Charles Kennedy,"14,285",24.7,-4.4
+1879,Linlithgow & Falkirk East,LAB,Wendy Milne,"10,517",18.2,-12.9
+1880,Linlithgow & Falkirk East,LD,Sally Pattle,"4,393",7.6,+4.2
+1881,Linlithgow & Falkirk East,BRX,Marc Bozza,"1,257",2.2,+2.2
+1882,Linlithgow & Falkirk East,GRN,Gillian Mackay,"1,184",2.0,+2.0
+1883,Linlithgow & Falkirk East,VPP,Mark Tunnicliff,588,1.0,+1.0
+1884,Liverpool Riverside,LAB,Kim Johnson,"41,170",78.0,-6.6
+1885,Liverpool Riverside,CON,Sean Malkeson,"4,127",7.8,-1.9
+1886,Liverpool Riverside,GRN,Tom Crone,"3,017",5.7,+2.4
+1887,Liverpool Riverside,LD,Rob McAllister-Bell,"2,696",5.1,+2.6
+1888,Liverpool Riverside,BRX,David Leach,"1,779",3.4,+3.4
+1889,Liverpool Walton,LAB,Dan Carden,"34,538",84.7,-1.0
+1890,Liverpool Walton,CON,Alex Phillips,"4,018",9.9,+1.3
+1891,Liverpool Walton,GRN,Ted Grant,814,2.0,+0.8
+1892,Liverpool Walton,LD,David Newman,756,1.9,+0.3
+1893,Liverpool Walton,LIB,Billy Lake,660,1.6,+1.6
+1894,Liverpool Wavertree,LAB,Paula Barker,"31,310",72.2,-7.4
+1895,Liverpool Wavertree,CON,Catherine Mulhern,"4,225",9.7,-2.3
+1896,Liverpool Wavertree,LD,Richard Kemp,"4,055",9.3,+2.8
+1897,Liverpool Wavertree,BRX,Adam Heatherington,"1,921",4.4,+4.4
+1898,Liverpool Wavertree,GRN,Kay Inckle,"1,365",3.1,+1.8
+1899,Liverpool Wavertree,LIB,Mick Coyne,501,1.2,+1.2
+1900,Liverpool West Derby,LAB,Ian Byrne,"34,117",77.6,-5.2
+1901,Liverpool West Derby,CON,Tom Bradley,"4,133",9.4,-0.5
+1902,Liverpool West Derby,BRX,Ray Pearson,"2,012",4.6,+4.6
+1903,Liverpool West Derby,LIB,Steve Radford,"1,826",4.2,-0.6
+1904,Liverpool West Derby,LD,Paul Parr,"1,296",2.9,+1.7
+1905,Liverpool West Derby,GRN,William Ward,605,1.4,+0.6
+1906,Livingston,SNP,Hannah Bardell,"25,617",46.9,+6.9
+1907,Livingston,CON,Damian Timson,"12,182",22.3,-2.1
+1908,Livingston,LAB,Caitlin Kane,"11,915",21.8,-10.9
+1909,Livingston,LD,Charles Dundas,"3,457",6.3,+3.5
+1910,Livingston,GRN,Cameron Glasgow,"1,421",2.6,+2.6
+1911,Llanelli,LAB,Nia Griffith,"16,125",42.2,-11.3
+1912,Llanelli,CON,Tamara Reay,"11,455",30.0,+6.3
+1913,Llanelli,PC,Mari Arthur,"7,048",18.4,+0.2
+1914,Llanelli,BRX,Susan Boucher,"3,605",9.4,+9.4
+1915,Loughborough,CON,Jane Hunt,"27,954",51.2,+1.3
+1916,Loughborough,LAB,Stuart Brady,"20,785",38.0,-4.0
+1917,Loughborough,LD,Ian Sharpe,"4,153",7.6,+4.0
+1918,Loughborough,GRN,Wes Walton,"1,504",2.8,+1.0
+1919,Loughborough,IND,Queenie Tea,235,0.4,+0.4
+1920,Louth & Horncastle,CON,Victoria Atkins,"38,021",72.7,+8.7
+1921,Louth & Horncastle,LAB,Ellie Green,"9,153",17.5,-9.2
+1922,Louth & Horncastle,LD,Ross Pepper,"4,114",7.9,+4.1
+1923,Louth & Horncastle,MRLP,The Iconic Arty-Pole,"1,044",2.0,+1.1
+1924,Ludlow,CON,Philip Dunne,"32,185",64.1,+1.2
+1925,Ludlow,LD,Heather Kidd,"8,537",17.0,+6.3
+1926,Ludlow,LAB,Kuldip Sahota,"7,591",15.1,-9.2
+1927,Ludlow,GRN,Hilary Wendt,"1,912",3.8,+1.7
+1928,Luton North,LAB,Sarah Owen,"23,496",55.2,-8.7
+1929,Luton North,CON,Jeet Bains,"14,249",33.5,+0.4
+1930,Luton North,LD,Linda Jack,"2,063",4.8,+3.1
+1931,Luton North,BRX,Sudhir Sharma,"1,215",2.9,+2.9
+1932,Luton North,GRN,Simon Hall,771,1.8,+0.4
+1933,Luton North,IND,Muhammad Rehman,646,1.5,+1.5
+1934,Luton North,WEP,Serena Laidley,149,0.3,+0.3
+1935,Luton South,LAB,Rachel Hopkins,"21,787",51.8,-10.6
+1936,Luton South,CON,Parvez Akhtar,"13,031",31.0,-1.3
+1937,Luton South,IND,Gavin Shuker,"3,893",9.3,+9.3
+1938,Luton South,BRX,Garry Warren,"1,601",3.8,+3.8
+1939,Luton South,GRN,Ben Foley,995,2.4,+1.4
+1940,Luton South,IND,Mohammed Ashraf,489,1.2,+1.2
+1941,Luton South,LUTN,John French,268,0.6,+0.6
+1942,Macclesfield,CON,David Rutley,"28,292",52.5,-0.1
+1943,Macclesfield,LAB,Neil Puttick,"17,581",32.6,-4.2
+1944,Macclesfield,LD,Neil Christian,"5,684",10.6,+4.4
+1945,Macclesfield,GRN,James Booth,"2,310",4.3,+2.1
+1946,Maidenhead,CON,Theresa May,"32,620",57.7,-7.0
+1947,Maidenhead,LD,Joshua Reynolds,"13,774",24.4,+13.2
+1948,Maidenhead,LAB,Patrick McDonald,"7,882",14.0,-5.4
+1949,Maidenhead,GRN,Emily Tomalin,"2,216",3.9,+2.4
+1950,Maidstone & The Weald,CON,Helen Grant,"31,220",60.4,+4.0
+1951,Maidstone & The Weald,LAB,Dan Wilkinson,"9,448",18.3,-3.8
+1952,Maidstone & The Weald,LD,James Willis,"8,482",16.4,+0.1
+1953,Maidstone & The Weald,GRN,Stuart Jeffery,"2,172",4.2,+2.5
+1954,Maidstone & The Weald,IND,Yolande Kenward,358,0.7,+0.4
+1955,Makerfield,LAB,Yvonne Fovargue,"19,954",45.1,-15.1
+1956,Makerfield,CON,Nick King,"15,214",34.4,+3.0
+1957,Makerfield,BRX,Ross Wright,"5,817",13.1,+13.1
+1958,Makerfield,LD,John Skipworth,"2,108",4.8,+1.9
+1959,Makerfield,GRN,Sheila Shaw,"1,166",2.6,+2.6
+1960,Maldon,CON,John Whittingdale,"36,304",72.0,+4.1
+1961,Maldon,LAB,Stephen Capper,"6,263",12.4,-8.9
+1962,Maldon,LD,Colin Baldy,"5,990",11.9,+7.5
+1963,Maldon,GRN,Janet Band,"1,851",3.7,+1.5
+1964,Manchester Central,LAB,Lucy Powell,"36,823",70.4,-7.0
+1965,Manchester Central,CON,Shaden Jaradat,"7,734",14.8,+0.6
+1966,Manchester Central,LD,John Bridges,"3,420",6.5,+3.2
+1967,Manchester Central,BRX,Sarah Chadwick,"2,335",4.5,+4.5
+1968,Manchester Central,GRN,Melanie Horrocks,"1,870",3.6,+1.9
+1969,Manchester Central,SEQ,Dennis Leech,107,0.2,+0.2
+1970,Manchester Gorton,LAB,Afzal Khan,"34,583",77.6,+1.3
+1971,Manchester Gorton,CON,Sebastian Lowe,"4,244",9.5,+2.2
+1972,Manchester Gorton,LD,Jackie Pearcey,"2,448",5.5,-0.2
+1973,Manchester Gorton,GRN,Eliza Tyrrell,"1,697",3.8,+1.6
+1974,Manchester Gorton,BRX,Lesley Kaya,"1,573",3.5,+3.5
+1975,Manchester Withington,LAB,Jeff Smith,"35,902",67.7,-3.9
+1976,Manchester Withington,LD,John Leech,"7,997",15.1,-0.9
+1977,Manchester Withington,CON,Shengke Zhi,"5,820",11.0,+0.7
+1978,Manchester Withington,GRN,Lucy Bannister,"1,968",3.7,+2.1
+1979,Manchester Withington,BRX,Stephen Ward,"1,308",2.5,+2.5
+1980,Mansfield,CON,Ben Bradley,"31,484",63.9,+17.3
+1981,Mansfield,LAB,Sonya Ward,"15,178",30.8,-13.7
+1982,Mansfield,LD,Sarah Brown,"1,626",3.3,+1.9
+1983,Mansfield,IND,Sid Pepper,527,1.1,+1.1
+1984,Mansfield,IND,Stephen Harvey,458,0.9,+0.9
+1985,Meon Valley,CON,Flick Drummond,"35,271",64.3,-1.4
+1986,Meon Valley,LD,Lewis North,"11,716",21.4,+10.5
+1987,Meon Valley,LAB,Matthew Bunday,"5,644",10.3,-8.0
+1988,Meon Valley,GRN,Malcolm Wallace,"2,198",4.0,+1.6
+1989,Meriden,CON,Saqib Bhatti,"34,358",63.4,+1.4
+1990,Meriden,LAB,Teresa Beddis,"11,522",21.3,-5.6
+1991,Meriden,LD,Laura McCarthy,"5,614",10.4,+5.5
+1992,Meriden,GRN,Steve Caudwell,"2,667",4.9,+2.3
+1993,Merthyr Tydfil & Rhymney,LAB,Gerald Jones,"16,913",52.4,-14.3
+1994,Merthyr Tydfil & Rhymney,CON,Sara Jones,"6,307",19.6,+1.5
+1995,Merthyr Tydfil & Rhymney,BRX,Colin Jones,"3,604",11.2,+11.2
+1996,Merthyr Tydfil & Rhymney,PC,Mark Evans,"2,446",7.6,-0.6
+1997,Merthyr Tydfil & Rhymney,IND,David Hughes,"1,860",5.8,+5.8
+1998,Merthyr Tydfil & Rhymney,LD,Brendan D'Cruz,"1,116",3.5,+1.0
+1999,Mid Ulster,SF,Francie Molloy,"20,473",45.9,-8.6
+2000,Mid Ulster,DUP,Keith Buchanan,"10,936",24.5,-2.4
+2001,Mid Ulster,SDLP,Denise Johnston,"6,384",14.3,+4.5
+2002,Mid Ulster,APNI,Mel Boyle,"3,526",7.9,+5.6
+2003,Mid Ulster,UUP,Neil Richardson,"2,611",5.9,-0.6
+2004,Mid Ulster,IND,Conor Rafferty,690,1.5,+1.5
+2005,Middlesbrough,LAB,Andy McDonald,"17,202",53.5,-12.2
+2006,Middlesbrough,CON,Ruth Betson,"8,812",27.4,+0.7
+2007,Middlesbrough,IND,Antony High,"4,548",14.2,+14.2
+2008,Middlesbrough,LD,Thomas Crawford,816,2.5,+1.5
+2009,Middlesbrough,GRN,Hugh Alberti,546,1.7,+1.0
+2010,Middlesbrough,BRX,Faye Clements,216,0.7,+0.7
+2011,Middlesbrough South & Cleveland East,CON,Simon Clarke,"28,135",58.8,+9.2
+2012,Middlesbrough South & Cleveland East,LAB,Lauren Dingsdale,"16,509",34.5,-13.0
+2013,Middlesbrough South & Cleveland East,LD,Jemma Joy,"1,953",4.1,+1.2
+2014,Middlesbrough South & Cleveland East,GRN,Sophie Brown,"1,220",2.6,+2.6
+2015,Midlothian,SNP,Owen Thompson,"20,033",41.5,+7.1
+2016,Midlothian,LAB,Danielle Rowley,"14,328",29.7,-6.6
+2017,Midlothian,CON,Rebecca Fraser,"10,467",21.7,-3.7
+2018,Midlothian,LD,Steve Arrundale,"3,393",7.0,+3.2
+2019,Milton Keynes North,CON,Ben Everitt,"30,938",49.5,+2.0
+2020,Milton Keynes North,LAB,Charlynne Pullen,"24,683",39.5,-4.9
+2021,Milton Keynes North,LD,Aisha Mir,"4,991",8.0,+4.1
+2022,Milton Keynes North,GRN,Catherine Rose,"1,931",3.1,+1.4
+2023,Milton Keynes South,CON,Iain Stewart,"32,011",50.0,+2.5
+2024,Milton Keynes South,LAB,Hannah O'Neill,"25,067",39.2,-5.7
+2025,Milton Keynes South,LD,Saleyha Ahsan,"4,688",7.3,+4.4
+2026,Milton Keynes South,GRN,Alan Francis,"1,495",2.3,+0.5
+2027,Milton Keynes South,IND,Stephen Fulton,539,0.8,+0.8
+2028,Milton Keynes South,CPA,Amarachi Ogba,207,0.3,+0.3
+2029,Mitcham & Morden,LAB,Siobhain McDonagh,"27,964",61.1,-7.5
+2030,Mitcham & Morden,CON,Toby Williams,"11,482",25.1,+0.9
+2031,Mitcham & Morden,LD,Luke Taylor,"3,717",8.1,+5.0
+2032,Mitcham & Morden,BRX,Jeremy Maddocks,"1,202",2.6,+2.6
+2033,Mitcham & Morden,GRN,Pippa Maslin,"1,160",2.5,+1.2
+2034,Mitcham & Morden,CPA,Des Coke,216,0.5,0.0
+2035,Mole Valley,CON,Paul Beresford,"31,656",55.4,-6.4
+2036,Mole Valley,LD,Paul Kennedy,"19,615",34.3,+15.0
+2037,Mole Valley,LAB,Brian Bostock,"2,965",5.2,-8.7
+2038,Mole Valley,GRN,Lisa Scott-Conte,"1,874",3.3,+0.7
+2039,Mole Valley,IND,Robin Horsley,536,0.9,+0.9
+2040,Mole Valley,UKIP,Geoffrey Cox,464,0.8,-1.6
+2041,Monmouth,CON,David Davies,"26,160",52.1,-1.0
+2042,Monmouth,LAB,Yvonne Murphy,"16,178",32.2,-4.4
+2043,Monmouth,LD,Alison Willott,"4,909",9.8,+5.6
+2044,Monmouth,GRN,Ian Chandler,"1,353",2.7,+0.8
+2045,Monmouth,PC,Hugh Kocan,"1,182",2.4,-0.3
+2046,Monmouth,IND,Martyn Ford,435,0.9,+0.9
+2047,Montgomeryshire,CON,Craig Williams,"20,020",58.5,+6.7
+2048,Montgomeryshire,LD,Kishan Devani,"7,882",23.0,-2.2
+2049,Montgomeryshire,LAB,Kait Duerden,"5,585",16.3,+0.4
+2050,Montgomeryshire,GWLD,Gwyn Wigley Evans,727,2.1,+2.1
+2051,Moray,CON,Douglas Ross,"22,112",45.3,-2.3
+2052,Moray,SNP,Laura Mitchell,"21,599",44.2,+5.4
+2053,Moray,LAB,Jo Kirby,"2,432",5.0,-6.0
+2054,Moray,LD,Fiona Campbell Trevor,"2,269",4.6,+2.4
+2055,Moray,UKIP,Rob Scorer,413,0.8,+0.8
+2056,Morecambe & Lunesdale,CON,David Morris,"23,925",52.8,+5.1
+2057,Morecambe & Lunesdale,LAB,Lizzi Collinge,"17,571",38.8,-5.8
+2058,Morecambe & Lunesdale,LD,Owen Lambert,"2,328",5.1,+1.4
+2059,Morecambe & Lunesdale,GRN,Chloe Buckley,938,2.1,+1.0
+2060,Morecambe & Lunesdale,IND,Darren Clifford,548,1.2,+1.2
+2061,Morley & Outwood,CON,Andrea Jenkyns,"29,424",56.7,+6.0
+2062,Morley & Outwood,LAB,Deanne Ferguson,"18,157",35.0,-11.7
+2063,Morley & Outwood,LD,Craig Dobson,"2,285",4.4,+1.8
+2064,Morley & Outwood,GRN,Chris Bell,"1,107",2.1,+2.1
+2065,Morley & Outwood,YRKS,Dan Woodlock,957,1.8,+1.8
+2066,Motherwell & Wishaw,SNP,Marion Fellows,"20,622",46.4,+7.9
+2067,Motherwell & Wishaw,LAB,Angela Feeney,"14,354",32.3,-5.4
+2068,Motherwell & Wishaw,CON,Meghan Gallacher,"7,150",16.1,-4.2
+2069,Motherwell & Wishaw,LD,Christopher Wilson,"1,675",3.8,+1.6
+2070,Motherwell & Wishaw,UKIP,Neil Wilson,619,1.4,+0.1
+2071,Na h-Eileanan an Iar (Western Isles),SNP,Angus MacNeil,"6,531",45.1,+4.5
+2072,Na h-Eileanan an Iar (Western Isles),LAB,Alison MacCorquodale,"4,093",28.3,-5.5
+2073,Na h-Eileanan an Iar (Western Isles),CON,Jennifer Ross,"3,216",22.2,+5.7
+2074,Na h-Eileanan an Iar (Western Isles),LD,Neil Mitchison,637,4.4,+2.7
+2075,Neath,LAB,Christina Rees,"15,920",43.3,-13.4
+2076,Neath,CON,Jon Burns,"10,283",28.0,+4.3
+2077,Neath,PC,Daniel Williams,"4,495",12.2,-1.7
+2078,Neath,BRX,Simon Briscoe,"3,184",8.7,+8.7
+2079,Neath,LD,Adrian Kingston-Jones,"1,485",4.0,+2.1
+2080,Neath,GRN,Megan Lloyd,728,2.0,+2.0
+2081,Neath,IND,Philip Rogers,594,1.6,+1.6
+2082,Neath,SDP,Carl Williams,67,0.2,+0.2
+2083,New Forest East,CON,Julian Lewis,"32,769",64.5,+1.9
+2084,New Forest East,LAB,Julie Hope,"7,518",14.8,-5.0
+2085,New Forest East,LD,Bob Johnston,"7,390",14.6,-0.6
+2086,New Forest East,GRN,Nicola Jolly,"2,434",4.8,+2.4
+2087,New Forest East,ANWP,Andrew Knight,675,1.3,+1.3
+2088,New Forest West,CON,Desmond Swayne,"32,113",63.8,-3.0
+2089,New Forest West,LD,Jack Davies,"7,710",15.3,+5.7
+2090,New Forest West,LAB,Jo Graham,"6,595",13.1,-6.5
+2091,New Forest West,GRN,Nick Bubb,"3,888",7.7,+4.8
+2092,Newark,CON,Robert Jenrick,"34,660",63.3,+0.6
+2093,Newark,LAB,James Baggaley,"12,844",23.5,-6.2
+2094,Newark,LD,David Watts,"5,308",9.7,+4.6
+2095,Newark,GRN,Jay Henderson,"1,950",3.6,+3.6
+2096,Newbury,CON,Laura Farris,"34,431",57.4,-4.1
+2097,Newbury,LD,Lee Dillon,"18,384",30.6,+9.2
+2098,Newbury,LAB,James Wilder,"4,404",7.3,-6.8
+2099,Newbury,GRN,Stephen Masters,"2,454",4.1,+1.6
+2100,Newbury,IND,Ben Holden-Crowther,325,0.5,+0.5
+2101,Newcastle upon Tyne Central,LAB,Chi Onwurah,"21,568",57.6,-7.3
+2102,Newcastle upon Tyne Central,CON,Emily Payne,"9,290",24.8,+0.2
+2103,Newcastle upon Tyne Central,LD,Ali Avaei,"2,709",7.2,+2.3
+2104,Newcastle upon Tyne Central,BRX,Mark Griffin,"2,542",6.8,+6.8
+2105,Newcastle upon Tyne Central,GRN,Tay Pitman,"1,365",3.6,+2.0
+2106,Newcastle upon Tyne East,LAB,Nick Brown,"26,049",60.1,-7.5
+2107,Newcastle upon Tyne East,CON,Robin Gwynn,"10,586",24.4,+3.1
+2108,Newcastle upon Tyne East,LD,Wendy Taylor,"4,535",10.5,+4.3
+2109,Newcastle upon Tyne East,GRN,Nick Hartley,"2,195",5.1,+3.2
+2110,Newcastle upon Tyne North,LAB,Catherine McKinnell,"21,354",45.4,-9.9
+2111,Newcastle upon Tyne North,CON,Mark Lehain,"15,589",33.2,-0.8
+2112,Newcastle upon Tyne North,LD,Nicholas Cott,"4,357",9.3,+4.0
+2113,Newcastle upon Tyne North,BRX,Richard Ogden,"4,331",9.2,+9.2
+2114,Newcastle upon Tyne North,GRN,Alistair Ford,"1,368",2.9,+1.8
+2115,Newcastle-under-Lyme,CON,Aaron Bell,"23,485",52.5,+4.4
+2116,Newcastle-under-Lyme,LAB,Carl Greatbatch,"16,039",35.9,-12.3
+2117,Newcastle-under-Lyme,LD,Nigel Jones,"2,361",5.3,+1.6
+2118,Newcastle-under-Lyme,BRX,Jason Cooper,"1,921",4.3,+4.3
+2119,Newcastle-under-Lyme,GRN,Carl Johnson,933,2.1,+2.1
+2120,Newport East,LAB,Jessica Morden,"16,125",44.4,-12.1
+2121,Newport East,CON,Mark Brown,"14,133",39.0,+4.2
+2122,Newport East,BRX,Julie Price,"2,454",6.8,+6.8
+2123,Newport East,LD,Mike Hamilton,"2,121",5.8,+3.2
+2124,Newport East,PC,Cameron Wixcey,872,2.4,0.0
+2125,Newport East,GRN,Peter Varley,577,1.6,+1.6
+2126,Newport West,LAB,Ruth Jones,"18,977",43.7,-8.6
+2127,Newport West,CON,Matthew Evans,"18,075",41.6,+2.3
+2128,Newport West,LD,Ryan Jones,"2,565",5.9,+3.7
+2129,Newport West,BRX,Cameron Edwards,"1,727",4.0,+4.0
+2130,Newport West,PC,Jonathan Clark,"1,187",2.7,+0.3
+2131,Newport West,GRN,Amelia Womack,902,2.1,+0.9
+2132,Newry & Armagh,SF,Mickey Brady,"20,287",40.0,-8.0
+2133,Newry & Armagh,DUP,William Irwin,"11,000",21.7,-2.9
+2134,Newry & Armagh,SDLP,Pete Byrne,"9,449",18.6,+1.7
+2135,Newry & Armagh,APNI,Jackie Coade,"4,211",8.3,+5.9
+2136,Newry & Armagh,UUP,Sam Nicholson,"4,204",8.3,0.0
+2137,Newry & Armagh,AONT,Martin Kelly,"1,628",3.2,+3.2
+2138,Newton Abbot,CON,Anne Marie Morris,"29,190",55.5,+0.1
+2139,Newton Abbot,LD,Martin Wrigley,"11,689",22.2,+1.7
+2140,Newton Abbot,LAB,James Osben,"9,329",17.8,-4.5
+2141,Newton Abbot,GRN,Megan Debenham,"1,508",2.9,+1.1
+2142,Newton Abbot,IND,David Halpin,840,1.6,+1.6
+2143,Norfolk Mid,CON,George Freeman,"35,051",62.4,+3.4
+2144,Norfolk Mid,LAB,Adrian Heald,"12,457",22.2,-7.9
+2145,Norfolk Mid,LD,Steffan Aquarone,"7,739",13.8,+8.7
+2146,Norfolk Mid,IND,P J O'Gorman,939,1.7,+1.7
+2147,Norfolk North,CON,Duncan Baker,"29,792",58.6,+16.9
+2148,Norfolk North,LD,Karen Ward,"15,397",30.3,-18.1
+2149,Norfolk North,LAB,Emma Corlett,"3,895",7.7,-2.3
+2150,Norfolk North,BRX,Harry Gwynne,"1,739",3.4,+3.4
+2151,Norfolk North West,CON,James Wild,"30,627",65.7,+5.5
+2152,Norfolk North West,LAB,Jo Rust,"10,705",23.0,-9.0
+2153,Norfolk North West,LD,Rob Colwell,"3,625",7.8,+4.9
+2154,Norfolk North West,GRN,Andrew De Whalley,"1,645",3.5,+1.8
+2155,Norfolk South,CON,Richard Bacon,"36,258",58.0,-0.2
+2156,Norfolk South,LAB,Beth Jones,"14,983",24.0,-7.0
+2157,Norfolk South,LD,Christopher Brown,"8,744",14.0,+5.7
+2158,Norfolk South,GRN,Ben Price,"2,499",4.0,+1.5
+2159,Norfolk South West,CON,Liz Truss,"35,507",69.0,+6.2
+2160,Norfolk South West,LAB,Emily Blake,"9,312",18.1,-9.7
+2161,Norfolk South West,LD,Josie Ratcliffe,"4,166",8.1,+3.6
+2162,Norfolk South West,GRN,Pallavi Devulapalli,"1,645",3.2,+3.2
+2163,Norfolk South West,MRLP,Earl Of Outwell,836,1.6,+1.6
+2164,"Normanton, Pontefract & Castleford",LAB,Yvette Cooper,"18,297",37.9,-21.6
+2165,"Normanton, Pontefract & Castleford",CON,Andrew Lee,"17,021",35.3,+5.2
+2166,"Normanton, Pontefract & Castleford",BRX,Deneice Florence-Jukes,"8,032",16.6,+16.6
+2167,"Normanton, Pontefract & Castleford",LD,Tom Gordon,"3,147",6.5,+5.1
+2168,"Normanton, Pontefract & Castleford",YRKS,Laura Walker,"1,762",3.7,+0.7
+2169,North Antrim,DUP,Ian Paisley,"20,860",47.4,-11.5
+2170,North Antrim,UUP,Robin Swann,"8,139",18.5,+11.3
+2171,North Antrim,APNI,Patricia O'Lynn,"6,231",14.1,+8.5
+2172,North Antrim,SF,Cara McShane,"5,632",12.8,-3.5
+2173,North Antrim,SDLP,Margaret McKillop,"2,943",6.7,+1.4
+2174,North Antrim,IND,Stephen Palmer,246,0.6,+0.6
+2175,North Down,APNI,Stephen Farry,"18,358",45.2,+35.9
+2176,North Down,DUP,Alex Easton,"15,390",37.9,-0.3
+2177,North Down,UUP,Alan Chambers,"4,936",12.1,+12.1
+2178,North Down,CON,Matthew Robinson,"1,959",4.8,+2.4
+2179,Northampton North,CON,Michael Ellis,"21,031",53.2,+6.0
+2180,Northampton North,LAB,Sally Keeble,"15,524",39.3,-6.0
+2181,Northampton North,LD,Martin Sawyer,"2,031",5.1,+2.6
+2182,Northampton North,GRN,Katherine Pate,953,2.4,+0.8
+2183,Northampton South,CON,Andrew Lewer,"20,914",51.2,+4.3
+2184,Northampton South,LAB,Gareth Eales,"16,217",39.7,-4.3
+2185,Northampton South,LD,Jill Hope,"2,482",6.1,+2.7
+2186,Northampton South,GRN,Scott Mabbutt,"1,222",3.0,+1.3
+2187,Northamptonshire South,CON,Andrea Leadsom,"41,755",62.4,-0.1
+2188,Northamptonshire South,LAB,Gen Kitchen,"13,994",20.9,-6.4
+2189,Northamptonshire South,LD,Chris Lofts,"7,891",11.8,+6.2
+2190,Northamptonshire South,GRN,Denise Donaldson,"2,634",3.9,+1.8
+2191,Northamptonshire South,IND,Josh Phillips,463,0.7,+0.2
+2192,Northamptonshire South,IND,Stuart McCutcheon,171,0.3,+0.3
+2193,Norwich North,CON,Chloe Smith,"23,397",50.5,+2.8
+2194,Norwich North,LAB,Karen Davis,"18,659",40.3,-6.3
+2195,Norwich North,LD,Dave Thomas,"2,663",5.8,+2.5
+2196,Norwich North,GRN,Adrian Holmes,"1,078",2.3,+0.6
+2197,Norwich North,UKIP,David Moreland,488,1.1,+1.1
+2198,Norwich South,LAB,Clive Lewis,"27,766",53.7,-7.2
+2199,Norwich South,CON,Mike Spencer,"15,006",29.0,-1.6
+2200,Norwich South,LD,James Wright,"4,776",9.2,+3.7
+2201,Norwich South,GRN,Catherine Rowett,"2,469",4.8,+1.9
+2202,Norwich South,BRX,Sandy Gilchrist,"1,656",3.2,+3.2
+2203,Nottingham East,LAB,Nadia Whittome,"25,735",64.3,-7.1
+2204,Nottingham East,CON,Victoria Stapleton,"8,342",20.9,-0.8
+2205,Nottingham East,LD,Robert Swift,"1,954",4.9,+2.3
+2206,Nottingham East,TIG,Chris Leslie,"1,447",3.6,+3.6
+2207,Nottingham East,BRX,Damian Smith,"1,343",3.4,+3.4
+2208,Nottingham East,GRN,Michelle Vacciana,"1,183",3.0,+1.2
+2209,Nottingham North,LAB,Alex Norris,"17,337",49.1,-11.1
+2210,Nottingham North,CON,Stuart Bestwick,"12,847",36.4,+5.3
+2211,Nottingham North,BRX,Julian Carter,"2,686",7.6,+7.6
+2212,Nottingham North,LD,Christina Morgan-Danvers,"1,582",4.5,+2.7
+2213,Nottingham North,GRN,Andrew Jones,868,2.5,+1.1
+2214,Nottingham South,LAB,Lilian Greenwood,"26,586",55.2,-7.1
+2215,Nottingham South,CON,Marc Nykolyszyn,"14,018",29.1,-1.7
+2216,Nottingham South,LD,Barry Holliday,"3,935",8.2,+4.9
+2217,Nottingham South,BRX,John Lawson,"2,012",4.2,+4.2
+2218,Nottingham South,GRN,Cath Sutherland,"1,583",3.3,+2.0
+2219,Nuneaton,CON,Marcus Jones,"27,390",60.6,+9.0
+2220,Nuneaton,LAB,Zoe Mayou,"14,246",31.5,-9.8
+2221,Nuneaton,LD,Richard Brighton-Knight,"1,862",4.1,+2.1
+2222,Nuneaton,GRN,Keith Kondakor,"1,692",3.7,+2.1
+2223,Ochil & South Perthshire,SNP,John Nicolson,"26,882",46.5,+11.2
+2224,Ochil & South Perthshire,CON,Luke Graham,"22,384",38.7,-2.8
+2225,Ochil & South Perthshire,LAB,Lorna Robertson,"4,961",8.6,-11.4
+2226,Ochil & South Perthshire,LD,Iliyan Stefanov,"3,204",5.5,+2.3
+2227,Ochil & South Perthshire,UKIP,Stuart Martin,382,0.7,+0.7
+2228,Ogmore,LAB,Chris Elmore,"17,602",49.7,-12.7
+2229,Ogmore,CON,Sadie Vidal,"9,797",27.7,+2.5
+2230,Ogmore,BRX,Christine Roach,"2,991",8.5,+8.5
+2231,Ogmore,PC,Luke Fletcher,"2,919",8.2,+0.7
+2232,Ogmore,LD,Anita Davies,"1,460",4.1,+2.5
+2233,Ogmore,GRN,Tom Muller,621,1.8,+1.8
+2234,Old Bexley & Sidcup,CON,James Brokenshire,"29,786",64.5,+3.1
+2235,Old Bexley & Sidcup,LAB,David Tingle,"10,834",23.5,-5.8
+2236,Old Bexley & Sidcup,LD,Simone Reynolds,"3,822",8.3,+5.0
+2237,Old Bexley & Sidcup,GRN,Matt Browne,"1,477",3.2,+1.5
+2238,Old Bexley & Sidcup,CPA,Carol Valinejad,226,0.5,+0.3
+2239,Oldham East & Saddleworth,LAB,Debbie Abrahams,"20,088",43.5,-11.0
+2240,Oldham East & Saddleworth,CON,Tom Lord,"18,589",40.3,+3.2
+2241,Oldham East & Saddleworth,BRX,Paul Brierley,"2,980",6.5,+6.5
+2242,Oldham East & Saddleworth,LD,Sam Al-Hamdani,"2,423",5.2,+1.7
+2243,Oldham East & Saddleworth,POS,Paul Errock,"1,073",2.3,+2.3
+2244,Oldham East & Saddleworth,GRN,Wendy Olsen,778,1.7,+1.7
+2245,Oldham East & Saddleworth,IND,Amoy Lindo,233,0.5,+0.5
+2246,Oldham West & Royton,LAB,Jim McMahon,"24,579",55.3,-9.9
+2247,Oldham West & Royton,CON,Kirsty Finlayson,"13,452",30.3,+2.7
+2248,Oldham West & Royton,BRX,Helen Formby,"3,316",7.5,+7.5
+2249,Oldham West & Royton,LD,Garth Harkness,"1,484",3.3,+1.3
+2250,Oldham West & Royton,GRN,Dan Jerrome,681,1.5,+0.6
+2251,Oldham West & Royton,POS,Debbie Cole,533,1.2,+1.2
+2252,Oldham West & Royton,UKIP,Anthony Prince,389,0.9,-3.3
+2253,Orkney & Shetland,LD,Alistair Carmichael,"10,381",44.8,-3.8
+2254,Orkney & Shetland,SNP,Robert Leslie,"7,874",34.0,+5.0
+2255,Orkney & Shetland,CON,Jennifer Fairbairn,"2,287",9.9,+1.2
+2256,Orkney & Shetland,LAB,Coilla Drake,"1,550",6.7,-4.8
+2257,Orkney & Shetland,BRX,Robert Smith,900,3.9,+3.9
+2258,Orkney & Shetland,IND,David Barnard,168,0.7,+0.7
+2259,Orpington,CON,Gareth Bacon,"30,882",63.4,+0.4
+2260,Orpington,LAB,Simon Jeal,"8,504",17.5,-6.9
+2261,Orpington,LD,Allan Tweddle,"7,552",15.5,+8.9
+2262,Orpington,GRN,Karen Wheller,"1,783",3.7,+1.6
+2263,Oxford East,LAB,Anneliese Dodds,"28,135",57.0,-8.2
+2264,Oxford East,CON,Louise Staite,"10,303",20.9,-1.1
+2265,Oxford East,LD,Alistair Fernie,"6,884",13.9,+4.8
+2266,Oxford East,GRN,David Williams,"2,392",4.8,+1.5
+2267,Oxford East,BRX,Roger Carter,"1,146",2.3,+2.3
+2268,Oxford East,IND,David Henwood,238,0.5,+0.5
+2269,Oxford East,IND,Chaka Artwell,143,0.3,+0.3
+2270,Oxford East,IND,Phil Taylor,118,0.2,+0.2
+2271,Oxford West & Abingdon,LD,Layla Moran,"31,340",53.3,+9.5
+2272,Oxford West & Abingdon,CON,James Fredrickson,"22,397",38.1,-4.3
+2273,Oxford West & Abingdon,LAB,Rosie Sourbut,"4,258",7.2,-5.4
+2274,Oxford West & Abingdon,BRX,Allison Wild,829,1.4,+1.4
+2275,Paisley & Renfrewshire North,SNP,Gavin Newlands,"23,353",47.0,+9.6
+2276,Paisley & Renfrewshire North,LAB,Alison Taylor,"11,451",23.0,-8.8
+2277,Paisley & Renfrewshire North,CON,Julie Pirone,"11,217",22.6,-5.0
+2278,Paisley & Renfrewshire North,LD,Ross Stalker,"3,661",7.4,+4.2
+2279,Paisley & Renfrewshire South,SNP,Mhairi Black,"21,637",50.2,+9.6
+2280,Paisley & Renfrewshire South,LAB,Moira Ramage,"10,958",25.4,-9.1
+2281,Paisley & Renfrewshire South,CON,Mark Dougan,"7,571",17.6,-1.9
+2282,Paisley & Renfrewshire South,LD,Jack Clark,"2,918",6.8,+3.6
+2283,Pendle,CON,Andrew Stephenson,"24,076",54.2,+5.1
+2284,Pendle,LAB,Azhar Ali,"17,890",40.2,-5.9
+2285,Pendle,LD,Gordon Lishman,"1,548",3.5,+1.4
+2286,Pendle,GRN,Clare Hales,678,1.5,+0.4
+2287,Pendle,IND,John Richardson,268,0.6,+0.6
+2288,Penistone & Stocksbridge,CON,Miriam Cates,"23,688",47.8,+4.7
+2289,Penistone & Stocksbridge,LAB,Francyne Johnson,"16,478",33.3,-12.5
+2290,Penistone & Stocksbridge,LD,Hannah Kitching,"5,054",10.2,+6.1
+2291,Penistone & Stocksbridge,BRX,John Booker,"4,300",8.7,+8.7
+2292,Penrith & The Border,CON,Neil Hudson,"28,875",60.4,0.0
+2293,Penrith & The Border,LAB,Sarah Williams,"10,356",21.7,-4.5
+2294,Penrith & The Border,LD,Matt Severn,"5,364",11.2,+3.4
+2295,Penrith & The Border,GRN,Ali Ross,"2,159",4.5,+2.3
+2296,Penrith & The Border,CF,Jonathan Davies,"1,070",2.2,+2.2
+2297,Perth & North Perthshire,SNP,Pete Wishart,"27,362",50.6,+8.3
+2298,Perth & North Perthshire,CON,Angus Forbes,"19,812",36.6,-5.6
+2299,Perth & North Perthshire,LD,Peter Barrett,"3,780",7.0,+2.0
+2300,Perth & North Perthshire,LAB,Angela Bretherton,"2,471",4.6,-5.8
+2301,Perth & North Perthshire,BRX,Stuart Powell,651,1.2,+1.2
+2302,Peterborough,CON,Paul Bristow,"22,334",46.7,-0.1
+2303,Peterborough,LAB,Lisa Forbes,"19,754",41.3,-6.7
+2304,Peterborough,LD,Beki Sellick,"2,334",4.9,+1.5
+2305,Peterborough,BRX,Mike Greene,"2,127",4.4,+4.4
+2306,Peterborough,GRN,Joseph Wells,728,1.5,-0.3
+2307,Peterborough,IND,Luke Ferguson,260,0.5,+0.5
+2308,Peterborough,CPA,Tom Rogers,151,0.3,+0.3
+2309,Peterborough,MRLP,The Very Raving Mr P,113,0.2,+0.2
+2310,Plymouth Moor View,CON,Johnny Mercer,"26,831",60.7,+8.8
+2311,Plymouth Moor View,LAB,Charlotte Holloway,"13,934",31.5,-9.3
+2312,Plymouth Moor View,LD,Sarah Martin,"2,301",5.2,+3.2
+2313,Plymouth Moor View,GRN,Ewan Melling Flavell,"1,173",2.7,+1.5
+2314,Plymouth Sutton & Devonport,LAB,Luke Pollard,"25,461",47.9,-5.4
+2315,Plymouth Sutton & Devonport,CON,Rebecca Smith,"20,704",38.9,-1.1
+2316,Plymouth Sutton & Devonport,BRX,Ann Widdecombe,"2,909",5.5,+5.5
+2317,Plymouth Sutton & Devonport,LD,Graham Reed,"2,545",4.8,+2.4
+2318,Plymouth Sutton & Devonport,GRN,James Ellwood,"1,557",2.9,+1.7
+2319,Pontypridd,LAB,Alex Davies-Jones,"17,381",44.5,-10.9
+2320,Pontypridd,CON,Sam Trask,"11,494",29.4,+2.7
+2321,Pontypridd,PC,Fflur Elin,"4,990",12.8,+2.5
+2322,Pontypridd,BRX,Steve Bayliss,"2,917",7.5,+7.5
+2323,Pontypridd,IND,Mike Powell,"1,792",4.6,+4.6
+2324,Pontypridd,IND,Sue Prior,337,0.9,+0.9
+2325,Pontypridd,IND,Jonathan Bishop,149,0.4,+0.4
+2326,Poole,CON,Robert Syms,"29,599",58.7,+0.7
+2327,Poole,LAB,Sue Aitkenhead,"10,483",20.8,-8.7
+2328,Poole,LD,Victoria Collins,"7,819",15.5,+6.6
+2329,Poole,GRN,Barry Harding-Rathbone,"1,702",3.4,+0.8
+2330,Poole,IND,David Young,848,1.7,+1.7
+2331,Poplar & Limehouse,LAB,Apsana Begum,"38,660",63.1,-4.2
+2332,Poplar & Limehouse,CON,Sheun Oke,"9,756",15.9,-4.2
+2333,Poplar & Limehouse,LD,Andrew Cregan,"8,832",14.4,+7.7
+2334,Poplar & Limehouse,GRN,Neil Jameson,"2,159",3.5,+1.8
+2335,Poplar & Limehouse,BRX,Catherine Cui,"1,493",2.4,+2.4
+2336,Poplar & Limehouse,IND,Andy Erlam,376,0.6,+0.6
+2337,Portsmouth North,CON,Penny Mordaunt,"28,172",61.4,+6.6
+2338,Portsmouth North,LAB,Amanda Martin,"12,392",27.0,-6.7
+2339,Portsmouth North,LD,Antonia Harrison,"3,419",7.4,+1.9
+2340,Portsmouth North,GRN,Lloyd Day,"1,304",2.8,+1.2
+2341,Portsmouth North,IND,George Madgwick,623,1.4,+1.4
+2342,Portsmouth South,LAB,Stephen Morgan,"23,068",48.6,+7.6
+2343,Portsmouth South,CON,Donna Jones,"17,705",37.3,-0.2
+2344,Portsmouth South,LD,Gerald Vernon-Jackson,"5,418",11.4,-5.9
+2345,Portsmouth South,BRX,John Kennedy,994,2.1,+2.1
+2346,Portsmouth South,JACP,Steven George,240,0.5,+0.5
+2347,Preseli Pembrokeshire,CON,Stephen Crabb,"21,381",50.4,+7.0
+2348,Preseli Pembrokeshire,LAB,Philippa Thompson,"16,319",38.5,-4.2
+2349,Preseli Pembrokeshire,PC,Cris Tomos,"2,776",6.5,+0.1
+2350,Preseli Pembrokeshire,LD,Tom Hughes,"1,943",4.6,+2.0
+2351,Preston,LAB,Mark Hendrick,"20,870",61.8,-6.2
+2352,Preston,CON,Michele Scott,"8,724",25.8,+2.0
+2353,Preston,BRX,Rob Sherratt,"1,799",5.3,+5.3
+2354,Preston,LD,Neil Darby,"1,737",5.1,+1.8
+2355,Preston,GRN,Michael Welton,660,2.0,+1.0
+2356,Pudsey,CON,Stuart Andrew,"26,453",48.8,+1.4
+2357,Pudsey,LAB,Jane Aitchison,"22,936",42.3,-4.4
+2358,Pudsey,LD,Ian Dowling,"3,088",5.7,+2.4
+2359,Pudsey,GRN,Quinn Daley,894,1.6,+1.6
+2360,Pudsey,YRKS,Bob Buxton,844,1.6,-0.6
+2361,Putney,LAB,Fleur Anderson,"22,780",45.1,+4.4
+2362,Putney,CON,Will Sweet,"18,006",35.7,-8.4
+2363,Putney,LD,Sue Wixley,"8,548",16.9,+5.3
+2364,Putney,GRN,Fergal McEntee,"1,133",2.2,-0.1
+2365,Rayleigh & Wickford,CON,Mark Francois,"39,864",72.6,+5.9
+2366,Rayleigh & Wickford,LAB,David Flack,"8,864",16.1,-8.2
+2367,Rayleigh & Wickford,LD,Ron Tindall,"4,171",7.6,+4.8
+2368,Rayleigh & Wickford,GRN,Paul Thorogood,"2,002",3.6,+1.7
+2369,Reading East,LAB,Matt Rodda,"27,102",48.5,-0.6
+2370,Reading East,CON,Craig Morley,"21,178",37.9,-4.4
+2371,Reading East,LD,Imogen Shepherd-DuBey,"5,035",9.0,+2.9
+2372,Reading East,GRN,David McElroy,"1,549",2.8,+0.8
+2373,Reading East,BRX,Mitchell Feierstein,852,1.5,+1.5
+2374,Reading East,CPA,Yemi Awolola,202,0.4,+0.4
+2375,Reading West,CON,Alok Sharma,"24,393",48.4,-0.5
+2376,Reading West,LAB,Rachel Eden,"20,276",40.2,-3.1
+2377,Reading West,LD,Meri O'Connell,"4,460",8.9,+3.0
+2378,Reading West,GRN,Jamie Whitham,"1,263",2.5,+0.6
+2379,Redcar,CON,Jacob Young,"18,811",46.1,+12.8
+2380,Redcar,LAB,Anna Turley,"15,284",37.4,-18.1
+2381,Redcar,BRX,Jacqui Cummins,"2,915",7.1,+7.1
+2382,Redcar,LD,Karen King,"2,018",4.9,-1.8
+2383,Redcar,IND,Frankie Wales,"1,323",3.2,+3.2
+2384,Redcar,GRN,Rowan McLaughlin,491,1.2,+1.2
+2385,Redditch,CON,Rachel Maclean,"27,907",63.3,+11.0
+2386,Redditch,LAB,Rebecca Jenkins,"11,871",26.9,-9.1
+2387,Redditch,LD,Bruce Horton,"2,905",6.6,+4.0
+2388,Redditch,GRN,Claire Davies,"1,384",3.1,+2.3
+2389,Reigate,CON,Crispin Blunt,"28,665",53.9,-3.5
+2390,Reigate,LAB,Susan Gregory,"10,355",19.5,-5.2
+2391,Reigate,LD,John Vincent,"10,320",19.4,+8.5
+2392,Reigate,GRN,Jonathan Essex,"3,169",6.0,+1.8
+2393,Reigate,UKIP,Julia Searle,647,1.2,-1.6
+2394,Renfrewshire East,SNP,Kirsten Oswald,"24,877",44.9,+13.7
+2395,Renfrewshire East,CON,Paul Masterton,"19,451",35.1,-4.9
+2396,Renfrewshire East,LAB,Carolann Davidson,"6,855",12.4,-14.3
+2397,Renfrewshire East,LD,Andrew McGlynn,"4,174",7.5,+5.5
+2398,Rhondda,LAB,Chris Bryant,"16,115",54.4,-9.7
+2399,Rhondda,CON,Hannah Jarvis,"4,675",15.8,+5.7
+2400,Rhondda,PC,Branwen Cennard,"4,069",13.7,-8.6
+2401,Rhondda,BRX,John Watkins,"3,733",12.6,+12.6
+2402,Rhondda,LD,Rodney Berman,612,2.1,+1.2
+2403,Rhondda,GRN,Shaun Thomas,438,1.5,+1.5
+2404,Ribble Valley,CON,Nigel Evans,"33,346",60.3,+2.5
+2405,Ribble Valley,LAB,Giles Bridge,"14,907",27.0,-6.9
+2406,Ribble Valley,LD,Chantelle Seddon,"4,776",8.6,+2.8
+2407,Ribble Valley,GRN,Paul Yates,"1,704",3.1,+0.7
+2408,Ribble Valley,IND,Tony Johnson,551,1.0,+1.0
+2409,Richmond (Yorks),CON,Rishi Sunak,"36,693",63.6,-0.4
+2410,Richmond (Yorks),LAB,Thom Kirkwood,"9,483",16.4,-7.0
+2411,Richmond (Yorks),LD,Philip Knowles,"6,989",12.1,+6.2
+2412,Richmond (Yorks),GRN,John Yorke,"2,500",4.3,+1.3
+2413,Richmond (Yorks),YRKS,Laurence Waterhouse,"1,077",1.9,-1.8
+2414,Richmond (Yorks),IND,Nick Jardine,961,1.7,+1.7
+2415,Richmond Park,LD,Sarah Olney,"34,559",53.1,+8.0
+2416,Richmond Park,CON,Zac Goldsmith,"26,793",41.2,-4.0
+2417,Richmond Park,LAB,Sandra Keen,"3,407",5.2,-3.9
+2418,Richmond Park,IND,Caroline Shah,247,0.4,+0.4
+2419,Richmond Park,IND,John Usher,61,0.1,+0.1
+2420,Rochdale,LAB,Tony Lloyd,"24,475",51.6,-6.4
+2421,Rochdale,CON,Atifa Shah,"14,807",31.2,+2.8
+2422,Rochdale,BRX,Chris Green,"3,867",8.2,+8.2
+2423,Rochdale,LD,Andy Kelly,"3,312",7.0,-1.1
+2424,Rochdale,GRN,Sarah Croke,986,2.1,+2.1
+2425,Rochester & Strood,CON,Kelly Tolhurst,"31,151",60.0,+5.6
+2426,Rochester & Strood,LAB,Teresa Murray,"14,079",27.1,-8.9
+2427,Rochester & Strood,LD,Graham Colley,"3,717",7.2,+4.9
+2428,Rochester & Strood,GRN,Sonia Hyner,"1,312",2.5,+1.1
+2429,Rochester & Strood,UKIP,Roy Freshwater,"1,080",2.1,-3.3
+2430,Rochester & Strood,IND,Chris Spalding,587,1.1,+1.1
+2431,Rochford & Southend East,CON,James Duddridge,"27,063",58.7,+10.0
+2432,Rochford & Southend East,LAB,Ashley Dalton,"14,777",32.0,-4.9
+2433,Rochford & Southend East,LD,Keith Miller,"2,822",6.1,+3.4
+2434,Rochford & Southend East,IND,Navin Kumar,"1,107",2.4,+2.4
+2435,Rochford & Southend East,PFP,Jason Pilley,367,0.8,+0.8
+2436,Romford,CON,Andrew Rosindell,"30,494",64.6,+5.2
+2437,Romford,LAB,Angelina Leatherbarrow,"12,601",26.7,-5.1
+2438,Romford,LD,Ian Sanderson,"2,708",5.7,+3.3
+2439,Romford,GRN,David Hughes,"1,428",3.0,+1.4
+2440,Romsey & Southampton North,CON,Caroline Nokes,"27,862",54.2,-3.0
+2441,Romsey & Southampton North,LD,Craig Fletcher,"16,990",33.1,+11.9
+2442,Romsey & Southampton North,LAB,Claire Ransom,"5,898",11.5,-7.7
+2443,Romsey & Southampton North,UKIP,Geoff Bentley,640,1.2,+1.2
+2444,"Ross, Skye & Lochaber",SNP,Ian Blackford,"19,263",48.3,+8.1
+2445,"Ross, Skye & Lochaber",LD,Craig Harrow,"9,820",24.6,+3.7
+2446,"Ross, Skye & Lochaber",CON,Gavin Berkenheger,"6,900",17.3,-7.6
+2447,"Ross, Skye & Lochaber",LAB,John Erskine,"2,448",6.1,-6.1
+2448,"Ross, Skye & Lochaber",BRX,Kate Brownlie,710,1.8,+1.8
+2449,"Ross, Skye & Lochaber",CHP,Donald Boyd,460,1.2,+1.2
+2450,"Ross, Skye & Lochaber",SFP,Richard Lucas,268,0.7,+0.7
+2451,Rossendale & Darwen,CON,Jake Berry,"27,570",56.5,+5.6
+2452,Rossendale & Darwen,LAB,Alyson Barnes,"18,048",37.0,-7.5
+2453,Rossendale & Darwen,LD,Paul Valentine,"2,011",4.1,+1.0
+2454,Rossendale & Darwen,GRN,Sarah Hall,"1,193",2.4,+0.8
+2455,Rother Valley,CON,Alexander Stafford,"21,970",45.1,+4.8
+2456,Rother Valley,LAB,Sophie Wilson,"15,652",32.1,-16.0
+2457,Rother Valley,BRX,Allen Cowles,"6,264",12.9,+12.9
+2458,Rother Valley,LD,Colin Taylor,"2,553",5.2,+2.9
+2459,Rother Valley,GRN,Emily West,"1,219",2.5,+0.7
+2460,Rother Valley,IND,Nigel Short,"1,040",2.1,+2.1
+2461,Rotherham,LAB,Sarah Champion,"14,736",41.3,-15.1
+2462,Rotherham,CON,Gerri Hickton,"11,615",32.6,+6.2
+2463,Rotherham,BRX,Paul Hague,"6,125",17.2,+17.2
+2464,Rotherham,LD,Adam Carter,"2,090",5.9,+1.2
+2465,Rotherham,YRKS,Dennis Bannan,"1,085",3.0,-0.7
+2466,Rugby,CON,Mark Pawsey,"29,255",57.6,+3.3
+2467,Rugby,LAB,Debbie Bannigan,"15,808",31.1,-7.2
+2468,Rugby,LD,Rana Das-Gupta,"4,207",8.3,+2.7
+2469,Rugby,GRN,Becca Stevenson,"1,544",3.0,+1.2
+2470,"Ruislip, Northwood & Pinner",CON,David Simmonds,"29,391",55.6,-1.7
+2471,"Ruislip, Northwood & Pinner",LAB,Peymana Assad,"12,997",24.6,-6.5
+2472,"Ruislip, Northwood & Pinner",LD,Jonathan Banks,"7,986",15.1,+8.0
+2473,"Ruislip, Northwood & Pinner",GRN,Sarah Green,"1,646",3.1,+0.7
+2474,"Ruislip, Northwood & Pinner",ANWP,Femy Amin,325,0.6,+0.6
+2475,"Ruislip, Northwood & Pinner",IND,Tracy Blackwell,295,0.6,+0.6
+2476,"Ruislip, Northwood & Pinner",IND,Julian Wilson,264,0.5,+0.5
+2477,Runnymede & Weybridge,CON,Ben Spencer,"29,262",54.9,-6.0
+2478,Runnymede & Weybridge,LAB,Robert King,"10,992",20.6,-5.3
+2479,Runnymede & Weybridge,LD,Rob O'Carroll,"9,236",17.3,+10.0
+2480,Runnymede & Weybridge,GRN,Benjamin Smith,"1,876",3.5,+0.9
+2481,Runnymede & Weybridge,IND,Stewart Mackay,777,1.5,+1.5
+2482,Runnymede & Weybridge,IND,Lorna Rowland,670,1.3,+1.3
+2483,Runnymede & Weybridge,UKIP,Nicholas Wood,476,0.9,-2.4
+2484,Rushcliffe,CON,Ruth Edwards,"28,765",47.5,-4.3
+2485,Rushcliffe,LAB,Cheryl Pidgeon,"21,122",34.9,-3.2
+2486,Rushcliffe,LD,Jason Billin,"9,600",15.9,+11.1
+2487,Rushcliffe,UKIP,Matthew Faithfull,591,1.0,-1.6
+2488,Rushcliffe,IND,John Kirby,427,0.7,+0.7
+2489,Rutherglen & Hamilton West,SNP,Margaret Ferrier,"23,775",44.2,+7.2
+2490,Rutherglen & Hamilton West,LAB,Ged Killen,"18,545",34.5,-3.1
+2491,Rutherglen & Hamilton West,CON,Lynne Nailon,"8,054",15.0,-4.6
+2492,Rutherglen & Hamilton West,LD,Mark McGeever,"2,791",5.2,+0.9
+2493,Rutherglen & Hamilton West,UKIP,Janice Mackay,629,1.2,+0.3
+2494,Rutland & Melton,CON,Alicia Kearns,"36,507",62.6,-0.2
+2495,Rutland & Melton,LAB,Andy Thomas,"9,583",16.4,-6.3
+2496,Rutland & Melton,LD,Carol Weaver,"7,970",13.7,+5.5
+2497,Rutland & Melton,GRN,Alastair McQuillan,"2,875",4.9,+1.9
+2498,Rutland & Melton,UKIP,Marietta King,917,1.6,-1.7
+2499,Rutland & Melton,IND,Anthony Watchorn,458,0.8,+0.8
+2500,Saffron Walden,CON,Kemi Badenoch,"39,714",63.0,+1.2
+2501,Saffron Walden,LD,Mike Hibbs,"12,120",19.2,+5.2
+2502,Saffron Walden,LAB,Thomas Van De Bilt,"8,305",13.2,-7.6
+2503,Saffron Walden,GRN,Coby Wing,"2,947",4.7,+4.7
+2504,Salford & Eccles,LAB,Rebecca Long-Bailey,"28,755",56.8,-8.7
+2505,Salford & Eccles,CON,Attika Choudhary,"12,428",24.5,-0.7
+2506,Salford & Eccles,BRX,Matt Mickler,"4,290",8.5,+8.5
+2507,Salford & Eccles,LD,Jake Overend,"3,099",6.1,+3.4
+2508,Salford & Eccles,GRN,Bryan Blears,"2,060",4.1,+2.4
+2509,Salisbury,CON,John Glen,"30,280",56.4,-1.7
+2510,Salisbury,LD,Victoria Charleston,"10,544",19.6,+8.4
+2511,Salisbury,LAB,Tom Corbin,"9,675",18.0,-7.5
+2512,Salisbury,GRN,Rick Page,"2,486",4.6,+2.5
+2513,Salisbury,IND,King Arthur Pendragon,745,1.4,+1.4
+2514,Scarborough & Whitby,CON,Robert Goodwill,"27,593",55.5,+7.1
+2515,Scarborough & Whitby,LAB,Hugo Fearnley,"17,323",34.8,-6.7
+2516,Scarborough & Whitby,LD,Robert Lockwood,"3,038",6.1,+3.4
+2517,Scarborough & Whitby,YRKS,Lee Derrick,"1,770",3.6,+2.8
+2518,Scunthorpe,CON,Holly Mumby-Croft,"20,306",53.8,+10.3
+2519,Scunthorpe,LAB,Nic Dakin,"13,855",36.7,-15.3
+2520,Scunthorpe,BRX,Jerry Gorman,"2,044",5.4,+5.4
+2521,Scunthorpe,LD,Ryk Downes,875,2.3,+0.9
+2522,Scunthorpe,GRN,Peter Dennington,670,1.8,+1.8
+2523,Sedgefield,CON,Paul Howell,"19,609",47.2,+8.4
+2524,Sedgefield,LAB,Phil Wilson,"15,096",36.3,-17.1
+2525,Sedgefield,BRX,David Bull,"3,518",8.5,+8.5
+2526,Sedgefield,LD,Dawn Welsh,"1,955",4.7,+2.8
+2527,Sedgefield,GRN,John Furness,994,2.4,+0.7
+2528,Sedgefield,IND,Michael Joyce,394,0.9,+0.9
+2529,Sefton Central,LAB,Bill Esterson,"29,254",57.5,-5.5
+2530,Sefton Central,CON,Wazz Mughal,"14,132",27.8,-5.3
+2531,Sefton Central,LD,Keith Cawdron,"3,386",6.7,+4.0
+2532,Sefton Central,BRX,Paul Lomas,"2,425",4.8,+4.8
+2533,Sefton Central,GRN,Alison Gibbon,"1,261",2.5,+1.2
+2534,Sefton Central,LIB,Angela Preston,285,0.6,+0.6
+2535,Sefton Central,REN,Carla Burns,137,0.3,+0.3
+2536,Selby & Ainsty,CON,Nigel Adams,"33,995",60.3,+1.5
+2537,Selby & Ainsty,LAB,Malik Rofidi,"13,858",24.6,-9.6
+2538,Selby & Ainsty,LD,Katharine Macy,"4,842",8.6,+4.5
+2539,Selby & Ainsty,YRKS,Mike Jordan,"1,900",3.4,+3.4
+2540,Selby & Ainsty,GRN,Arnold Warneken,"1,823",3.2,+3.2
+2541,Sevenoaks,CON,Laura Trott,"30,932",60.7,-3.0
+2542,Sevenoaks,LD,Gareth Willis,"10,114",19.8,+11.5
+2543,Sevenoaks,LAB,Seamus McCauley,"6,946",13.6,-7.3
+2544,Sevenoaks,GRN,Paul Wharton,"1,974",3.9,+0.6
+2545,Sevenoaks,IND,Paulette Furse,695,1.4,+1.4
+2546,Sevenoaks,LBT,Sean Finch,295,0.6,+0.6
+2547,Sheffield Brightside & Hillsborough,LAB,Gill Furniss,"22,369",56.5,-10.8
+2548,Sheffield Brightside & Hillsborough,CON,Hannah Westropp,"10,095",25.5,+3.9
+2549,Sheffield Brightside & Hillsborough,BRX,Johnny Johnson,"3,855",9.7,+9.7
+2550,Sheffield Brightside & Hillsborough,LD,Stephen Porter,"1,517",3.8,+1.3
+2551,Sheffield Brightside & Hillsborough,GRN,Christine Gilligan Kubo,"1,179",3.0,+1.2
+2552,Sheffield Brightside & Hillsborough,UKIP,Shane Harper,585,1.5,-4.8
+2553,Sheffield Central,LAB,Paul Blomfield,"33,968",66.7,-4.2
+2554,Sheffield Central,CON,Janice Silvester-Hall,"6,695",13.1,+0.2
+2555,Sheffield Central,GRN,Alison Teal,"4,570",9.0,+0.9
+2556,Sheffield Central,LD,Colin Ross,"3,237",6.4,+1.2
+2557,Sheffield Central,BRX,Paul Ward,"1,969",3.9,+3.9
+2558,Sheffield Central,YRKS,Jack Carrington,416,0.8,+0.4
+2559,Sheffield Central,IND,Barry James,30,0.1,+0.1
+2560,Sheffield Central,SEQ,Chris Marsden,28,0.1,+0.1
+2561,Sheffield Hallam,LAB,Olivia Blake,"19,709",34.6,-3.7
+2562,Sheffield Hallam,LD,Laura Gordon,"18,997",33.4,-1.3
+2563,Sheffield Hallam,CON,Ian Walker,"14,696",25.8,+2.1
+2564,Sheffield Hallam,GRN,Natalie Thomas,"1,630",2.9,+1.4
+2565,Sheffield Hallam,BRX,Terence McHale,"1,562",2.7,+2.7
+2566,Sheffield Hallam,UKIP,Michael Virgo,168,0.3,-1.3
+2567,Sheffield Hallam,IND,Elizabeth Aspden,123,0.2,+0.2
+2568,Sheffield Heeley,LAB,Louise Haigh,"21,475",50.3,-9.7
+2569,Sheffield Heeley,CON,Gordon Gregory,"12,955",30.3,+1.6
+2570,Sheffield Heeley,BRX,Tracy Knowles,"3,538",8.3,+8.3
+2571,Sheffield Heeley,LD,Simon Clement-Jones,"2,916",6.8,+2.3
+2572,Sheffield Heeley,GRN,Paul Turpin,"1,811",4.2,+2.1
+2573,Sheffield South East,LAB,Clive Betts,"19,359",46.1,-12.4
+2574,Sheffield South East,CON,Marc Bayliss,"15,070",35.9,+4.4
+2575,Sheffield South East,BRX,Kirk Kus,"4,478",10.7,+10.7
+2576,Sheffield South East,LD,Rajin Chowdhury,"2,125",5.1,+1.8
+2577,Sheffield South East,YRKS,Alex Martin,966,2.3,+2.3
+2578,Sherwood,CON,Mark Spencer,"32,049",60.8,+9.3
+2579,Sherwood,LAB,Jerry Hague,"15,863",30.1,-11.7
+2580,Sherwood,LD,Timothy Ball,"2,883",5.5,+3.4
+2581,Sherwood,GRN,Esther Cropper,"1,214",2.3,+1.1
+2582,Sherwood,IND,Simon Rood,700,1.3,+1.3
+2583,Shipley,CON,Philip Davies,"27,437",50.8,-0.5
+2584,Shipley,LAB,Jo Pike,"21,195",39.2,-3.3
+2585,Shipley,LD,Caroline Jones,"3,188",5.9,+1.8
+2586,Shipley,GRN,Celia Hickson,"1,301",2.4,+2.4
+2587,Shipley,YRKS,Darren Longhorn,883,1.6,+1.6
+2588,Shrewsbury & Atcham,CON,Daniel Kawczynski,"31,021",52.5,+2.6
+2589,Shrewsbury & Atcham,LAB,Julia Buckley,"19,804",33.5,-5.0
+2590,Shrewsbury & Atcham,LD,Nat Green,"5,906",10.0,+2.7
+2591,Shrewsbury & Atcham,GRN,Julian Dean,"1,762",3.0,+1.1
+2592,Shrewsbury & Atcham,IND,Hannah Locke,572,1.0,+1.0
+2593,Shropshire North,CON,Owen Paterson,"35,444",62.7,+2.2
+2594,Shropshire North,LAB,Graeme Currie,"12,495",22.1,-9.0
+2595,Shropshire North,LD,Helen Morgan,"5,643",10.0,+4.7
+2596,Shropshire North,GRN,John Adams,"1,790",3.2,+0.1
+2597,Shropshire North,SHRP,Robert Jones,"1,141",2.0,+2.0
+2598,Sittingbourne & Sheppey,CON,Gordon Henderson,"34,742",67.6,+7.4
+2599,Sittingbourne & Sheppey,LAB,Clive Johnson,"10,263",20.0,-10.6
+2600,Sittingbourne & Sheppey,LD,Ben Martin,"3,213",6.3,+3.5
+2601,Sittingbourne & Sheppey,IND,Monique Bonney,"1,257",2.4,+2.4
+2602,Sittingbourne & Sheppey,GRN,Sam Collins,"1,188",2.3,+1.2
+2603,Sittingbourne & Sheppey,MRLP,Mad Mike Young,404,0.8,0.0
+2604,Sittingbourne & Sheppey,IND,Lee McCall,327,0.6,+0.1
+2605,Skipton & Ripon,CON,Julian Smith,"34,919",59.5,-3.2
+2606,Skipton & Ripon,LAB,Brian McDaid,"11,225",19.1,-9.2
+2607,Skipton & Ripon,LD,Andrew Murday,"8,701",14.8,+14.8
+2608,Skipton & Ripon,GRN,Andy Brown,"2,748",4.7,-1.7
+2609,Skipton & Ripon,YRKS,Jack Render,"1,131",1.9,-0.7
+2610,Sleaford & North Hykeham,CON,Caroline Johnson,"44,683",67.1,+2.9
+2611,Sleaford & North Hykeham,LAB,Linda Edwards-Shea,"12,118",18.2,-7.6
+2612,Sleaford & North Hykeham,LD,Oliver Craven,"5,355",8.0,+3.9
+2613,Sleaford & North Hykeham,LNIN,Marianne Overton,"1,999",3.0,+3.0
+2614,Sleaford & North Hykeham,GRN,Simon Tooke,"1,742",2.6,+1.1
+2615,Sleaford & North Hykeham,IND,Caroline Coram,657,1.0,+1.0
+2616,Slough,LAB,Tan Dhesi,"29,421",57.6,-5.3
+2617,Slough,CON,Kanwal Toor Gill,"15,781",30.9,-0.7
+2618,Slough,LD,Aaron Chahal,"3,357",6.6,+4.2
+2619,Slough,BRX,Delphine Gray-Fisk,"1,432",2.8,+2.8
+2620,Slough,GRN,Julian Edmonds,"1,047",2.1,+2.1
+2621,Solihull,CON,Julian Knight,"32,309",58.4,+0.3
+2622,Solihull,LAB,Nick Stephens,"11,036",19.9,-1.9
+2623,Solihull,LD,Ade Adeyemo,"9,977",18.0,+2.3
+2624,Solihull,GRN,Rosemary Sexton,"2,022",3.7,+1.6
+2625,Somerset North,CON,Liam Fox,"32,801",52.9,-1.3
+2626,Somerset North,LAB,Hannah Young,"15,265",24.6,-2.0
+2627,Somerset North,LD,Ashley Cartman,"11,051",17.8,+8.2
+2628,Somerset North,GRN,Phil Neve,"2,938",4.7,+1.5
+2629,Somerset North East,CON,Jacob Rees-Mogg,"28,360",50.4,-3.3
+2630,Somerset North East,LAB,Mark Huband,"13,631",24.2,-10.5
+2631,Somerset North East,LD,Nick Coates,"12,422",22.1,+13.8
+2632,Somerset North East,GRN,Fay Whitfield,"1,423",2.5,+0.2
+2633,Somerset North East,IND,Shaun Hughes,472,0.8,-0.2
+2634,Somerton & Frome,CON,David Warburton,"36,230",55.8,-0.9
+2635,Somerton & Frome,LD,Adam Boyden,"17,017",26.2,+5.4
+2636,Somerton & Frome,LAB,Sean Dromgoole,"8,354",12.9,-4.3
+2637,Somerton & Frome,GRN,Andrea Dexter,"3,295",5.1,+1.4
+2638,South Antrim,DUP,Paul Girvan,"15,149",35.3,-3.0
+2639,South Antrim,UUP,Danny Kinahan,"12,460",29.0,-1.8
+2640,South Antrim,APNI,John Blair,"8,190",19.1,+11.6
+2641,South Antrim,SF,Declan Kearney,"4,887",11.4,-6.7
+2642,South Antrim,SDLP,Roisin Lynch,"2,288",5.3,-0.1
+2643,South Down,SF,Chris Hazzard,"16,137",32.4,-7.5
+2644,South Down,SDLP,Michael Savage,"14,517",29.2,-6.0
+2645,South Down,DUP,Glyn Hanna,"7,619",15.3,-2.1
+2646,South Down,APNI,Patrick Brown,"6,916",13.9,+10.3
+2647,South Down,UUP,Jill Macauley,"3,307",6.6,+2.7
+2648,South Down,AONT,Paul Brady,"1,266",2.5,+2.5
+2649,South Holland & The Deepings,CON,John Hayes,"37,338",75.9,+6.0
+2650,South Holland & The Deepings,LAB,Mark Popple,"6,500",13.2,-7.2
+2651,South Holland & The Deepings,LD,Davina Kirby,"3,225",6.6,+3.7
+2652,South Holland & The Deepings,GRN,Martin Blake,"1,613",3.3,+1.5
+2653,South Holland & The Deepings,IND,Rick Stringer,503,1.0,+0.3
+2654,South Ribble,CON,Katherine Fletcher,"30,028",55.8,+3.0
+2655,South Ribble,LAB,Kim Snape,"18,829",35.0,-4.3
+2656,South Ribble,LD,Jo Barton,"3,720",6.9,+3.1
+2657,South Ribble,GRN,Andy Fewings,"1,207",2.2,+1.3
+2658,South Shields,LAB,Emma Lewell-Buck,"17,273",45.6,-15.9
+2659,South Shields,CON,Oni Oviri,"7,688",20.3,-5.6
+2660,South Shields,BRX,Glenn Thompson,"6,446",17.0,+17.0
+2661,South Shields,IND,Geoff Thompson,"3,658",9.7,+9.7
+2662,South Shields,LD,William Shepherd,"1,514",4.0,+2.3
+2663,South Shields,GRN,Sarah McKeown,"1,303",3.4,-0.1
+2664,Southampton Itchen,CON,Royston Smith,"23,952",50.5,+4.0
+2665,Southampton Itchen,LAB,Simon Letts,"19,454",41.0,-5.5
+2666,Southampton Itchen,LD,Liz Jarvis,"2,503",5.3,+2.2
+2667,Southampton Itchen,GRN,Osman Sen-Chadun,"1,040",2.2,+0.6
+2668,Southampton Itchen,UKIP,Kim Rose,472,1.0,-1.4
+2669,Southampton Test,LAB,Alan Whitehead,"22,256",49.5,-9.2
+2670,Southampton Test,CON,Steven Galton,"16,043",35.7,+1.5
+2671,Southampton Test,LD,Joe Richards,"3,449",7.7,+3.6
+2672,Southampton Test,BRX,Philip Crook,"1,591",3.5,+3.5
+2673,Southampton Test,GRN,Katherine Barbour,"1,433",3.2,+3.2
+2674,Southampton Test,IND,Kev Barry,222,0.5,+0.5
+2675,Southend West,CON,David Amess,"27,555",59.2,+4.0
+2676,Southend West,LAB,Aston Line,"13,096",28.1,-5.9
+2677,Southend West,LD,Nina Stimson,"5,312",11.4,+6.9
+2678,Southend West,IND,77 Joseph,574,1.2,+1.2
+2679,Southport,CON,Damien Moore,"22,914",47.6,+8.9
+2680,Southport,LAB,Liz Savage,"18,767",39.0,+6.4
+2681,Southport,LD,John Wright,"6,499",13.5,-12.9
+2682,Spelthorne,CON,Kwasi Kwarteng,"29,141",58.9,+1.6
+2683,Spelthorne,LAB,Pavitar Mann,"10,748",21.7,-8.8
+2684,Spelthorne,LD,David Campanale,"7,499",15.1,+9.6
+2685,Spelthorne,GRN,Paul Jacobs,"2,122",4.3,+2.1
+2686,St Albans,LD,Daisy Cooper,"28,867",50.1,+17.7
+2687,St Albans,CON,Anne Main,"22,574",39.2,-3.9
+2688,St Albans,LAB,Rebecca Lury,"5,000",8.7,-14.4
+2689,St Albans,GRN,Simon Grover,"1,004",1.7,+0.3
+2690,St Albans,IND,Jules Sherrington,154,0.3,+0.3
+2691,St Austell & Newquay,CON,Steve Double,"31,273",56.1,+6.5
+2692,St Austell & Newquay,LAB,Felicity Owen,"14,747",26.4,-2.5
+2693,St Austell & Newquay,LD,Tim Styles,"5,861",10.5,-11.0
+2694,St Austell & Newquay,MK,Dick Cole,"1,660",3.0,+3.0
+2695,St Austell & Newquay,GRN,Collin Harker,"1,609",2.9,+2.9
+2696,St Austell & Newquay,LIB,Richard Byrne,626,1.1,+1.1
+2697,St Helens North,LAB,Conor McGinn,"24,870",52.3,-11.5
+2698,St Helens North,CON,Joel Charles,"12,661",26.6,-0.5
+2699,St Helens North,BRX,Malcolm Webster,"5,396",11.3,+11.3
+2700,St Helens North,LD,Pat Moloney,"2,668",5.6,+3.0
+2701,St Helens North,GRN,David Van Der Burg,"1,966",4.1,+1.7
+2702,St Helens South & Whiston,LAB,Marie Rimmer,"29,457",58.5,-9.3
+2703,St Helens South & Whiston,CON,Richard Short,"10,335",20.5,-1.3
+2704,St Helens South & Whiston,BRX,Daniel Oxley,"5,353",10.6,+10.6
+2705,St Helens South & Whiston,LD,Brian Spencer,"2,886",5.7,+1.8
+2706,St Helens South & Whiston,GRN,Kai Taylor,"2,282",4.5,+1.9
+2707,St Ives,CON,Derek Thomas,"25,365",49.3,+6.2
+2708,St Ives,LD,Andrew George,"21,081",41.0,-1.6
+2709,St Ives,LAB,Alana Bates,"3,553",6.9,-7.3
+2710,St Ives,GRN,Ian Flindall,954,1.9,+1.9
+2711,St Ives,LIB,Robert Smith,314,0.6,+0.6
+2712,St Ives,CP,John Harris,132,0.3,+0.3
+2713,Stafford,CON,Theo Clarke,"29,992",58.6,+3.9
+2714,Stafford,LAB,Joyce Still,"15,615",30.5,-9.3
+2715,Stafford,LD,Alex Wagner,"3,175",6.2,+3.2
+2716,Stafford,GRN,Emma Carter,"2,367",4.6,+2.2
+2717,Staffordshire Moorlands,CON,Karen Bradley,"28,192",64.6,+6.4
+2718,Staffordshire Moorlands,LAB,Darren Price,"11,764",26.9,-6.9
+2719,Staffordshire Moorlands,LD,Andrew Gant,"2,469",5.7,+2.3
+2720,Staffordshire Moorlands,GRN,Douglas Rouxel,"1,231",2.8,+1.6
+2721,Staffordshire South,CON,Gavin Williamson,"36,520",73.0,+3.3
+2722,Staffordshire South,LAB,Adam Freeman,"8,270",16.5,-8.7
+2723,Staffordshire South,LD,Chris Fewtrell,"3,280",6.6,+3.9
+2724,Staffordshire South,GRN,Claire McIlvenna,"1,935",3.9,+1.6
+2725,Stalybridge & Hyde,LAB,Jonathan Reynolds,"19,025",44.9,-12.3
+2726,Stalybridge & Hyde,CON,Tayub Amjad,"16,079",38.0,-0.2
+2727,Stalybridge & Hyde,BRX,Julian Newton,"3,591",8.5,+8.5
+2728,Stalybridge & Hyde,LD,Jamie Dwan,"1,827",4.3,+2.0
+2729,Stalybridge & Hyde,GRN,Julie Wood,"1,411",3.3,+1.0
+2730,Stalybridge & Hyde,LIB,John Edge,435,1.0,+1.0
+2731,Stevenage,CON,Stephen McPartland,"25,328",53.1,+2.8
+2732,Stevenage,LAB,Jill Borcherds,"16,766",35.2,-8.2
+2733,Stevenage,LD,Lisa Nash,"4,132",8.7,+4.5
+2734,Stevenage,GRN,Victoria Snelling,"1,457",3.1,+0.9
+2735,Stirling,SNP,Alyn Smith,"26,895",51.1,+14.4
+2736,Stirling,CON,Stephen Kerr,"17,641",33.5,-3.5
+2737,Stirling,LAB,Mary Ross,"4,275",8.1,-14.0
+2738,Stirling,LD,Fayzan Rehman,"2,867",5.4,+2.0
+2739,Stirling,GRN,Bryan Quinn,942,1.8,+1.8
+2740,Stockport,LAB,Navendu Mishra,"21,695",52.0,-11.3
+2741,Stockport,CON,Isy Imarni,"11,656",27.9,-0.5
+2742,Stockport,LD,Wendy Meikle,"5,043",12.1,+7.8
+2743,Stockport,BRX,Lee Montague-Trenchard,"1,918",4.6,+4.6
+2744,Stockport,GRN,Helena Mellish,"1,403",3.4,+1.9
+2745,Stockton North,LAB,Alex Cunningham,"17,728",43.1,-13.8
+2746,Stockton North,CON,Steven Jackson,"16,701",40.6,+4.1
+2747,Stockton North,BRX,Martin Walker,"3,907",9.5,+9.5
+2748,Stockton North,LD,Aidan King,"1,631",4.0,+2.5
+2749,Stockton North,NE,Mark Burdon,"1,189",2.9,+2.9
+2750,Stockton South,CON,Matt Vickers,"27,764",50.7,+3.8
+2751,Stockton South,LAB,Paul Williams,"22,504",41.1,-7.4
+2752,Stockton South,LD,Brendan Devlin,"2,338",4.3,+2.5
+2753,Stockton South,BRX,John Prescott,"2,196",4.0,+4.0
+2754,Stoke-on-Trent Central,CON,Jo Gideon,"14,557",45.4,+5.6
+2755,Stoke-on-Trent Central,LAB,Gareth Snell,"13,887",43.3,-8.2
+2756,Stoke-on-Trent Central,BRX,Tariq Mahmood,"1,691",5.3,+5.3
+2757,Stoke-on-Trent Central,LD,Steven Pritchard,"1,116",3.5,+1.4
+2758,Stoke-on-Trent Central,GRN,Adam Colclough,819,2.6,+1.4
+2759,Stoke-on-Trent North,CON,Jonathan Gullis,"20,974",52.3,+7.0
+2760,Stoke-on-Trent North,LAB,Ruth Smeeth,"14,688",36.6,-14.3
+2761,Stoke-on-Trent North,BRX,Richard Watkin,"2,374",5.9,+5.9
+2762,Stoke-on-Trent North,LD,Peter Andras,"1,268",3.2,+1.0
+2763,Stoke-on-Trent North,GRN,Alan Borgars,508,1.3,-0.4
+2764,Stoke-on-Trent North,IND,Matt Dilworth,322,0.8,+0.8
+2765,Stoke-on-Trent South,CON,Jack Brereton,"24,632",62.2,+13.1
+2766,Stoke-on-Trent South,LAB,Mark McDonald,"13,361",33.7,-13.7
+2767,Stoke-on-Trent South,LD,Rosalyn Gordon,"1,611",4.1,+2.1
+2768,Stone,CON,Bill Cash,"31,687",63.6,+0.4
+2769,Stone,LAB,Mike Stubbs,"11,742",23.6,-4.7
+2770,Stone,LD,Alec Sandiford,"4,412",8.9,+4.4
+2771,Stone,GRN,Tom Adamson,"2,002",4.0,+2.6
+2772,Stourbridge,CON,Suzanne Webb,"27,534",60.3,+5.7
+2773,Stourbridge,LAB,Pete Lowe,"13,963",30.6,-7.7
+2774,Stourbridge,LD,Chris Bramall,"2,523",5.5,+3.2
+2775,Stourbridge,GRN,Andi Mohr,"1,048",2.3,+1.2
+2776,Stourbridge,IND,Aaron Hudson,621,1.4,+1.4
+2777,Strangford,DUP,Jim Shannon,"17,705",47.2,-14.8
+2778,Strangford,APNI,Kellie Armstrong,"10,634",28.4,+13.7
+2779,Strangford,UUP,Philip Smith,"4,023",10.7,-0.7
+2780,Strangford,SDLP,Joe Boyle,"1,994",5.3,-0.9
+2781,Strangford,CON,Grant Abraham,"1,476",3.9,+2.6
+2782,Strangford,GRN,Maurice Macartney,790,2.1,+0.5
+2783,Strangford,SF,Ryan Carlin,555,1.5,-1.3
+2784,Strangford,UKIP,Robert Stephenson,308,0.8,+0.8
+2785,Stratford-on-Avon,CON,Nadhim Zahawi,"33,343",60.6,-2.3
+2786,Stratford-on-Avon,LD,Dominic Skinner,"13,371",24.3,+12.4
+2787,Stratford-on-Avon,LAB,Felix Ling,"6,222",11.3,-10.6
+2788,Stratford-on-Avon,GRN,Dave Passingham,"2,112",3.8,+1.3
+2789,Streatham,LAB,Bell Ribeiro-Addy,"30,976",54.8,-13.7
+2790,Streatham,LD,Helen Thompson,"13,286",23.5,+17.0
+2791,Streatham,CON,Rory O'Broin,"9,060",16.0,-5.3
+2792,Streatham,GRN,Scott Ainslie,"2,567",4.5,+1.5
+2793,Streatham,BRX,Penelope Becker,624,1.1,+1.1
+2794,Stretford & Urmston,LAB,Kate Green,"30,195",60.3,-6.5
+2795,Stretford & Urmston,CON,Mussadak Mirza,"13,778",27.5,0.0
+2796,Stretford & Urmston,LD,Anna Fryer,"2,969",5.9,+3.9
+2797,Stretford & Urmston,BRX,Gary Powell,"1,768",3.5,+3.5
+2798,Stretford & Urmston,GRN,Jane Leicester,"1,357",2.7,+1.4
+2799,Stroud,CON,Siobhan Baillie,"31,582",47.9,+2.0
+2800,Stroud,LAB,David Drew,"27,742",42.1,-4.9
+2801,Stroud,GRN,Molly Scott Cato,"4,954",7.5,+5.3
+2802,Stroud,BRX,Desi Latimer,"1,085",1.6,+1.6
+2803,Stroud,LBT,Glenville Gogerly,567,0.9,+0.9
+2804,Suffolk Central & Ipswich North,CON,Dan Poulter,"35,253",62.7,+2.5
+2805,Suffolk Central & Ipswich North,LAB,Emma Bonner-Morgan,"11,862",21.1,-8.6
+2806,Suffolk Central & Ipswich North,LD,James Sandbach,"6,485",11.5,+7.2
+2807,Suffolk Central & Ipswich North,GRN,Daniel Pratt,"2,650",4.7,+1.8
+2808,Suffolk Coastal,CON,Therese Coffey,"32,958",56.5,-1.5
+2809,Suffolk Coastal,LAB,Cameron Matthews,"12,425",21.3,-9.2
+2810,Suffolk Coastal,LD,Jules Ewart,"8,719",15.0,+8.0
+2811,Suffolk Coastal,GRN,Rachel Smith-Lyte,"2,713",4.7,+1.5
+2812,Suffolk Coastal,IND,Tony Love,"1,493",2.6,+2.6
+2813,Suffolk South,CON,James Cartlidge,"33,270",62.2,+1.7
+2814,Suffolk South,LAB,Elizabeth Hughes,"10,373",19.4,-8.4
+2815,Suffolk South,LD,David Beavan,"6,702",12.5,+6.7
+2816,Suffolk South,GRN,Robert Lindsay,"3,144",5.9,+2.7
+2817,Suffolk West,CON,Matt Hancock,"33,842",65.8,+4.6
+2818,Suffolk West,LAB,Claire Unwin,"10,648",20.7,-7.5
+2819,Suffolk West,LD,Elfreda Tealby-Watson,"4,685",9.1,+4.9
+2820,Suffolk West,GRN,Donald Allwright,"2,262",4.4,+2.6
+2821,Sunderland Central,LAB,Julie Elliott,"18,336",42.2,-13.4
+2822,Sunderland Central,CON,Tom D'Silva,"15,372",35.4,+2.0
+2823,Sunderland Central,BRX,Viral Parikh,"5,047",11.6,+11.6
+2824,Sunderland Central,LD,Niall Hodson,"3,025",7.0,+3.0
+2825,Sunderland Central,GRN,Rachel Featherstone,"1,212",2.8,+1.2
+2826,Sunderland Central,IND,Dale McKenzie,484,1.1,+1.1
+2827,Surrey East,CON,Claire Coutinho,"35,624",59.7,0.0
+2828,Surrey East,LD,Alex Ehmann,"11,584",19.4,+8.9
+2829,Surrey East,LAB,Frances Rehal,"8,247",13.8,-5.4
+2830,Surrey East,GRN,Joseph Booton,"2,340",3.9,+2.1
+2831,Surrey East,IND,Helena Windsor,"1,374",2.3,+2.3
+2832,Surrey East,MRLP,Martin Hogbin,521,0.9,+0.9
+2833,Surrey Heath,CON,Michael Gove,"34,358",58.6,-5.6
+2834,Surrey Heath,LD,Alasdair Pinkerton,"16,009",27.3,+16.4
+2835,Surrey Heath,LAB,Brahma Mohanty,"5,407",9.2,-11.8
+2836,Surrey Heath,GRN,Sharon Galliford,"2,252",3.8,-0.1
+2837,Surrey Heath,UKIP,David Roe,628,1.1,+1.1
+2838,Surrey South West,CON,Jeremy Hunt,"32,191",53.3,-2.4
+2839,Surrey South West,LD,Paul Follows,"23,374",38.7,+28.9
+2840,Surrey South West,LAB,Tim Corry,"4,775",7.9,-4.7
+2841,Sussex Mid,CON,Mims Davies,"33,455",53.3,-3.6
+2842,Sussex Mid,LD,Robert Eggleston,"15,258",24.3,+11.6
+2843,Sussex Mid,LAB,Gemma Bolton,"11,218",17.9,-7.1
+2844,Sussex Mid,GRN,Deanna Nicholson,"2,234",3.6,+1.0
+2845,Sussex Mid,MRLP,Baron Von Thunderclap,550,0.9,+0.1
+2846,Sussex Mid,ADV,Brett Mortensen,47,0.1,+0.1
+2847,Sutton & Cheam,CON,Paul Scully,"25,235",50.0,-1.1
+2848,Sutton & Cheam,LD,Hina Bokhari,"16,884",33.4,+6.8
+2849,Sutton & Cheam,LAB,Bonnie Craven,"7,200",14.3,-6.3
+2850,Sutton & Cheam,GRN,Claire Jackson-Prior,"1,168",2.3,+0.6
+2851,Sutton Coldfield,CON,Andrew Mitchell,"31,604",60.4,-0.6
+2852,Sutton Coldfield,LAB,David Knowles,"12,332",23.6,-8.4
+2853,Sutton Coldfield,LD,Jenny Wilkinson,"6,358",12.2,+7.8
+2854,Sutton Coldfield,GRN,Ben Auton,"2,031",3.9,+2.1
+2855,Swansea East,LAB,Carolyn Harris,"17,405",51.8,-11.6
+2856,Swansea East,CON,Denise Howard,"9,435",28.1,+2.1
+2857,Swansea East,BRX,Tony Willicombe,"2,842",8.5,+8.5
+2858,Swansea East,PC,Geraint Havard,"1,905",5.7,+0.9
+2859,Swansea East,LD,Chloe Hutchinson,"1,409",4.2,+2.4
+2860,Swansea East,GRN,Chris Evans,583,1.7,+0.7
+2861,Swansea West,LAB,Geraint Davies,"18,493",51.6,-8.1
+2862,Swansea West,CON,James Price,"10,377",29.0,-2.4
+2863,Swansea West,LD,Michael O'Carroll,"2,993",8.4,+4.9
+2864,Swansea West,PC,Gwyn Williams,"1,984",5.5,+1.4
+2865,Swansea West,BRX,Peter Hopkins,"1,983",5.5,+5.5
+2866,Swindon North,CON,Justin Tomlinson,"32,584",59.1,+5.5
+2867,Swindon North,LAB,Kate Linnegar,"16,413",29.8,-8.6
+2868,Swindon North,LD,Katie Critchlow,"4,408",8.0,+4.4
+2869,Swindon North,GRN,Andy Bentley,"1,710",3.1,+1.5
+2870,Swindon South,CON,Robert Buckland,"26,536",52.3,+3.9
+2871,Swindon South,LAB,Sarah Church,"19,911",39.2,-4.3
+2872,Swindon South,LD,Stan Pajak,"4,299",8.5,+4.4
+2873,Tamworth,CON,Christopher Pincher,"30,542",66.3,+5.3
+2874,Tamworth,LAB,Christopher Bain,"10,908",23.7,-11.1
+2875,Tamworth,LD,Rob Wheway,"2,426",5.3,+1.1
+2876,Tamworth,GRN,Andrew Tilley,935,2.0,+2.0
+2877,Tamworth,UKIP,Robert Bilcliff,814,1.8,+1.8
+2878,Tamworth,IND,John Wright,431,0.9,+0.9
+2879,Tatton,CON,Esther McVey,"28,277",57.7,-0.8
+2880,Tatton,LAB,James Weinberg,"10,890",22.2,-6.2
+2881,Tatton,LD,Jonathan Smith,"7,712",15.7,+6.7
+2882,Tatton,GRN,Nigel Hennerley,"2,088",4.3,+2.2
+2883,Taunton Deane,CON,Rebecca Pow,"34,164",53.6,+0.7
+2884,Taunton Deane,LD,Gideon Amos,"22,464",35.2,+7.6
+2885,Taunton Deane,LAB,Liam Canham,"4,715",7.4,-8.0
+2886,Taunton Deane,IND,John Hunt,"2,390",3.8,+3.8
+2887,Telford,CON,Lucy Allan,"25,546",59.7,+10.9
+2888,Telford,LAB,Katrina Gilman,"14,605",34.1,-13.0
+2889,Telford,LD,Shana Roberts,"2,674",6.2,+4.1
+2890,Tewkesbury,CON,Laurence Robertson,"35,728",58.4,-1.6
+2891,Tewkesbury,LD,Alex Hegenbarth,"13,318",21.8,+8.3
+2892,Tewkesbury,LAB,Lara Chaplin,"9,310",15.2,-6.6
+2893,Tewkesbury,GRN,Cate Cody,"2,784",4.6,+1.9
+2894,Thanet North,CON,Roger Gale,"30,066",62.4,+6.2
+2895,Thanet North,LAB,Coral Jones,"12,877",26.7,-7.3
+2896,Thanet North,LD,Angie Curwen,"3,439",7.1,+3.9
+2897,Thanet North,GRN,Rob Edwards,"1,796",3.7,+2.0
+2898,Thanet South,CON,Craig Mackinlay,"27,084",56.1,+5.3
+2899,Thanet South,LAB,Rebecca Gordon-Nesbitt,"16,497",34.2,-3.8
+2900,Thanet South,LD,Martyn Pennington,"2,727",5.7,+2.6
+2901,Thanet South,GRN,Becky Wing,"1,949",4.0,+2.4
+2902,Thirsk & Malton,CON,Kevin Hollinrake,"35,634",63.0,+2.9
+2903,Thirsk & Malton,LAB,David Yellen,"10,480",18.5,-7.5
+2904,Thirsk & Malton,LD,Dinah Keal,"6,774",12.0,+5.1
+2905,Thirsk & Malton,GRN,Martin Brampton,"2,263",4.0,+2.0
+2906,Thirsk & Malton,YRKS,John Hall,881,1.6,+1.6
+2907,Thirsk & Malton,IND,Steve Mullins,245,0.4,+0.4
+2908,Thirsk & Malton,IND,Gordon Johnson,184,0.3,+0.3
+2909,Thirsk & Malton,SDP,Michael Taylor,127,0.2,+0.2
+2910,Thornbury & Yate,CON,Luke Hall,"30,202",57.8,+2.6
+2911,Thornbury & Yate,LD,Claire Young,"17,833",34.1,+2.7
+2912,Thornbury & Yate,LAB,Rob Logan,"4,208",8.1,-4.0
+2913,Thurrock,CON,Jackie Doyle-Price,"27,795",58.6,+19.1
+2914,Thurrock,LAB,John Kent,"16,313",34.4,-4.5
+2915,Thurrock,LD,Stewart Stone,"1,510",3.2,+1.6
+2916,Thurrock,IND,James Woollard,"1,042",2.2,+2.2
+2917,Thurrock,GRN,Ben Harvey,807,1.7,+1.7
+2918,Tiverton & Honiton,CON,Neil Parish,"35,893",60.2,-1.1
+2919,Tiverton & Honiton,LAB,Liz Pole,"11,654",19.5,-7.6
+2920,Tiverton & Honiton,LD,John Timperley,"8,807",14.8,+6.7
+2921,Tiverton & Honiton,GRN,Colin Reed,"2,291",3.8,+0.3
+2922,Tiverton & Honiton,UKIP,Margaret Dennis,968,1.6,+1.6
+2923,Tonbridge & Malling,CON,Tom Tugendhat,"35,784",62.8,-0.9
+2924,Tonbridge & Malling,LD,Richard Morris,"8,843",15.5,+8.9
+2925,Tonbridge & Malling,LAB,Dylan Jones,"8,286",14.5,-7.8
+2926,Tonbridge & Malling,GRN,April Clark,"4,090",7.2,+3.1
+2927,Tooting,LAB,Rosena Allin-Khan,"30,811",52.7,-6.9
+2928,Tooting,CON,Kerry Briscoe,"16,504",28.2,-4.8
+2929,Tooting,LD,Olly Glover,"8,305",14.2,+8.9
+2930,Tooting,GRN,Glyn Goodwin,"2,314",4.0,+2.5
+2931,Tooting,BRX,Adam Shakir,462,0.8,+0.8
+2932,Tooting,SDP,Roz Hubley,77,0.1,+0.1
+2933,Torbay,CON,Kevin Foster,"29,863",59.2,+6.2
+2934,Torbay,LD,Lee Howgate,"12,114",24.0,-1.1
+2935,Torbay,LAB,Michele Middleditch,"6,562",13.0,-5.2
+2936,Torbay,GRN,Sam Moss,"1,239",2.5,+1.2
+2937,Torbay,IND,James Channer,648,1.3,+1.3
+2938,Torfaen,LAB,Nick Thomas-Symonds,"15,546",41.8,-15.8
+2939,Torfaen,CON,Graham Smith,"11,804",31.8,+0.8
+2940,Torfaen,BRX,David Thomas,"5,742",15.4,+15.4
+2941,Torfaen,LD,John Miller,"1,831",4.9,+2.7
+2942,Torfaen,PC,Morgan Bowler-Brown,"1,441",3.9,-1.5
+2943,Torfaen,GRN,Andrew Heygate-Browne,812,2.2,+2.2
+2944,Totnes,CON,Anthony Mangnall,"27,751",53.2,-0.5
+2945,Totnes,LD,Sarah Wollaston,"15,027",28.8,+15.9
+2946,Totnes,LAB,Louise Webberley,"8,860",17.0,-9.9
+2947,Totnes,IND,John Kitson,544,1.0,+1.0
+2948,Tottenham,LAB,David Lammy,"35,621",76.0,-5.6
+2949,Tottenham,CON,James Newhall,"5,446",11.6,+0.1
+2950,Tottenham,LD,Tammy Palmer,"3,168",6.8,+3.3
+2951,Tottenham,GRN,Emma Chan,"1,873",4.0,+1.4
+2952,Tottenham,BRX,Abdul Turay,527,1.1,+1.1
+2953,Tottenham,SDP,Andrew Bence,91,0.2,+0.2
+2954,Tottenham,WRP,Frank Sweeney,88,0.2,+0.2
+2955,Tottenham,CLGB,Jonathan Silberman,42,0.1,+0.1
+2956,Truro & Falmouth,CON,Cherilyn Mackrory,"27,237",46.0,+1.7
+2957,Truro & Falmouth,LAB,Jennifer Forbes,"22,676",38.3,+0.7
+2958,Truro & Falmouth,LD,Ruth Gripper,"7,150",12.1,-2.9
+2959,Truro & Falmouth,GRN,Tom Scott,"1,714",2.9,+1.4
+2960,Truro & Falmouth,LIB,Paul Nicholson,413,0.7,+0.7
+2961,Tunbridge Wells,CON,Greg Clark,"30,119",55.1,-1.8
+2962,Tunbridge Wells,LD,Ben Chapelard,"15,474",28.3,+18.4
+2963,Tunbridge Wells,LAB,Antonio Weiss,"8,098",14.8,-11.7
+2964,Tunbridge Wells,IND,Christopher Camp,488,0.9,+0.9
+2965,Tunbridge Wells,IND,Nigel Peacock,471,0.9,+0.9
+2966,Twickenham,LD,Munira Wilson,"36,166",56.1,+3.3
+2967,Twickenham,CON,Isobel Grant,"22,045",34.2,-3.8
+2968,Twickenham,LAB,Ranjeev Walia,"5,476",8.5,-0.7
+2969,Twickenham,BRX,Stuart Wells,816,1.3,+1.3
+2970,Tynemouth,LAB,Alan Campbell,"26,928",48.1,-8.9
+2971,Tynemouth,CON,Lewis Bartoli,"22,071",39.4,+2.9
+2972,Tynemouth,LD,John Appleby,"3,791",6.8,+3.7
+2973,Tynemouth,BRX,Ed Punchard,"1,963",3.5,+3.5
+2974,Tynemouth,GRN,Julia Erskine,"1,281",2.3,+1.2
+2975,Tyneside North,LAB,Mary Glindon,"25,051",49.7,-14.8
+2976,Tyneside North,CON,Dean Carroll,"15,490",30.7,+3.4
+2977,Tyneside North,BRX,Andrew Husband,"5,254",10.4,+10.4
+2978,Tyneside North,LD,Chris Boyle,"3,241",6.4,+3.5
+2979,Tyneside North,GRN,John Buttery,"1,393",2.8,+1.5
+2980,Upper Bann,DUP,Carla Lockhart,"20,501",41.0,-2.6
+2981,Upper Bann,SF,John O'Dowd,"12,291",24.6,-3.4
+2982,Upper Bann,APNI,Eóin Tennyson,"6,433",12.9,+8.3
+2983,Upper Bann,UUP,Doug Beattie,"6,197",12.4,-3.0
+2984,Upper Bann,SDLP,Dolores Kelly,"4,623",9.2,+0.7
+2985,Uxbridge & Ruislip South,CON,Boris Johnson,"25,351",52.6,+1.8
+2986,Uxbridge & Ruislip South,LAB,Ali Milani,"18,141",37.6,-2.4
+2987,Uxbridge & Ruislip South,LD,Joanne Humphreys,"3,026",6.3,+2.3
+2988,Uxbridge & Ruislip South,GRN,Mark Keir,"1,090",2.3,+0.4
+2989,Uxbridge & Ruislip South,UKIP,Geoffrey Courtenay,283,0.6,-2.8
+2990,Uxbridge & Ruislip South,MRLP,Lord Buckethead,125,0.3,+0.3
+2991,Uxbridge & Ruislip South,IND,Count Binface,69,0.1,+0.1
+2992,Uxbridge & Ruislip South,IND,Alfie Utting,44,0.1,+0.1
+2993,Uxbridge & Ruislip South,IND,Yace Yogenstein,23,0.0,0.0
+2994,Uxbridge & Ruislip South,IND,Norma Burke,22,0.0,0.0
+2995,Uxbridge & Ruislip South,IND,Bobby Elmo Smith,8,0.0,0.0
+2996,Uxbridge & Ruislip South,IND,William Tobin,5,0.0,0.0
+2997,Vale of Clwyd,CON,James Davies,"17,270",46.4,+2.3
+2998,Vale of Clwyd,LAB,Chris Ruane,"15,443",41.5,-8.7
+2999,Vale of Clwyd,PC,Glenn Swingler,"1,552",4.2,+0.2
+3000,Vale of Clwyd,BRX,Peter Dain,"1,477",4.0,+4.0
+3001,Vale of Clwyd,LD,Gavin Scott,"1,471",4.0,+2.2
+3002,Vale of Glamorgan,CON,Alun Cairns,"27,305",49.8,+2.3
+3003,Vale of Glamorgan,LAB,Belinda Loveluck-Edwards,"23,743",43.3,-0.1
+3004,Vale of Glamorgan,GRN,Anthony Slaughter,"3,251",5.9,+5.2
+3005,Vale of Glamorgan,GWLD,Laurence Williams,508,0.9,+0.9
+3006,Vauxhall,LAB,Florence Eshalomi,"31,615",56.1,-1.2
+3007,Vauxhall,LD,Sarah Lewis,"12,003",21.3,+0.7
+3008,Vauxhall,CON,Sarah Bool,"9,422",16.7,-1.9
+3009,Vauxhall,GRN,Jacqueline Bond,"2,516",4.5,+2.4
+3010,Vauxhall,BRX,Andrew McGuinness,641,1.1,+1.1
+3011,Vauxhall,IND,Salah Faissal,136,0.2,+0.2
+3012,Wakefield,CON,Imran Ahmad-Khan,"21,283",47.3,+2.3
+3013,Wakefield,LAB,Mary Creagh,"17,925",39.8,-9.9
+3014,Wakefield,BRX,Peter Wiltshire,"2,725",6.1,+6.1
+3015,Wakefield,LD,Jamie Needle,"1,772",3.9,+1.9
+3016,Wakefield,YRKS,Ryan Kett,868,1.9,-0.6
+3017,Wakefield,IND,Stephen Whyte,454,1.0,+1.0
+3018,Wallasey,LAB,Angela Eagle,"29,901",64.3,-7.1
+3019,Wallasey,CON,James Baker,"11,579",24.9,+1.7
+3020,Wallasey,BRX,Martin York,"2,037",4.4,+4.4
+3021,Wallasey,LD,Vicky Downie,"1,843",4.0,+2.4
+3022,Wallasey,GRN,Lily Clough,"1,132",2.4,+1.1
+3023,Walsall North,CON,Eddie Hughes,"23,334",63.8,+14.2
+3024,Walsall North,LAB,Gill Ogilvie,"11,369",31.1,-11.7
+3025,Walsall North,LD,Jennifer Gray,"1,236",3.4,+1.8
+3026,Walsall North,GRN,Mark Wilson,617,1.7,+1.7
+3027,Walsall South,LAB,Valerie Vaz,"20,872",49.1,-8.2
+3028,Walsall South,CON,Gurjit Bains,"17,416",41.0,+3.8
+3029,Walsall South,BRX,Gary Hughes,"1,660",3.9,+3.9
+3030,Walsall South,LD,Paul Harris,"1,602",3.8,+2.4
+3031,Walsall South,GRN,John Macefield,634,1.5,+1.5
+3032,Walsall South,IND,Akheil Mehboob,288,0.7,+0.7
+3033,Walthamstow,LAB,Stella Creasy,"36,784",76.1,-4.5
+3034,Walthamstow,CON,Shade Adoh,"5,922",12.3,-1.8
+3035,Walthamstow,LD,Meera Chadha,"2,874",5.9,+3.1
+3036,Walthamstow,GRN,Andrew Johns,"1,733",3.6,+1.1
+3037,Walthamstow,BRX,Paul Campbell,768,1.6,+1.6
+3038,Walthamstow,CPA,Deborah Longe,254,0.5,+0.5
+3039,Wansbeck,LAB,Ian Lavery,"17,124",42.3,-15.1
+3040,Wansbeck,CON,Jack Gebhard,"16,310",40.3,+7.5
+3041,Wansbeck,BRX,Eden Webley,"3,141",7.8,+7.8
+3042,Wansbeck,LD,Stephen Psallidas,"2,539",6.3,+1.5
+3043,Wansbeck,GRN,Steve Leyland,"1,217",3.0,+1.3
+3044,Wansbeck,CPA,Michael Flynn,178,0.4,+0.4
+3045,Wantage,CON,David Johnston,"34,085",50.7,-3.4
+3046,Wantage,LD,Richard Benwell,"21,432",31.9,+17.4
+3047,Wantage,LAB,Jonny Roberts,"10,181",15.2,-11.7
+3048,Wantage,IND,Mark Gray,"1,475",2.2,+2.2
+3049,Warley,LAB,John Spellar,"21,901",58.8,-8.4
+3050,Warley,CON,Chandra Kanneganti,"10,390",27.9,+1.7
+3051,Warley,BRX,Michael Cooper,"2,469",6.6,+6.6
+3052,Warley,LD,Bryan Manley-Green,"1,588",4.3,+2.3
+3053,Warley,GRN,Kathryn Downs,891,2.4,+1.0
+3054,Warrington North,LAB,Charlotte Nichols,"20,611",44.2,-12.2
+3055,Warrington North,CON,Wendy Maisey,"19,102",40.9,+4.3
+3056,Warrington North,LD,David Crowther,"3,071",6.6,+4.1
+3057,Warrington North,BRX,Elizabeth Babade,"2,626",5.6,+5.6
+3058,Warrington North,GRN,Lyndsay McAteer,"1,257",2.7,+1.4
+3059,Warrington South,CON,Andy Carter,"28,187",45.5,+1.3
+3060,Warrington South,LAB,Faisal Rashid,"26,177",42.3,-6.1
+3061,Warrington South,LD,Ryan Bate,"5,732",9.3,+3.9
+3062,Warrington South,BRX,Clare Aspinall,"1,635",2.6,+2.6
+3063,Warrington South,SDP,Kevin Hickson,168,0.3,+0.3
+3064,Warwick & Leamington,LAB,Matt Western,"23,718",43.8,-2.9
+3065,Warwick & Leamington,CON,Jack Rankin,"22,929",42.3,-2.1
+3066,Warwick & Leamington,LD,Louis Adam,"4,995",9.2,+4.0
+3067,Warwick & Leamington,GRN,Jonathan Chilvers,"1,536",2.8,+0.6
+3068,Warwick & Leamington,BRX,Tim Griffiths,807,1.5,+1.5
+3069,Warwick & Leamington,IND,Bob Dhillon,153,0.3,+0.3
+3070,Warwick & Leamington,SDP,Xander Bennett,67,0.1,+0.1
+3071,Warwickshire North,CON,Craig Tracey,"30,249",65.9,+8.9
+3072,Warwickshire North,LAB,Claire Breeze,"12,293",26.8,-12.1
+3073,Warwickshire North,LD,Richard Whelan,"2,069",4.5,+2.3
+3074,Warwickshire North,GRN,James Platt,"1,303",2.8,+0.8
+3075,Washington & Sunderland West,LAB,Sharon Hodgson,"15,941",42.5,-18.2
+3076,Washington & Sunderland West,CON,Valerie Allen,"12,218",32.6,+3.7
+3077,Washington & Sunderland West,BRX,Howard Brown,"5,439",14.5,+14.5
+3078,Washington & Sunderland West,LD,Carlton West,"2,071",5.5,+3.2
+3079,Washington & Sunderland West,GRN,Michal Chantkowski,"1,005",2.7,+1.4
+3080,Washington & Sunderland West,UKIP,Keith Jenkins,839,2.2,-4.6
+3081,Watford,CON,Dean Russell,"26,421",45.5,-0.1
+3082,Watford,LAB,Chris Ostrowski,"21,988",37.9,-4.2
+3083,Watford,LD,Ian Stotesbury,"9,323",16.1,+7.0
+3084,Watford,SDP,Michael McGetrick,333,0.6,+0.6
+3085,Waveney,CON,Peter Aldous,"31,778",62.2,+7.8
+3086,Waveney,LAB,Sonia Barker,"13,776",26.9,-9.9
+3087,Waveney,GRN,Elfrede Brambley-Crawshaw,"2,727",5.3,+2.8
+3088,Waveney,LD,Helen Korfanty,"2,603",5.1,+3.2
+3089,Waveney,CPA,Dave Brennan,245,0.5,+0.5
+3090,Wealden,CON,Nus Ghani,"37,043",60.8,-0.4
+3091,Wealden,LD,Chris Bowers,"11,388",18.7,+8.3
+3092,Wealden,LAB,Angie Smith,"9,377",15.4,-6.8
+3093,Wealden,GRN,Georgia Taylor,"3,099",5.1,+1.8
+3094,Weaver Vale,LAB,Mike Amesbury,"22,772",44.9,-6.6
+3095,Weaver Vale,CON,Adam Wordsworth,"22,210",43.8,+0.1
+3096,Weaver Vale,LD,Daniela Parker,"3,300",6.5,+3.3
+3097,Weaver Vale,BRX,Nicholas Goulding,"1,380",2.7,+2.7
+3098,Weaver Vale,GRN,Paul Bowers,"1,051",2.1,+0.5
+3099,Wellingborough,CON,Peter Bone,"32,277",62.2,+4.7
+3100,Wellingborough,LAB,Andrea Watts,"13,737",26.5,-7.6
+3101,Wellingborough,LD,Suzanna Austin,"4,078",7.9,+4.5
+3102,Wellingborough,GRN,Marion Turner-Hawes,"1,821",3.5,+1.7
+3103,Wells,CON,James Heappey,"33,336",54.1,+4.0
+3104,Wells,LD,Tessa Munt,"23,345",37.9,+0.3
+3105,Wells,LAB,Kama McKenzie,"4,304",7.0,-4.7
+3106,Wells,IND,Dave Dobbs,373,0.6,+0.6
+3107,Wells,MTHR,Susie Quatermass,207,0.3,+0.3
+3108,Welwyn Hatfield,CON,Grant Shapps,"27,394",52.6,+1.6
+3109,Welwyn Hatfield,LAB,Rosie Newbigging,"16,439",31.6,-5.2
+3110,Welwyn Hatfield,LD,Paul Zukowskyj,"6,602",12.7,+5.3
+3111,Welwyn Hatfield,GRN,Oliver Sayers,"1,618",3.1,+1.5
+3112,Wentworth & Dearne,LAB,John Healey,"16,742",40.3,-24.7
+3113,Wentworth & Dearne,CON,Emily Barley,"14,577",35.1,+3.8
+3114,Wentworth & Dearne,BRX,Stephen Cavell,"7,019",16.9,+16.9
+3115,Wentworth & Dearne,LD,Janice Middleton,"1,705",4.1,+0.3
+3116,Wentworth & Dearne,YRKS,Lucy Brown,"1,201",2.9,+2.9
+3117,Wentworth & Dearne,SDP,David Bettney,313,0.8,+0.8
+3118,West Bromwich East,CON,Nicola Richards,"16,804",46.7,+8.5
+3119,West Bromwich East,LAB,Ibrahim Dogus,"15,211",42.3,-15.7
+3120,West Bromwich East,BRX,Christian Lucas,"1,475",4.1,+4.1
+3121,West Bromwich East,LD,Andy Graham,"1,313",3.6,+2.1
+3122,West Bromwich East,GRN,Mark Redding,627,1.7,+0.4
+3123,West Bromwich East,IND,George Galloway,489,1.4,+1.4
+3124,West Bromwich East,YESH,Colin Rankine,56,0.2,+0.2
+3125,West Bromwich West,CON,Shaun Bailey,"17,419",50.5,+10.9
+3126,West Bromwich West,LAB,James Cunningham,"13,620",39.5,-12.5
+3127,West Bromwich West,BRX,Franco D'Aulerio,"1,841",5.3,+5.3
+3128,West Bromwich West,LD,Flo Clucas,915,2.7,+1.7
+3129,West Bromwich West,GRN,Keir Williams,664,1.9,+1.0
+3130,West Ham,LAB,Lyn Brown,"42,181",70.1,-6.7
+3131,West Ham,CON,Sara Kumar,"9,793",16.3,+0.1
+3132,West Ham,LD,Eimear O'Casey,"4,161",6.9,+3.9
+3133,West Ham,GRN,Danny Keeling,"1,780",3.0,+1.4
+3134,West Ham,BRX,Emma Stockdale,"1,679",2.8,+2.8
+3135,West Ham,CPA,Paul Jobson,463,0.8,+0.2
+3136,West Ham,CMU,Humera Kamran,143,0.2,+0.2
+3137,West Tyrone,SF,Órfhlaith Begley,"16,544",40.2,-10.6
+3138,West Tyrone,DUP,Thomas Buchanan,"9,066",22.0,-4.9
+3139,West Tyrone,SDLP,Daniel McCrossan,"7,330",17.8,+4.8
+3140,West Tyrone,APNI,Stephen Donnelly,"3,979",9.7,+7.4
+3141,West Tyrone,UUP,Andy McKane,"2,774",6.7,+1.6
+3142,West Tyrone,AONT,James Hope,972,2.4,+2.4
+3143,West Tyrone,GRN,Susan Glass,521,1.3,+0.3
+3144,Westminster North,LAB,Karen Buck,"23,240",54.2,-5.7
+3145,Westminster North,CON,Jamie Macfarlane,"12,481",29.1,-4.2
+3146,Westminster North,LD,George Lee,"5,593",13.0,+7.8
+3147,Westminster North,GRN,Holly Robinson,"1,064",2.5,+1.1
+3148,Westminster North,BRX,Cyrus Parvin,418,1.0,+1.0
+3149,Westminster North,CPA,Gabriela Fajardo Palacios,115,0.3,+0.3
+3150,Westmorland & Lonsdale,LD,Tim Farron,"25,795",48.9,+3.1
+3151,Westmorland & Lonsdale,CON,James Airey,"23,861",45.3,+0.9
+3152,Westmorland & Lonsdale,LAB,Phillip Black,"2,293",4.4,-4.9
+3153,Westmorland & Lonsdale,BRX,Steven Bolton,763,1.4,+1.4
+3154,Weston-Super-Mare,CON,John Penrose,"31,983",57.5,+4.4
+3155,Weston-Super-Mare,LAB,Tim Taylor,"14,862",26.7,-6.0
+3156,Weston-Super-Mare,LD,Patrick Keating,"6,935",12.5,+3.3
+3157,Weston-Super-Mare,GRN,Suneil Basu,"1,834",3.3,+1.7
+3158,Wigan,LAB,Lisa Nandy,"21,042",46.7,-15.5
+3159,Wigan,CON,Ashley Williams,"14,314",31.8,+3.3
+3160,Wigan,BRX,William Malloy,"5,959",13.2,+13.2
+3161,Wigan,LD,Stuart Thomas,"2,428",5.4,+3.5
+3162,Wigan,GRN,Peter Jacobs,"1,299",2.9,+1.3
+3163,Wiltshire North,CON,James Gray,"32,373",59.1,-1.2
+3164,Wiltshire North,LD,Brian Mathew,"14,747",26.9,+9.2
+3165,Wiltshire North,LAB,Jon Fisher,"5,699",10.4,-7.1
+3166,Wiltshire North,GRN,Bonnie Jackson,"1,939",3.5,+1.4
+3167,Wiltshire South West,CON,Andrew Murrison,"33,038",60.2,+0.2
+3168,Wiltshire South West,LAB,Emily Pomroy-Smith,"11,408",20.8,-5.7
+3169,Wiltshire South West,LD,Ellen Nicholson,"8,015",14.6,+4.8
+3170,Wiltshire South West,GRN,Julie Phillips,"2,434",4.4,+1.8
+3171,Wimbledon,CON,Stephen Hammond,"20,373",38.4,-8.1
+3172,Wimbledon,LD,Paul Kohler,"19,745",37.2,+22.7
+3173,Wimbledon,LAB,Jackie Schneider,"12,543",23.7,-11.9
+3174,Wimbledon,IND,Graham Hadley,366,0.7,+0.7
+3175,Winchester,CON,Steve Brine,"28,430",48.3,-3.7
+3176,Winchester,LD,Paula Ferguson,"27,445",46.6,+12.1
+3177,Winchester,LAB,George Baker,"2,723",4.6,-5.9
+3178,Winchester,JACP,Teresa Skelton,292,0.5,+0.2
+3179,Windsor,CON,Adam Afriyie,"31,501",58.6,-5.8
+3180,Windsor,LD,Julian Tisi,"11,422",21.3,+11.2
+3181,Windsor,LAB,Peter Shearman,"8,147",15.2,-7.7
+3182,Windsor,GRN,Fintan McKeown,"1,796",3.3,+0.7
+3183,Windsor,IND,David Buckley,508,0.9,+0.9
+3184,Windsor,IND,Wisdom Da Costa,376,0.7,+0.7
+3185,Wirral South,LAB,Alison McGovern,"22,284",51.2,-6.1
+3186,Wirral South,CON,Stewart Gardiner,"16,179",37.2,-1.7
+3187,Wirral South,LD,Christopher Carubia,"2,917",6.7,+3.8
+3188,Wirral South,BRX,Martin Waring,"1,219",2.8,+2.8
+3189,Wirral South,GRN,Harry Gorman,948,2.2,+1.2
+3190,Wirral West,LAB,Margaret Greenwood,"20,695",48.2,-6.1
+3191,Wirral West,CON,Laura Evans,"17,692",41.2,-0.9
+3192,Wirral West,LD,Andy Corkhill,"2,706",6.3,+3.7
+3193,Wirral West,GRN,John Coyne,965,2.2,+1.3
+3194,Wirral West,BRX,John Kelly,860,2.0,+2.0
+3195,Witham,CON,Priti Patel,"32,876",66.6,+2.3
+3196,Witham,LAB,Martin Edobor,"8,794",17.8,-8.6
+3197,Witham,LD,Sam North,"4,584",9.3,+3.8
+3198,Witham,GRN,James Abbott,"3,090",6.3,+2.5
+3199,Witney,CON,Robert Courts,"33,856",55.2,-0.3
+3200,Witney,LD,Charlotte Hoagland,"18,679",30.5,+10.0
+3201,Witney,LAB,Rosa Bolger,"8,770",14.3,-6.4
+3202,Woking,CON,Jonathan Lord,"26,396",48.9,-5.2
+3203,Woking,LD,Will Forster,"16,629",30.8,+13.3
+3204,Woking,LAB,Gerry Mitchell,"8,827",16.4,-7.5
+3205,Woking,GRN,Ella Walding,"1,485",2.8,+0.8
+3206,Woking,UKIP,Troy De Leon,600,1.1,-1.0
+3207,Wokingham,CON,John Redwood,"30,734",49.6,-7.1
+3208,Wokingham,LD,Phillip Lee,"23,351",37.7,+21.7
+3209,Wokingham,LAB,Annette Medhurst,"6,450",10.4,-14.7
+3210,Wokingham,GRN,Kizzi Johannessen,"1,382",2.2,-0.1
+3211,Wokingham,ADV,Annabel Mullin,80,0.1,+0.1
+3212,Wolverhampton North East,CON,Jane Stevenson,"17,722",51.7,+11.4
+3213,Wolverhampton North East,LAB,Emma Reynolds,"13,642",39.8,-13.0
+3214,Wolverhampton North East,BRX,Vishal Khatri,"1,354",3.9,+3.9
+3215,Wolverhampton North East,LD,Richard Maxwell,960,2.8,+1.2
+3216,Wolverhampton North East,GRN,Andrea Cantrill,603,1.8,+0.4
+3217,Wolverhampton South East,LAB,Pat McFadden,"15,522",46.4,-11.8
+3218,Wolverhampton South East,CON,Ahmed Ejaz,"14,287",42.7,+8.0
+3219,Wolverhampton South East,BRX,Raj Chaggar,"2,094",6.3,+6.3
+3220,Wolverhampton South East,LD,Ruth Coleman-Taylor,"1,019",3.0,+1.8
+3221,Wolverhampton South East,GRN,Kathryn Gilbert,521,1.6,+0.4
+3222,Wolverhampton South West,CON,Stuart Anderson,"19,864",48.3,+4.1
+3223,Wolverhampton South West,LAB,Eleanor Smith,"18,203",44.3,-5.1
+3224,Wolverhampton South West,LD,Bart Ricketts,"2,041",5.0,+3.1
+3225,Wolverhampton South West,BRX,Leo Grandison,"1,028",2.5,+2.5
+3226,Worcester,CON,Robin Walker,"25,856",50.8,+2.7
+3227,Worcester,LAB,Lynn Denham,"19,098",37.5,-5.7
+3228,Worcester,LD,Stephen Kearney,"3,666",7.2,+3.8
+3229,Worcester,GRN,Louis Stephen,"1,694",3.3,+1.0
+3230,Worcester,IND,Martin Potter,584,1.1,+1.1
+3231,Worcestershire Mid,CON,Nigel Huddleston,"37,426",66.7,+1.4
+3232,Worcestershire Mid,LAB,Helen Russell,"9,408",16.8,-6.2
+3233,Worcestershire Mid,LD,Margaret Rowley,"6,474",11.5,+5.3
+3234,Worcestershire Mid,GRN,Sue Howarth,"2,177",3.9,+1.4
+3235,Worcestershire Mid,MRLP,Barmy Brockman,638,1.1,+1.1
+3236,Worcestershire West,CON,Harriett Baldwin,"34,909",60.7,-0.8
+3237,Worcestershire West,LD,Beverley Nielsen,"10,410",18.1,+8.7
+3238,Worcestershire West,LAB,Samantha Charles,"9,496",16.5,-7.2
+3239,Worcestershire West,GRN,Martin Allen,"2,715",4.7,+1.9
+3240,Workington,CON,Mark Jenkinson,"20,488",49.3,+7.5
+3241,Workington,LAB,Sue Hayman,"16,312",39.2,-11.9
+3242,Workington,BRX,David Walker,"1,749",4.2,+4.2
+3243,Workington,LD,Neil Hughes,"1,525",3.7,+0.9
+3244,Workington,IND,Nicky Cockburn,842,2.0,+2.0
+3245,Workington,GRN,Jill Perry,596,1.4,+1.4
+3246,Workington,IND,Roy Ivinson,87,0.2,+0.2
+3247,Worsley & Eccles South,LAB,Barbara Keeley,"20,446",45.7,-11.3
+3248,Worsley & Eccles South,CON,Arnie Saunders,"17,227",38.5,-0.2
+3249,Worsley & Eccles South,BRX,Seamus Martin,"3,224",7.2,+7.2
+3250,Worsley & Eccles South,LD,Joe Johnson-Tod,"2,510",5.6,+3.2
+3251,Worsley & Eccles South,GRN,Daniel Towers,"1,300",2.9,+1.1
+3252,Worthing East & Shoreham,CON,Tim Loughton,"27,104",51.0,+2.1
+3253,Worthing East & Shoreham,LAB,Lavinia O'Connor,"19,663",37.0,-2.3
+3254,Worthing East & Shoreham,LD,Ashley Ridley,"4,127",7.8,+3.0
+3255,Worthing East & Shoreham,GRN,Leslie Groves Williams,"2,006",3.8,+1.4
+3256,Worthing East & Shoreham,IND,Sophie Cook,255,0.5,+0.5
+3257,Worthing West,CON,Peter Bottomley,"30,475",55.8,+0.4
+3258,Worthing West,LAB,Beccy Cooper,"15,652",28.6,-4.6
+3259,Worthing West,LD,Jamie Bennett,"6,024",11.0,+5.6
+3260,Worthing West,GRN,Jo Paul,"2,008",3.7,+0.7
+3261,Worthing West,IND,David Aherne,489,0.9,+0.9
+3262,"Wrekin, The",CON,Mark Pritchard,"31,029",63.5,+8.0
+3263,"Wrekin, The",LAB,Dylan Harrison,"12,303",25.2,-11.0
+3264,"Wrekin, The",LD,Thomas Janke,"4,067",8.3,+5.6
+3265,"Wrekin, The",GRN,Tim Dawes,"1,491",3.0,+1.4
+3266,Wrexham,CON,Sarah Atherton,"15,199",45.3,+1.7
+3267,Wrexham,LAB,Mary Wimbury,"13,068",39.0,-9.9
+3268,Wrexham,PC,Carrie Harper,"2,151",6.4,+1.4
+3269,Wrexham,LD,Tim Sly,"1,447",4.3,+1.9
+3270,Wrexham,BRX,Ian Berkeley-Hurst,"1,222",3.6,+3.6
+3271,Wrexham,GRN,Duncan Rees,445,1.3,+1.3
+3272,Wycombe,CON,Steve Baker,"24,766",45.2,-4.8
+3273,Wycombe,LAB,Khalil Ahmed,"20,552",37.5,-0.2
+3274,Wycombe,LD,Toni Brodelle,"6,543",11.9,+4.2
+3275,Wycombe,GRN,Peter Sims,"1,454",2.7,+0.4
+3276,Wycombe,WY,Julia Wassell,926,1.7,+1.7
+3277,Wycombe,UKIP,Vijay Srao,324,0.6,-1.7
+3278,Wycombe,IND,Edmund Gemmell,191,0.3,+0.3
+3279,Wyre & Preston North,CON,Ben Wallace,"31,589",59.7,+1.4
+3280,Wyre & Preston North,LAB,Joanne Ainscough,"14,808",28.0,-7.0
+3281,Wyre & Preston North,LD,John Potter,"4,463",8.4,+3.6
+3282,Wyre & Preston North,GRN,Ruth Norbury,"1,729",3.3,+1.4
+3283,Wyre & Preston North,IND,David Ragozzino,335,0.6,+0.6
+3284,Wyre Forest,CON,Mark Garnier,"32,960",65.2,+6.8
+3285,Wyre Forest,LAB,Robin Lunn,"11,547",22.8,-9.5
+3286,Wyre Forest,LD,Shazu Miah,"4,081",8.1,+4.3
+3287,Wyre Forest,GRN,John Davis,"1,973",3.9,+1.9
+3288,Wythenshawe & Sale East,LAB,Mike Kane,"23,855",53.3,-8.9
+3289,Wythenshawe & Sale East,CON,Peter Harrop,"13,459",30.1,+0.4
+3290,Wythenshawe & Sale East,LD,Simon Lepori,"3,111",7.0,+3.7
+3291,Wythenshawe & Sale East,BRX,Julie Fousert,"2,717",6.1,+6.1
+3292,Wythenshawe & Sale East,GRN,Rob Nunney,"1,559",3.5,+2.2
+3293,Wythenshawe & Sale East,CLGB,Caroline Bellamy,58,0.1,+0.1
+3294,Yeovil,CON,Marcus Fysh,"34,588",58.4,+3.9
+3295,Yeovil,LD,Mick Clark,"18,407",31.1,+1.4
+3296,Yeovil,LAB,Terry Ledlie,"3,761",6.3,-6.1
+3297,Yeovil,GRN,Diane Wood,"1,629",2.7,+1.0
+3298,Yeovil,IND,Tony Capozzoli,689,1.2,+1.2
+3299,Yeovil,TCRP,Tom Fox,186,0.3,+0.3
+3300,Ynys Mon,CON,Virginia Crosbie,"12,959",35.5,+7.7
+3301,Ynys Mon,LAB,Mary Roberts,"10,991",30.1,-11.8
+3302,Ynys Mon,PC,Aled ap Dafydd,"10,418",28.5,+1.1
+3303,Ynys Mon,BRX,Helen Jenner,"2,184",6.0,+6.0
+3304,York Central,LAB,Rachael Maskell,"27,312",55.2,-10.0
+3305,York Central,CON,Fabia Tate,"13,767",27.8,-2.4
+3306,York Central,LD,James Blanchard,"4,149",8.4,+3.7
+3307,York Central,GRN,Tom Franklin,"2,107",4.3,+4.3
+3308,York Central,BRX,Nicholas Szkiler,"1,479",3.0,+3.0
+3309,York Central,YRKS,Andrew Snedden,557,1.1,+1.1
+3310,York Central,SDP,Andrew Dunn,134,0.3,+0.3
+3311,York Outer,CON,Julian Sturdy,"27,324",49.4,-1.8
+3312,York Outer,LAB,Anna Perrett,"17,339",31.3,-5.4
+3313,York Outer,LD,Keith Aspden,"9,992",18.1,+7.8
+3314,York Outer,IND,Scott Marmion,692,1.3,+1.3
+3315,Yorkshire East,CON,Greg Knight,"33,988",64.4,+6.1
+3316,Yorkshire East,LAB,Catherine Minnis,"11,201",21.2,-9.2
+3317,Yorkshire East,LD,Dale Needham,"4,219",8.0,+4.0
+3318,Yorkshire East,YRKS,Tim Norman,"1,686",3.2,+1.3
+3319,Yorkshire East,GRN,Mike Jackson,"1,675",3.2,+1.4
